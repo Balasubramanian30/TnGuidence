@@ -26,7 +26,12 @@ const KeyFeatures = () => {
   );
 };
 
-const HorizontalScrollCarousel = ({ cards }: { cards: any[] }) => {
+interface KeyFeatureCard {
+  title: string;
+  image: string;
+  description: string;
+}
+const HorizontalScrollCarousel = ({ cards }: { cards: KeyFeatureCard[] }) => {
   const targetRef = useRef(null);
   const { scrollYProgress } = useScroll({
     target: targetRef,
@@ -46,7 +51,7 @@ const HorizontalScrollCarousel = ({ cards }: { cards: any[] }) => {
   );
 };
 
-const Card = ({ card }: { card: any }) => (
+const Card = ({ card }: { card: KeyFeatureCard }) => (
   <div
     className="group relative h-[400px] w-[350px] overflow-hidden bg-white rounded-2xl shadow-lg flex items-center justify-center text-center p-0 transition-transform hover:scale-105"
     style={{

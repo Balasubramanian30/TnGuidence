@@ -31,7 +31,7 @@ export default function ReachOut() {
 
         {/* Experts Row */}
         <div className="flex gap-8 xl:w-2/3 justify-center">
-          {content.experts.map((expert: any, index: number) => (
+          {content.experts.map((expert: { name: string; image: string; description: string }, index: number) => (
             <motion.div
               key={index}
               className={`flex items-center bg-white rounded-full shadow-xl overflow-hidden cursor-pointer border border-[#E870AB]/30 transition-all duration-300`}
@@ -69,7 +69,7 @@ export default function ReachOut() {
                   <h4 className="text-base font-semibold text-[#5E3B83] mb-1">
                     {expert.name}
                   </h4>
-                  <p className="text-sm text-[#3A1F75] mb-2">{expert.email}</p>
+                  <p className="text-sm text-[#3A1F75] mb-2">{expert.description}</p>
                   <button className="mt-1 px-4 py-1 text-sm font-medium bg-gradient-to-r from-[#AB5799] via-[#E870AB] to-[#5E72EB] text-white rounded-full shadow hover:scale-105 transition-transform duration-200">
                     Reach Out
                   </button>
