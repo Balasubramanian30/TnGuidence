@@ -10,6 +10,7 @@ import { getLanguageContent } from '@/i18n'
 import SocialIconsFooter from '../blocks/social-icons-footer'
 import BackToTop from '../layout/back-to-top'
 import BigBody from '../text-components/big-body'
+import Link from 'next/link'
 
 // const footerLinks = [
 //     {
@@ -79,9 +80,9 @@ const Footer = () => {
                             <ul className="mt-4 space-y-2 text-sm">
                                 {section.links.map((link: string, i: number) => (
                                     <li key={i}>
-                                        <a href="#" className="hover:opacity-75 transition">
+                                        <Link href="#" className="hover:opacity-75 transition">
                                             <Body className="text-[#3A1F75]/70">{link}</Body>
-                                        </a>
+                                        </Link>
                                     </li>
                                 ))}
                             </ul>
@@ -120,9 +121,9 @@ const Footer = () => {
                     <div className="flex flex-wrap gap-4 mb-4 md:mb-0">
                         {bottomLinks.map((link: string, i: number) => (
                             <Body key={i}>
-                                <a href="#" className="hover:underline">
+                                <Link href="#" className="hover:underline">
                                     {link}
-                                </a>
+                                </Link>
                             </Body>
                         ))}
                         <Body className="!font-bold">Visitor Count: 104281692</Body>

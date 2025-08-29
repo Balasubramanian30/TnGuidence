@@ -15,6 +15,7 @@ import { getLanguageContent } from "@/i18n";
 import { Location } from "iconsax-react";
 import { IconWorld } from "@tabler/icons-react";
 import SectionTitle from "../block/section-title";
+import Link from "next/link";
 
 // Lazy load the map component to avoid SSR issues
 const TamilNaduInteractiveMap = dynamic(
@@ -57,22 +58,22 @@ const MapSection = () => {
       <AnimatedLine scrollProgress={scrollYProgress} />
 
       <div className="bg-white p-4 rounded-full flex justify-center items-center absolute bottom-32 right-10">
-        <a
+        <Link
           href="https://maps.app.goo.gl/fNm8Gji2NRtcXz1y7"
           target="_blank"
           rel="noopener noreferrer"
         >
           <IconWorld color="#3A1F73" size={32} />
-        </a>
+        </Link>
       </div>
       <div className="bg-white p-4 rounded-full flex justify-center items-center absolute bottom-10 right-10">
-        <a
+        <Link
           href="https://maps.app.goo.gl/fNm8Gji2NRtcXz1y7"
           target="_blank"
           rel="noopener noreferrer"
         >
           <Location color="#3A1F73" size={32} variant="Bold" />
-        </a>
+        </Link>
       </div>
 
       <div className="flex flex-col gap-2 mb-10 text-center justify-center items-center">

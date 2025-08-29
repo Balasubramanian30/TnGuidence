@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import {
     IconBrandFacebook,
     IconBrandTelegram,
@@ -21,9 +22,9 @@ const socialIcons = [
 const SocialIconsFooter = () => (
     <div className="flex flex-wrap lg:flex-nowrap gap-4 text-[#3A1F75]">
         {socialIcons.map((platform, idx) => (
-            <a href="#" key={idx} className="hover:opacity-75 bg-white p-2.5 rounded-full">
+            <Link href="#" key={idx} className="hover:opacity-75 bg-white p-2.5 rounded-full">
                 {platform.icon}
-            </a>
+            </Link>
         ))}
     </div>
 );

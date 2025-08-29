@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import {
     IconBrandFacebook,
     IconBrandTelegram,
@@ -21,9 +22,9 @@ const socialIcons = [
 const SocialIconsNavbar = () => (
     <div className="flex flex-col gap-4 text-[#3A1F75] absolute right-5 bottom-14">
         {socialIcons.map((platform, idx) => (
-            <a href="#" key={idx} className="bg-white p-2.5 hover:text-white hover:bg-[#3A1F75] rounded-full border border-[#3A1F75]/70 hover:!shadow-xl transition-all duration-300 ease-linear">
+            <Link href="#" key={idx} className="bg-white p-2.5 hover:text-white hover:bg-[#3A1F75] rounded-full border border-[#3A1F75]/70 hover:!shadow-xl transition-all duration-300 ease-linear">
                 {platform.icon}
-            </a>
+            </Link>
         ))}
     </div>
 );

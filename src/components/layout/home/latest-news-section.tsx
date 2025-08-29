@@ -96,13 +96,13 @@ const LatestNews = () => {
             </CaptionLG>
 
             <Body className="flex justify-center items-center text-center underline">
-              <a
+              <Link
                 className="twitter-timeline"
                 href={content.live_tweets_section.twitter_handle_url}
                 data-height={content.live_tweets_section.embed_height || "400"}
               >
                 Tweets by Guidance_TN
-              </a>
+              </Link>
             </Body>
           </div>
         )}

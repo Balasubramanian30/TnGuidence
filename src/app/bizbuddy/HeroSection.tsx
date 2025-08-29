@@ -11,7 +11,7 @@ import Container from "@/components/constants/container";
 import PrimaryButton from "@/components/constants/primary-button";
 import Title from "@/components/text-components/Title";
 import SocialIconsNavbar from "@/components/blocks/social-icons-navbar";
-import BizVideoSection from "./AnimatedVideo";
+import Link from "next/link";
 
 const floatVariants = {
   animate: (i: number) => ({
@@ -135,7 +135,7 @@ const BizBuddy = () => {
               `Biz Buddy, the dedicated industrial help desk, resolves issues and challenges faced by investors in a time-bound and accountable manner.`}
           </Body>
 
-          <a
+          <Link
             href="https://tnbizbuddy.com/BIZBUDDY/"
             target="_blank"
             rel="noopener noreferrer"
@@ -145,7 +145,7 @@ const BizBuddy = () => {
               title={content?.Biz_Buddy || "Go To Biz Buddy"}
               className="w-fit text-center self-center z-50"
             />
-          </a>
+          </Link>
         </div>
       </div>
     </Container>
