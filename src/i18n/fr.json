@@ -1,0 +1,1468 @@
+{
+  "hero_section": {
+    "welcome": "Bienvenue à",
+    "tamilnadu": "Tamil Nadu",
+    "tagline": "Terre d’opportunités florissantes",
+      "description": "Le Tamil Nadu est votre partenaire dans le progrès, l’État le plus favorable aux affaires du pays. Il abrite plus de 130 entreprises du classement Fortune 500 et des conglomérats de premier plan",
+    "cta_button": "Partenariat avec le Tamil Nadu",
+    "scroll_down": "Faire défiler vers le bas"
+  },
+  "statistics_section": {
+    "gdp": "2e plus grand contributeur au PIB de l’Inde",
+    "export": "3e plus grand contributeur aux exportations de l’Inde",
+    "airports": "4 aéroports internationaux, 2 aéroports nationaux",
+    "ports": "4 grands ports maritimes, 18 petits ports"
+  },
+  "innovate_statistics_section": {
+    "business_friendly": "Environnement favorable aux entreprises et gouvernement de soutien.",
+    "diverse": "Main-d'œuvre diversifiée avec l'expertise requise.",
+    "fast_growing": "Accès à un marché en pleine croissance."
+  },
+  "innovation_section": {
+    "invest": "Investir",
+    "innovate": "Innover",
+    "create": "Créer",
+    "overview": "Guidance est l’agence nodale désignée par le gouvernement du Tamil Nadu pour la promotion des investissements",
+    "highlights": [
+      "Un environnement favorable aux entreprises",
+      "Un gouvernement de soutien",
+      "Une main-d'œuvre diversifiée et qualifiée",
+      "Un accès à un marché en pleine expansion"
+    ],
+    "cta_button_1": "commencez à investir maintenant",
+    "cta_button_2": "formulaire pour les nouveaux investisseurs",
+    "in_tamil_nadu": {
+      "in": "À",
+      "location": "Tamil Nadu"
+    }
+  },
+  "shape_section": {
+    "title": "Là où l'innovation façonne demain",
+    "description": "À la pointe de la recherche et du développement de pointe, le Tamil Nadu se positionne comme un phare de progrès et de créativité. Reconnu pour ses avancées technologiques et son esprit entrepreneurial, l'État attire les meilleurs talents et cultive une culture de l'innovation. Doté d’installations ultramodernes et d’un écosystème dynamique composé de startups et de géants industriels, il est la destination d’investissement la plus prisée en Inde.",
+    "cards": [
+      {
+        "title": "Le plus grand",
+        "text": "Nombre d'usines en Inde"
+      },
+      {
+        "title": "Le plus grand",
+        "text_parts": ["Chiffre d'affaires annuel du", "personnel qualifié en Inde"]
+      },
+      {
+        "title": "Le plus grand",
+        "text_parts": ["Nombre d’établissements", "d’enseignement supérieur en Inde"]
+      },
+      {
+        "text": "Nombre de brevets déposés en Inde",
+        "title_below": "Le plus grand"
+      },
+      {
+        "title": "Le plus grand",
+        "text_parts": ["Main-d'œuvre féminine dans", "les usines en Inde"]
+      },
+      {
+        "title": "Le plus grand",
+        "text": "Nombre de zones économiques spéciales (ZES) opérationnelles en Inde"
+      }
+    ]
+  },
+ "sectors_section": {
+    "title": "Secteurs",
+    "sectors": [
+      {
+        "title": "Automobile, Composants & Véhicules Électriques",
+        "stats": {
+          "left": "35%",
+          "leftLabel": "De la production indienne de composants automobiles",
+          "right": "40%",
+          "rightLabel": "Des VE vendus en Inde sont fabriqués au Tamil Nadu"
+        },
+        "description": "Le Tamil Nadu est l’un des 10 principaux pôles automobiles mondiaux, ce qui lui vaut le surnom de « Capitale automobile de l’Inde ». Le secteur automobile de l'État a commencé en 1955 avec l’installation de l’Integral Coach Factory (ICF) à Chennai, marquant le début d’un écosystème automobile prospère. Fondée en 1948, Ashok Leyland est devenue un acteur majeur, et la première usine de fabrication indienne de Hyundai, en 1998, a renforcé la position du Tamil Nadu dans cette industrie.",
+        "sector_expert": "Expert sectoriel",
+        "speaker": {
+          "name": "Prabakaran A S",
+          "email": "prabakaran@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Électronique & Semi-conducteurs",
+        "stats": {
+          "left": "30%",
+          "leftLabel": "Des exportations électroniques de l’Inde",
+          "right": "40%",
+          "rightLabel": "Des exportations de smartphones de l’Inde"
+        },
+        "description": "Le Tamil Nadu est l’un des 10 principaux pôles automobiles mondiaux, ce qui lui vaut le surnom de « Capitale automobile de l’Inde ».",
+        "sector_expert": "Expert sectoriel",
+        "speaker": {
+          "name": "Raghauv G",
+          "email": "raghauv@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Textile, Habillement & Textiles Techniques",
+        "stats": {
+          "left": "1er",
+          "leftLabel": "En production de vêtements",
+          "right": "1er",
+          "rightLabel": "En production et exportation de fils de coton"
+        },
+        "description": "Souvent surnommé le « bol de fil de l’Inde », le Tamil Nadu possède une forte présence dans le filage, le tissage artisanal, le tissage mécanique, la transformation, la maille, l’habillement et la confection. C’est le plus grand contributeur à l’industrie textile indienne, reconnu pour son savoir-faire et ses offres uniques. Le Tamil Nadu fournit des marques de renom dans le monde entier, jouant ainsi un rôle essentiel dans le paysage mondial de l’habillement.",
+        "sector_expert": "Expert sectoriel",
+         "speaker": {
+          "name": "Nandha Gopal",
+          "email": "nandha@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Technologies de l'information & Services",
+        "stats": {
+          "left": "11%",
+          "leftLabel": "De la part totale des investissements IT en Inde",
+          "right": "3e",
+          "rightLabel": "Dans les exportations de logiciels en Inde"
+        },
+        "description": "Le Tamil Nadu a été parmi les premiers États indiens à établir des politiques pour le secteur des TI et ITeS, créant ainsi un environnement propice à l’innovation et à l’expansion. Avec une base industrielle solide, une infrastructure de pointe, une connectivité fluide, une alimentation électrique fiable, des soins de santé réputés, des établissements d’enseignement prestigieux et une main-d’œuvre qualifiée, le Tamil Nadu est devenu une destination de choix pour les activités liées aux technologies de l’information.",
+        "sector_expert": "Expert sectoriel",
+        "speaker": {
+          "name": "Arun George Mathew",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Énergie Renouvelable",
+        "stats": {
+          "left": "~64GW",
+          "leftLabel": "Potentiel éolien du Tamil Nadu",
+          "right": "40%",
+          "rightLabel": "De la capacité de fabrication d’énergie renouvelable en Inde"
+        },
+        "description": "Le Tamil Nadu est un leader du secteur des énergies renouvelables en Inde, avec plus de 10 734 MW de capacité éolienne et d’importantes installations solaires, fournissant 50 % de son énergie à partir de sources renouvelables. L'État excelle également dans la fabrication d'équipements liés aux énergies renouvelables, soutenu par des politiques avant-gardistes et des partenariats avec des organisations telles que le Programme des Nations Unies pour l’environnement. Ces efforts soulignent l’engagement du Tamil Nadu à développer ses infrastructures et capacités de production d’énergie verte.",
+        "sector_expert": "Expert sectoriel",
+         "speaker": {
+          "name": "Pradeep R",
+          "email": "pradeep@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Services & Centres de R&D",
+        "stats": {
+          "left": "250+",
+          "leftLabel": "GCC présents au Tamil Nadu",
+          "right": "750+",
+          "rightLabel": "Instituts de R&D dans l'État"
+        },
+        "description": "Le Tamil Nadu est devenu un pôle majeur pour les Centres de Capacités Globales (GCC) et la R&D en Inde, accueillant plus de 250 GCC. Chennai, surnommée la capitale du SaaS, représente environ 10 % de la présence des GCC indiens. Ces centres, opérant pour de grandes multinationales, couvrent divers secteurs : TI, finance, ingénierie, santé. L'État attire de nombreuses entreprises mondiales grâce à sa main-d'œuvre qualifiée, ses infrastructures solides et ses politiques pro-entreprises.",
+        "sector_expert": "Expert sectoriel",
+       "speaker": {
+          "name": "Arun George Mathew",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Aérospatial & Défense",
+        "stats": {
+          "left": "2e",
+          "leftLabel": "Deuxième centre de lancement de satellites de l’Inde à Kulasekarapattinam",
+          "right": "Parcs dédiés",
+          "rightLabel": "Pour les entreprises du secteur aérospatial, spatial et de défense"
+        },
+        "description": "Des flottes navales de l’Empire Chola aux régiments d’infanterie les plus anciens de l’Armée indienne, le Tamil Nadu a toujours été un centre militaire. En 1910, il a accueilli le premier vol d’un biplan en Asie, suivi par la création du Madras Flying Club dans les années 1930. L’État est l’un des premiers à avoir accueilli un escadron pionnier de l’Armée de l’Air indienne. Aujourd’hui, en tant que corridor industriel de défense, il héberge des unités publiques clés telles que Armoured Vehicle Nigam Limited, Bharat Electronics, et Munitions India. Le futur centre de lancement à Kulasekarapattinam ouvrira de nouvelles opportunités aux investisseurs privés dans le secteur spatial.",
+        "sector_expert": "Expert sectoriel",
+         "speaker": {
+          "name": "Debasis Dash",
+          "email": "debasis@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Biens de consommation, Agroalimentaire & Agro-industrie",
+        "stats": {
+          "left": "10Mn",
+          "leftLabel": "Tonnes de production de céréales",
+          "right": "2e",
+          "rightLabel": "Plus grand nombre d’unités agroalimentaires en Inde"
+        },
+        "description": "Le Tamil Nadu, avec ses zones agroclimatiques variées, occupe une place importante dans le secteur agroalimentaire. L’État compte environ 24 000 PME et 1 100 unités de taille moyenne ou grande. Avec ses ressources agricoles abondantes, une demande croissante et un accès fluide aux marchés nationaux et internationaux, le Tamil Nadu se distingue dans ce secteur compétitif.",
+        "sector_expert": "Expert sectoriel",
+        "speaker": {
+          "name": "Trishya Senthil Kumar",
+          "email": "trishya@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Cuir & Chaussures",
+        "stats": {
+          "left": "29%",
+          "leftLabel": "De la production indienne de chaussures",
+          "right": "48%",
+          "rightLabel": "Des exportations indiennes de chaussures en cuir et synthétiques"
+        },
+        "description": "La tradition artisanale du cuir est profondément ancrée dans l’héritage culturel du Tamil Nadu. L’État représente plus de 60 % de la capacité de tannage de l’Inde et abrite plus de 1 650 entreprises. Leader national dans la production de cuir fini, le Tamil Nadu est également un pionnier de la mode durable, s’orientant vers les chaussures sans cuir.",
+        "sector_expert": "Expert sectoriel",
+        "speaker": {
+          "name": "Pradeep R",
+          "email": "pradeep@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Ingénierie & Biens d’équipement",
+        "stats": {
+          "left": "$40Md+",
+          "leftLabel": "Production de biens d’équipement",
+          "right": "2e",
+          "rightLabel": "En exportation de machines et d’ingénierie lourde"
+        },
+        "description": "Le Tamil Nadu est un pôle essentiel pour les fabricants mondiaux spécialisés en ingénierie de précision, ingénierie lourde et systèmes hydrauliques. Les solides capacités de production de l’État renforcent la base industrielle de l’Inde et soutiennent sa croissance économique.",
+        "sector_expert": "Expert sectoriel",
+        "speaker": {
+          "name": "Varadharaj S",
+          "email": "Varadharaj@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Parcs industriels",
+        "stats": {
+          "left": "Le plus élevé",
+          "leftLabel": "Nombre d’usines en Inde",
+          "right": "Le plus élevé",
+          "rightLabel": "Nombre de zones économiques spéciales opérationnelles"
+        },
+        "description": "Le Tamil Nadu est une destination privilégiée pour les entreprises souhaitant s’implanter en Inde. L’État propose des clusters dédiés à l’automobile, l’électronique, les TI, le textile, l’aérospatial, la transformation alimentaire et des hubs spécifiques par pays. Il offre de vastes terrains industriels, des parcs publics et privés, ainsi que des options en coentreprises, projets plug-and-play ou brownfield.",
+        "sector_expert": "Expert sectoriel",
+        "speaker": {
+          "name": "Nandha Gopal",
+          "email": "nandha@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Sciences de la Vie",
+        "stats": {
+          "left": "2,8%",
+          "leftLabel": "Part de la production nationale du secteur",
+          "right": "5e",
+          "rightLabel": "Plus grand État pharmaceutique en Inde"
+        },
+        "description": "Le Tamil Nadu a joué un rôle pionnier dans le développement de l’infrastructure de santé de l’Inde, avec son premier parc pharmaceutique établi en 1978. Aujourd’hui, l’État héberge de nombreux acteurs mondiaux dans l’industrie pharmaceutique et des dispositifs médicaux. De plus, le secteur de l’électronique médicale connaît une croissance à deux chiffres, renforçant encore son rôle de leader dans la fabrication liée aux sciences de la vie.",
+        "sector_expert": "Expert sectoriel",
+        "speaker": {
+          "name": "Aashrai Arun",
+          "email": "aashrai@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Services bancaires & financiers",
+        "stats": {
+          "left": "60%",
+          "leftLabel": "Des entreprises BFSI du Fortune 500 sont présentes au Tamil Nadu",
+          "right": "100+",
+          "rightLabel": "Startups FinTech"
+        },
+        "description": "Depuis la création de la Madras Bank en 1682, le Tamil Nadu joue un rôle central dans les services financiers. Il abrite aujourd’hui environ 15 % des opérations de Centres de Capacités Globales BFSI en Inde, soulignant son évolution en un pôle de finance et technologie mondial.",
+      "sector_expert": "Expert sectoriel",
+        "speaker": {
+          "name": "Arun George Mathew",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+    },
+      {
+        "title": "Chimie & Pétrochimie",
+        "stats": {
+          "left": "2600+",
+          "leftLabel": "Unités de production chimique",
+          "right": "$3,4Md",
+          "rightLabel": "Exportations de produits chimiques (année 2023–24)"
+        },
+        "description": "Le secteur de la chimie et de la pétrochimie du Tamil Nadu est un pilier important de sa croissance industrielle. Il couvre les sous-secteurs tels que la pétrochimie, la pharmacie, les produits agrochimiques, les produits chimiques de spécialité et les produits chimiques textiles. Grâce à un environnement propice, un emplacement stratégique et une main-d’œuvre qualifiée, l’État est devenu un pôle chimique clé en Inde.",
+        "sector_expert": "Expert sectoriel",
+        "speaker": {
+          "name": "Raghauv G",
+          "email": "raghauv@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "Tourisme & Hôtellerie",
+        "stats": {
+          "left": "200M+",
+          "leftLabel": "Touristes nationaux par an",
+          "right": "4M+",
+          "rightLabel": "Touristes étrangers par an"
+        },
+        "description": "Berceau de l’une des plus anciennes civilisations du monde, le Tamil Nadu offre une riche diversité géographique, culturelle, ethnique et historique. Chaque ville et village révèle une facette unique de cette culture vivante : temples majestueux, musique et danses ancestrales, plages immaculées et paysages luxuriants. Sa cuisine savoureuse, son artisanat raffiné et l’hospitalité de sa population font du Tamil Nadu une destination privilégiée. À cela s’ajoutent un tourisme médical en plein essor, des attractions célèbres et un développement industriel rapide, attirant les grandes marques mondiales de l’hôtellerie.",
+        "sector_expert": "Expert sectoriel",
+        "speaker": {
+          "name": "Prabakaran A S",
+          "email": "prabakaran@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "Voir plus dans ce secteur",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      }
+    ]
+  },
+   "map_section": {
+        "title": "Explorez le Tamil Nadu",
+        "description": "L’engagement du Tamil Nadu envers les affaires a conduit à une solide infrastructure publique, dans les domaines de la connectivité, de l’eau, de l’électricité, et des télécommunications. Cela a permis de maintenir des chaînes d’approvisionnement et des canaux intacts, ainsi que de développer le capital humain et social, en phase avec le paysage économique en constante évolution.",
+        "explore_district_btn": "Explorer",
+        "view_all_btn": "Voir tous les districts",
+        "district_btn": "District",
+        "airports_btn": "Aéroports",
+        "seaports_btn": "Ports maritimes",
+        "highways_btn": "Autoroutes",
+        "industries_btn": "Industries",
+        "telecom_btn": "Télécommunications",
+
+        "districts": {
+            "Krishnagiri": {
+                "title": "Krishnagiri",
+                "description": "L’économie de Krishnagiri est portée par une industrie automobile florissante. Entourée de collines pittoresques et bordée par Vellore, Thiruvannamalai, le Karnataka et l’Andhra Pradesh, sa position stratégique près de Bangalore alimente la croissance industrielle rapide de Hosur.",
+                "stats": {
+                    "Superficie": "5143 km²",
+                    "Population": "18,83,731",
+                    "Taux d'alphabétisation": "71,46 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Bengaluru"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Krishnagiri et Gare de Bengaluru"
+                    }
+                ]
+            },
+            "Nilgiris": {
+                "title": "Nilgiris",
+                "description": "Les Nilgiris, surnommés la « Reine des Collines », sont un paradis touristique et abritent des communautés tribales. Leur économie repose sur l’horticulture — pommes de terre, thé, café, épices et fruits — ainsi que sur des unités de transformation du thé, du café et du poivre.",
+                "stats": {
+                    "Superficie": "2452,5 km²",
+                    "Population": "7,35,394",
+                    "Taux d'alphabétisation": "85,2 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Coimbatore"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare d'Udhagamandalam et Gare de Coimbatore"
+                    }
+                ]
+            },
+            "Virudhunagar": {
+                "title": "Virudhunagar",
+                "description": "Virudhunagar est un centre logistique clé pour l’industrie et l’agriculture, produisant plus de 70 % des allumettes et feux d’artifice de l’Inde. Bordée par plusieurs districts et par le Kerala, elle est leader dans les secteurs des allumettes, des feux d’artifice et de l’imprimerie. Le coton est une culture majeure, avec Rajapalayam comme principal centre de filature et d’égrenage.",
+                "stats": {
+                    "Superficie": "4288 km²",
+                    "Population": "19,42,288",
+                    "Taux d'alphabétisation": "80,15 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Madurai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Virudunagar et Gare de Madurai"
+                    }
+                ]
+            },
+            "Kanyakumari": {
+                "title": "Kanyakumari",
+  "description": "Kanyakumari, à l’extrême sud de l’Inde, est en tête du Tamil Nadu pour l’alphabétisation et l’IDH, tout en se classant deuxième en densité de population. Bordée par Tirunelveli, le Kerala et trois étendues d’eau, sa géographie unique et sa riche culture en font une destination touristique de premier plan.",
+                "stats": {
+                    "Superficie": "1672 km²",
+                    "Population": "18,70,374",
+                    "Taux d'alphabétisation": "91,75 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Thiruvananthapuram"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Kanyakumari"
+                    }
+                ]
+            },
+            "Coimbatore": {
+                "title": "Coimbatore",
+  "description": "Coimbatore, deuxième plus grande ville du Tamil Nadu, est un centre d’éducation et de PME, contribuant à hauteur de 7 % au PIB de l’État. Centre logistique clé pour l’industrie, l’agriculture et le tourisme, elle relie les Nilgiris, Idukki et le Kerala. Bordée par Tiruppur, Erode et les Ghâts occidentaux, elle est le premier producteur indien de pompes et de moulins humides, ce qui lui vaut le surnom de « Ville des Pompes ».",
+                "stats": {
+                    "Superficie": "4723 km²",
+                    "Population": "34,58,045",
+                    "Taux d'alphabétisation": "83,98 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Coimbatore"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Coimbatore"
+                    }
+                ]
+            },
+            "Cuddalore": {
+                "title": "Cuddalore",
+  "description": "Cuddalore, district côtier, est connu pour la céramique, la transformation de noix de cajou et la production d’huile. Bordé par Viluppuram, Nagapattinam et Perambalur, c’est un important centre de pêche avec une grande communauté de pêcheurs. Son complexe industriel abrite de nombreuses entreprises chimiques, biotechnologiques, pharmaceutiques et d’engrais.",
+                "stats": {
+                    "Superficie": "3678 km²",
+                    "Population": "26,05,914",
+                    "Taux d'alphabétisation": "78,04 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Cuddalore"
+                    }
+                ]
+            },
+            "Karur": {
+                "title": "Karur",
+  "description": "Karur, situé au centre du Tamil Nadu, est bordé par les districts de Namakkal, Dindigul, Tiruchirappalli, Erode et Tiruppur. C’est un centre industriel prospère, réputé pour ses textiles de maison, sa construction de carrosseries d’autobus et sa production de papier. Plus de 30 % de sa main-d'œuvre est employée dans le secteur manufacturier.",
+                "stats": {
+                    "Superficie": "2895,57 km²",
+                    "Population": "10,64,493",
+                    "Taux d'alphabétisation": "75,6 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Coimbatore et Aéroport international de Tiruchirapalli"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Cuddalore et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Karur"
+                    }
+                ]
+            },
+            "Tiruppur": {
+                "title": "Tiruppur",
+"description": "Tiruppur, la 'capitale de la maille' de l'Inde, connaît une croissance démographique et économique rapide. Grand centre textile mondial, il fournit des vêtements aux plus grands détaillants. Le district est limitrophe de Coimbatore, Erode, Karur et Dindigul. La rivière Noyyal, un affluent de la Cauvery, soutient ses industries florissantes de tricot et de teinture.",
+                "stats": {
+                    "Superficie": "5186,34 km²",
+                    "Population": "24,79,052",
+                    "Taux d'alphabétisation": "78,68 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Coimbatore"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Tiruppur"
+                    }
+                ]
+            },
+            "Nagapattinam": {
+                "title": "Nagapattinam",
+"description": "Nagapattinam, un district côtier du Tamil Nadu, vit de la pêche, du tourisme et de l’agriculture. Bordé par le golfe du Bengale, le détroit de Palk, Tiruvarur et Puducherry, il fut autrefois un important centre commercial avec les nations orientales. Le marais salant de Vedaranyam, s'étendant depuis Point Calimere, est le plus long de l'État.",
+                "stats": {
+                    "Superficie": "2715,83 km²",
+                    "Population": "16,16,450",
+                    "Taux d'alphabétisation": "83,59 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Tiruchirappalli"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Cuddalore et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Nagapattinam"
+                    }
+                ]
+            },
+            "Theni": {
+                "title": "Theni",
+"description": "Theni, surnommée la 'Ville de la Cardamome', est un important centre de commerce de la cardamome. Elle est bordée par Dindigul, Madurai, Virudhunagar et le Kerala. Le district possède une industrie textile florissante et abrite la vallée de Cumbum, une région clé pour la culture du raisin.",
+                "stats": {
+                    "Superficie": "3066 km²",
+                    "Population": "12,45,899",
+                    "Taux d'alphabétisation": "77,26 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Madurai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Bodinayakkanur et Gare de Madurai"
+                    }
+                ]
+            },
+            "Tirunelveli": {
+                "title": "Tirunelveli",
+"description": "Tirunelveli est unique au Tamil Nadu, s'étendant des Ghâts occidentaux jusqu'à la côte, avec des cascades et des sanctuaires de faune. La rivière Tamiraparani soutient la région, tandis que l'ELCOT IT Park de Gangakondan stimule le secteur des services. Les industries du ciment prospèrent grâce aux gisements de calcaire. Le district est bordé par le Kerala, le golfe de Mannar, ainsi que par les districts de Virudhunagar, Thoothukudi et Kanniyakumari.",
+                "stats": {
+                    "Superficie": "3842,37 km²",
+                    "Population": "16,65,253",
+                    "Taux d'alphabétisation": "82,5 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport domestique de Thoothukudi et Aéroport international de Madurai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Tirunelveli"
+                    }
+                ]
+            },
+            "Kallakurichi": {
+                "title": "Kallakurichi",
+"description": "Kallakurichi, la 'maison de l'agriculture', est un centre de transformation du riz. Il borde Viluppuram, Cuddalore & Perambalur, Salem, ainsi que Thiruvannamalai & Dharmapuri. Les industries clés comprennent le textile, la joaillerie et les aliments agricoles.",
+                "stats": {
+                    "Superficie": "3520,37 km²",
+                    "Population": "13,70,281",
+                    "Taux d'alphabétisation": "63,49 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Chinnaselam"
+                    }
+                ]
+            },
+            "Pudukottai": {
+                "title": "Pudukottai",
+"description": "Pudukottai, un ancien état princier, possède un riche héritage culturel avec des forts, des temples et de l'art rupestre. Bordé par le golfe du Bengale, Trichy, Sivagangai, Ramanathapuram et Thanjavur, il dispose de ressources naturelles abondantes. Le district comprend des zones industrielles à Machuvadi, Mathur et Vallanur.",
+                "stats": {
+                    "Superficie": "4663 km²",
+                    "Population": "16,18,345",
+                    "Taux d'alphabétisation": "77,19 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Tiruchirappalli"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Cuddalore et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Pudukottai"
+                    }
+                ]
+            },
+            "Sivagangai": {
+                "title": "Sivagangai",
+"description": "Sivagangai est célèbre pour sa cuisine épicée Chettinad. Son sol noir soutient l'agriculture, principale source de subsistance. Les industries incluent des sucreries et des fermes d'énergie renouvelable. Le district borde Pudukkottai, Tiruchirapalli, Ramanathapuram, Virudhunagar et Madurai.",
+                "stats": {
+                    "Superficie": "4086 km²",
+                    "Population": "13,39,101",
+                    "Taux d'alphabétisation": "79,85 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Madurai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Sivagangai et Gare de Madurai"
+                    }
+                ]
+            },
+            "Namakkal": {
+                "title": "Namakkal",
+"description": "Namakkal, la 'Ville des Transports' de l'Inde, est réputée pour son industrie de construction de carrosseries de camions, vitale pour la logistique nationale. Bordé par Salem, Karur, Trichy et Erode, c’est aussi un important producteur d'œufs dans le sud de l’Inde.",
+                "stats": {
+                    "Superficie": "3368,21 km²",
+                    "Population": "17,26,601",
+                    "Taux d'alphabétisation": "74,63 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport domestique de Salem"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Cuddalore et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Namakkal"
+                    }
+                ]
+            },
+            "Perambalur": {
+                "title": "Perambalur",
+"description": "Perambalur, un district sans littoral, contient des fossiles marins vieux de 416 millions d'années. Il est bordé par Kallakurichi, Tiruchirappalli, Ariyalur et Salem. Il est leader au Tamil Nadu dans la production de maïs et d'oignons. La zone industrielle TANSIDCO abrite de grandes unités de fabrication.",
+                "stats": {
+                    "Superficie": "1757 km²",
+                    "Population": "5,65,223",
+                    "Taux d'alphabétisation": "74,32 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport domestique de Salem"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare d'Ariyalur"
+                    }
+                ]
+            },
+            "Thanjavur": {
+                "title": "Thanjavur",
+"description": "Thanjavur, 'le grenier du sud de l'Inde', est un important centre de riz, bordé par la rivière Coloroon, Thiruvarur, le détroit de Palk et Pudukottai. Réputé pour ses arts ruraux — comme la poupée de Thanjavur, les peintures et les instruments de musique — il bénéficie d'une demande mondiale.",
+                "stats": {
+                    "Superficie": "3396,57 km²",
+                    "Population": "24,05,890",
+                    "Taux d'alphabétisation": "82,64 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Tiruchirappalli"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Cuddalore et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Thanjavur"
+                    }
+                ]
+            },
+            "Ariyalur": {
+                "title": "Ariyalur",
+"description": "Ariyalur, riche en minéraux comme le calcaire et le schiste, est un centre industriel du ciment. Limitrophe de Cuddalore, Thanjavur, Perambalur et Mayiladuthurai. 59 % de sa main-d'œuvre travaille dans l'agriculture. Le district abrite également de nombreuses unités de transformation alimentaire dans son complexe industriel.",
+                "stats": {
+                    "Superficie": "1940 km²",
+                    "Population": "7,54,894",
+                    "Taux d'alphabétisation": "71,34 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Trichy"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare d'Ariyalur"
+                    }
+                ]
+            },
+            "Viluppuram": {
+                "title": "Viluppuram",
+"description": "Viluppuram, le 'Bol à sucre du Tamil Nadu', prospère grâce aux agro-industries telles que les moulins à riz et à sucre. Avec 2,9 millions d'habitants ruraux — la plus grande population de l'État — il borde le golfe du Bengale, Puducherry, Kancheepuram, Cuddalore et Dharmapuri. À proximité, Auroville, une ville expérimentale, accueille 170 entreprises sociales employant 5 000 habitants locaux.",
+                "stats": {
+                    "Superficie": "3725,54 km²",
+                    "Population": "34,58,873",
+                    "Taux d'alphabétisation": "71,88 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Viluppuram"
+                    }
+                ]
+            },
+            "Chengalpattu": {
+                "title": "Chengalpattu",
+"description": "Chengalpattu, un district nouvellement formé sur la côte nord-est du Tamil Nadu, possède une beauté naturelle remarquable. Il borde Chennai, Kancheepuram, Tiruvannamalai et Viluppuram. Il abrite le deuxième plus grand lac de l'État, Maduranthakam, qui s'étend sur 2 400 acres, ainsi que le célèbre temple du rivage de Mahabalipuram. Il comprend également un corridor informatique le long de l'Old Mahabalipuram Road accueillant de grandes entreprises technologiques, ainsi qu'un centre florissant de fabrication automobile.",
+                "stats": {
+                    "Superficie": "2944,96 km²",
+                    "Population": "25,56,244",
+                    "Taux d'alphabétisation": "91,88 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port d'Ennore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Chengalpattu"
+                    }
+                ]
+            },
+            "Thiruvallur": {
+                "title": "Thiruvallur",
+"description": "Thiruvallur revêt une importance industrielle, bordant Kanchipuram, Ranipet, Chennai et Andhra Pradesh. Il abrite de grandes usines, la centrale thermique d'Ennore, l'usine de chars d'Avadi, des établissements académiques et des temples, renforçant sa valeur stratégique.",
+                "stats": {
+                    "Superficie": "3422,43 km²",
+                    "Population": "37,28,104",
+                    "Taux d'alphabétisation": "84,03 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port d'Ennore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Thiruvallur"
+                    }
+                ]
+            },
+            "Tenkasi": {
+                "title": "Tenkasi",
+"description": "Tenkasi comprend les chutes de Courtallam et borde Virudhunagar (nord), Thoothukudi (est), Tirunelveli (sud) et Kerala (ouest). Connu pour la sériciculture, les industries de la fibre de coco et des sites spirituels clés dans le sud du TN.",
+                "stats": {
+                    "Superficie": "2916,13 km²",
+                    "Population": "14,07,627",
+                    "Taux d'alphabétisation": "87,71 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport domestique de Thoothukudi et Aéroport international de Madurai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Tenkasi et Gare de Tirunelveli"
+                    }
+                ]
+            },
+            "Chennai": {
+                "title": "Chennai",
+"description": "Chennai, capitale du Tamil Nadu, est la 4e plus grande métropole d’Inde. Un important centre industriel et commercial sur la côte sud-est, elle allie une riche culture à une économie robuste. Secteurs clés : automobiles, SaaS, tourisme médical, matériel informatique, centres de données et fintech.",
+                "stats": {
+                    "Superficie": "178,2 km²",
+                    "Population": "46,46,732",
+                    "Taux d'alphabétisation": "90,18 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port d'Ennore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare centrale de Chennai"
+                    }
+                ]
+            },
+            "Madurai": {
+                "title": "Madurai",
+"description": "Madurai, une ancienne ville du sud de l'Inde, est la deuxième plus grande du Tamil Nadu en superficie et la troisième en population. Un centre industriel et touristique prospère, elle est bordée par Dindigul, Tiruchirapalli, Sivagangai, Theni et Virudhunagar. Le district est fortement urbanisé et son économie florissante repose sur le textile, la transformation alimentaire, les industries du caoutchouc et l'éducation.",
+                "stats": {
+                    "Superficie": "3741,73 km²",
+                    "Population": "30,38,252",
+                    "Taux d'alphabétisation": "83,45 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Madurai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Madurai"
+                    }
+                ]
+            },
+            "Salem": {
+                "title": "Salem",
+"description": "Salem, un paradis pour géologues, est entouré de collines et parsemé de petites collines. Il borde les districts de Dharmapuri, Erode, Namakkal, Kallakurichi et Perambalur. Connu pour la fabrication de cordes et la station estivale de Yercaud, ses mangues sont très prisées.",
+                "stats": {
+                    "Superficie": "5245 km²",
+                    "Population": "34,82,056",
+                    "Taux d'alphabétisation": "72,86 %"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport domestique de Salem et Aéroport international de Coimbatore"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Thoothukudi et Port de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Salem"
+                    }
+                ]
+            },
+            "Erode": {
+                "title": "Erode",
+"description": "Erode, partie de la région Kongu du Tamil Nadu, est un centre industriel connu pour les produits laitiers, le curcuma et les textiles issus de métiers à main, métiers à tisser mécaniques et vêtements prêts-à-porter. Il borde les districts de Karnataka, Udhagamandalam, Coimbatore, Tirupur, Karur, Namakkal et Salem.",
+                "stats": {
+                    "Superficie": "5722 km²",
+                    "Population": "22,51,744",
+                    "Taux d'alphabétisation": "72,58%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Coimbatore"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare d'Erode"
+                    }
+                ]
+            },
+            "Dindugal": {
+                "title": "Dindugal",
+"description": "Dindugal est connu pour ses serrures de sécurité, ses tanneries de cuir, le filage textile et le commerce agricole. Il borde Tiruppur, Karur, Tiruchi, Madurai, Theni et Idukki au Kerala. Les tisserands de Chinnalapatti produisent les célèbres saris en soie Sungudi, et Kodaikanal, une station de montagne populaire, se trouve dans le district.",
+                "stats": {
+                    "Superficie": "6266,64 km²",
+                    "Population": "21,59,775",
+                    "Taux d'alphabétisation": "76,26%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Madurai et Aéroport international de Tiruchirappalli"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Cuddalore et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Dindugal"
+                    }
+                ]
+            },
+            "Tiruchirapalli": {
+                "title": "Tiruchirapalli",
+"description": "Tiruchirappalli a une importance historique, culturelle et économique. C'est un nœud clé dans le Defence Industrial Corridor, abritant des entreprises publiques majeures comme BHEL, le Heavy Alloy Penetrator Project et l'Ordnance Factory. Le district compte des institutions prestigieuses telles que NIT, IIM et IIIT. Il borde Salem, Namakkal, Perambalur, Ariyalur, Thanjavur, Pudukkottai et Karur.",
+                "stats": {
+                    "Superficie": "4407 km²",
+                    "Population": "27,22,290",
+                    "Taux d'alphabétisation": "83,23%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Tiruchirappalli"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Tiruchirappalli"
+                    }
+                ]
+            },
+            "Thiruvarur": {
+                "title": "Thiruvarur",
+"description": "Thiruvarur, autrefois capitale de l'empire Chola, se trouve dans la ceinture fertile du riz au Tamil Nadu. Le district est bordé à l'est par Nagapattinam, au nord par Mayiladuthurai, à l'ouest par Thanjavur, au sud par le détroit de Palk, et au nord-est par Karaikal dans le territoire de Puducherry. Ses industries sont principalement agroalimentaires, avec une croissance récente dans l'extraction de gaz naturel et la production d'énergie.",
+                "stats": {
+                    "Superficie": "2161 km²",
+                    "Population": "12,64,277",
+                    "Taux d'alphabétisation": "82,86%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Tiruchirappalli"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Cuddalore et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Thiruvarur"
+                    }
+                ]
+            },
+            "Mayiladuthurai": {
+                "title": "Mayiladuthurai",
+"description": "Mayiladuthurai, formée à partir de Nagapattinam en 2020, borde Cuddalore, Thanjavur, Karaikal, Tiruvarur et le golfe du Bengale. Ce district côtier prospère grâce à la pêche et à l’agriculture, tout en préservant l’héritage hollandais à Tharangambadi. Il abrite également d’importants temples hindous le long de sa route religieuse.",
+                "stats": {
+                    "Superficie": "1172 km²",
+                    "Population": "918356",
+                    "Taux d'alphabétisation": "78,78%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Tiruchirappalli"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Cuddalore et Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Mayiladuthurai"
+                    }
+                ]
+            },
+            "Vellore": {
+                "title": "Vellore",
+"description": "Vellore, un important centre industriel, est célèbre pour son industrie du cuir et son fort historique. Le district comprend les collines Javadhu et affiche un taux d’alphabétisation élevé avec un système éducatif solide. Il borde Tiruvallur, Kanchipuram, Tiruvannamalai, Krishnagiri et Andhra Pradesh.",
+                "stats": {
+                    "Superficie": "2080,11 km²",
+                    "Population": "16,14,242",
+                    "Taux d'alphabétisation": "79,17%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Vellore"
+                    }
+                ]
+            },
+            "Ranipet": {
+                "title": "Ranipet",
+"description": "Ranipet est un centre industriel important dans le sud de l'Inde, partageant ses frontières avec les districts de Vellore, Kanchipuram, Tiruvannamalai et Thiruvallur. La région est spécialisée dans la fabrication de cuir, produisant du cuir fini de qualité export, des chaussures et des vêtements, tout en abritant des usines chimiques et des ateliers d’outillage.",
+                "stats": {
+                    "Superficie": "2234,32 km²",
+                    "Population": "12,10,277",
+                    "Taux d'alphabétisation": "86,08%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Ranipet"
+                    }
+                ]
+            },
+            "Tirupattur": {
+                "title": "Tirupattur",
+"description": "Tirupattur prospère en tant que centre commercial spécialisé dans le commerce de dal, jaggery, piments, coton et produits agricoles. Limitrophe de Vellore, Krishnagiri, Dharmapuri et Tiruvannamalai, il abrite des moulins à riz et des usines de beedi à Vaniyambadi. Ambur, sa zone industrielle, est spécialisée dans l'exportation de cuir comme les chaussures et vêtements.",
+                "stats": {
+                    "Superficie": "1792,92 km²",
+                    "Population": "11,11,812",
+                    "Taux d'alphabétisation": "82,17%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Bengaluru"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Tirupathur et Gare de Salem"
+                    }
+                ]
+            },
+            "Tiruvannamalai": {
+                "title": "Tiruvannamalai",
+"description": "Tiruvannamalai, un district agricole du nord du Tamil Nadu, est bordé à l'est par Kanchipuram, au sud par Viluppuram, à l'ouest par Dharmapuri et Krishnagiri, et au nord par Vellore. Le district est réputé pour la production de saris en soie d'Arani et abrite le parc industriel de Cheyyar avec des unités de fabrication majeures.",
+                "stats": {
+                    "Superficie": "6191 km²",
+                    "Population": "24,64,875",
+                    "Taux d'alphabétisation": "74,21%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Tiruvannamalai"
+                    }
+                ]
+            },
+            "Dharmapuri": {
+                "title": "Dharmapuri",
+"description": "Dharmapuri, situé dans la région du plateau nord-ouest du Tamil Nadu, borde Tiruvannamalai, Viluppuram, Karnataka, Krishnagiri et Salem. Le district abrite les chutes de Hogenakkal, souvent appelées Niagara de l'Inde, et possède d'importantes réserves de granit. Plus de la moitié de sa main-d'œuvre industrielle est engagée dans la production textile, en particulier le filage, le tissage et la finition.",
+                "stats": {
+                    "Superficie": "4497,77 km²",
+                    "Population": "5,06,843",
+                    "Taux d'alphabétisation": "68,54%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Bengaluru"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Dharmapuri"
+                    }
+                ]
+            },
+            "kancheepuram": {
+                "title": "Kancheepuram",
+"description": "Kancheepuram, la 'Ville des Mille Temples', présente une magnifique architecture dravidienne. Bordée par la baie du Bengale, Vellore, Tiruvannamalai, Tiruvallur, Chennai et Villuppuram, c'est un important centre industriel abritant des entreprises internationales. Réputée pour sa soie de qualité, les saris de Kancheepuram furent le premier produit labellisé GI en Inde.",
+                "stats": {
+                    "Superficie": "1655,94 km²",
+                    "Population": "11,66,401",
+                    "Taux d'alphabétisation": "84,49%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Chennai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Chennai et Port de Cuddalore"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Kancheepuram"
+                    }
+                ]
+            },
+            "Ramanathapuram": {
+                "title": "Ramanathapuram",
+"description": "Ramanathapuram, célèbre centre de pèlerinage du Tamil Nadu, présente le célèbre pont Pamban et une chaîne d'îles reliant au Sri Lanka. Le district est bordé par Virudhunagar, Tuticorin, Sivagangai et Pudukkottai, et abrite de grandes unités pétrolières et gazières publiques. Il est également connu pour ses piments indigènes très exportés.",
+                "stats": {
+                    "Superficie": "4068,31 km²",
+                    "Population": "13,53,445",
+                    "Taux d'alphabétisation": "80,72%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport international de Madurai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Ramanathapuram"
+                    }
+                ]
+            },
+            "Thoothukudi": {
+                "title": "Thoothukudi",
+"description": "Thoothukudi, le district le plus industrialisé du sud du Tamil Nadu, est traditionnellement appelé la Ville de la Perle pour sa pêche historique de la perle. Bordé par Virudhunagar (nord), Tirunelveli (sud/ouest) et la baie du Bengale (est), il reste un important centre maritime avec le port V.O. Chidambaranar. Il a notamment abrité la première compagnie maritime indigène d'Inde, la Swadeshi Steam Navigation Company.",
+                "stats": {
+                    "Superficie": "4621 km²",
+                    "Population": "17,50,176",
+                    "Taux d'alphabétisation": "86,16%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "Aéroport domestique de Thoothukudi et Aéroport international de Madurai"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "Port de Thoothukudi"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "Gare de Thoothukudi"
+                    }
+                ]
+            }
+        },
+        "airports": {
+            "title": "Aéroports",
+            "description": "Le Tamil Nadu dispose de plusieurs aéroports internationaux et domestiques soutenant la croissance économique et touristique.",
+            "highlights": [
+                "L'aéroport international de Chennai est l'un des plus fréquentés du sud de l'Inde.",
+                "Les aéroports de Coimbatore et Madurai assurent la connectivité régionale et nationale.",
+                "L'aéroport de Tiruchirappalli émerge comme un hub stratégique pour le fret."
+            ]
+        },
+        "seaports": {
+            "title": "Ports maritimes",
+            "description": "Le littoral du Tamil Nadu accueille des ports majeurs qui servent le commerce international et la logistique.",
+            "highlights": [
+                "Le port de Chennai est l'un des plus anciens et des plus actifs ports d'Inde.",
+                "Le port de Tuticorin gère efficacement les cargaisons en vrac.",
+                "Le port de Kamarajar (Ennore) est spécialisé dans la manutention du charbon et des automobiles."
+            ]
+        },
+        "highways": {
+            "title": "Autoroutes",
+            "description": "Un vaste réseau d'autoroutes nationales renforce la connectivité à travers le Tamil Nadu.",
+            "highlights": [
+                "La NH 44 est l'autoroute la plus longue d'Inde, passant par Madurai.",
+                "Le projet Golden Quadrilateral intègre des routes industrielles clés.",
+                "La GST Road relie la ville de Chennai aux districts du sud."
+            ]
+        },
+        "industries": {
+            "title": "Industries",
+            "description": "L'État abrite une gamme diversifiée d'industries, notamment la fabrication, les textiles et les automobiles.",
+            "highlights": [
+                "Hosur et Oragadam sont des hubs majeurs pour la production électronique et automobile.",
+                "Irungattukottai accueille de nombreuses usines internationales dans les zones SIPCOT.",
+                "Perundurai soutient les industries agroalimentaires et textiles."
+            ]
+        },
+        "telecom": {
+            "title": "Télécom et IT",
+            "description": "Le secteur des technologies de l'information et des télécommunications prospère dans des zones spéciales comme Tidel Park et Mahindra World City.",
+            "highlights": [
+                "TCS Siruseri est un hub informatique leader avec des centres de livraison mondiaux.",
+                "Le campus d'Infosys à Chengalpattu soutient un emploi à grande échelle.",
+                "Tidel Park reste un pionnier de la croissance informatique à Chennai."
+            ]
+        }
+    },
+  "get_started_section": {
+    "title": "Commencer",
+    "subtitle": "Ressources pour vous aider à créer et développer votre entreprise au Tamil Nadu",
+    "cards": [
+      {
+        "image": "/get-started/point-1.png",
+        "title": "Créer une entreprise",
+        "description": "Fondamentaux et réglementations pour créer une entité"
+      },
+      {
+        "image": "/get-started/point-2.png",
+        "title": "Connaître les autorisations",
+        "description": "Liste personnalisée des autorisations pour votre entreprise"
+      },
+      {
+        "image": "/get-started/point-3.png",
+        "title": "Manuel d'utilisation",
+        "description": "Documents démonstratifs du processus complet"
+      },
+      {
+        "image": "/get-started/point-4.png",
+        "title": "Liste des autorisations",
+        "description": "Liste de toutes les autorisations délivrées par divers départements"
+      }
+    ]
+  },
+  "top_investors_section": {
+    "title": "Principaux investisseurs"
+  },
+  "cta_section": {
+    "title": "Guidance, votre partenaire stratégique d'affaires",
+    "cta_button_text": "Commencer"
+  },
+  "testimonial_section": {
+  "title": "Les plus grandes entreprises du monde ont choisi le Tamil Nadu",
+  "testimonials": [
+    {
+      "name": "Dr. Jochen Stallkamp",
+      "profession": "Ancien directeur général, BMW Group Plant, Chennai",
+      "image": "/testimonial/jockhen.png",
+      "description": "Le Tamil Nadu offre une excellente accessibilité, une logistique très efficace, une infrastructure de qualité, un bon état d’esprit et un environnement politique favorable. On y trouve des politiques dynamiques ainsi que des personnes qualifiées et compétentes."
+    },
+    {
+      "name": "Nishant Ramkutty",
+      "profession": "Directeur exécutif, Niswinfoods, Coimbatore",
+      "image": "/testimonial/nishant.png",
+      "description": "La réponse via le guichet unique pour les autorisations nécessaires a été très satisfaisante. Ils ont coordonné, représenté et facilité l’obtention rapide des autorisations pour démarrer et exploiter l’entreprise. Nous apprécions leur intervention rapide pour accélérer les démarches. Nous espérons qu’ils poursuivront leur bon travail et s’amélioreront davantage dans les années à venir. La priorité donnée aux réponses rapides et aux actions urgentes était évidente, ce qui a facilité la coordination avec les départements."
+    },
+    {
+      "name": "M Ponnuswami",
+      "profession": "Président, Pon Pure Chemicals",
+      "image": "/testimonial/ponnuswami.png",
+      "description": "Le gouvernement du Tamil Nadu est très proactif pour attirer les investissements dans l’État, parfois même au-delà des attentes du secteur. Qu’il s’agisse de mettre en relation avec de potentiels investisseurs ou de résoudre les problèmes des industries existantes, ils agissent très rapidement. Je souhaite beaucoup de succès à Guidance."
+    },
+    {
+      "name": "Ramkumar Ramamoorthy",
+      "profession": "Ancien président et directeur général, Cognizant India",
+      "image": "/testimonial/ramkumar.png",
+      "description": "Au cours des 25 dernières années, Guidance Tamil Nadu a joué un rôle crucial en aidant Cognizant à créer des entreprises modernes pour améliorer la vie quotidienne. Guidance a été un catalyseur de notre croissance accélérée, dès le démarrage de nos opérations dans l'État jusqu’aux projets innovants menés par nos centres d'excellence."
+    },
+    {
+      "name": "Rivji Kawashima",
+      "profession": "Directeur général adjoint, Yamaha Group",
+      "image": "/testimonial/rijvi.png",
+      "description": "Je crois fermement que le Tamil Nadu est l’État le plus attractif pour démarrer une entreprise en Inde, et je le recommande aux investisseurs potentiels du Japon et d'autres pays."
+    },
+    {
+      "name": "Sasikumar Gendham",
+      "profession": "Directeur général, Salcomp",
+      "image": "/testimonial/sarathi.png",
+      "description": "Le Tamil Nadu reste une destination majeure pour l’électronique et, en particulier pour Salcomp, le parcours jusqu'à présent a été très enrichissant. L'État offre un environnement très favorable aux grandes entreprises comme la nôtre, avec une bonne accessibilité pour la chaîne d'approvisionnement et une main-d'œuvre nombreuse. Surtout, le soutien étendu et ponctuel des décideurs politiques et l’accompagnement de Guidance tout au long du processus, avant et après l’investissement, méritent d’être soulignés."
+    },
+    {
+      "name": "S. Sarathi JMD",
+      "profession": "Directeur général adjoint, Mando Automotive",
+      "image": "/testimonial/sasikumar.png",
+      "description": "Merci à Guidance Tamil Nadu pour leur action rapide via BizBuddy et l’obtention de notre autorisation pour mener des activités RSE. C’est une plateforme très conviviale créée par l’organisme de guidance industrielle. J’espère que davantage d’entreprises profiteront de cet outil unique."
+    },
+    {
+      "name": "Takashi Haga",
+      "profession": "Directeur général, Yamaha Music India",
+      "image": "/testimonial/takashihaga.png",
+      "description": "Chennai est idéalement située, avec une bonne connectivité, des infrastructures solides, et une population jeune, qualifiée et dévouée. Le parc industriel proche de Chennai est bien développé et convient parfaitement aux opérations de type 'plug and play' pour les entreprises manufacturières. Les démarches administratives ont été extrêmement simples et rapides, ce qui nous a permis de mettre en place l’usine comme prévu. Merci pour le soutien remarquable du bureau Guidance et du gouvernement du Tamil Nadu."
+    }
+  ]
+},
+  "news_section": {
+  "title": "Dernières Nouvelles",
+  "articles": [
+    {
+      "title": "Plan visant à faire du Tamil Nadu la destination d'investissement la plus favorable en Asie du Sud : CM",
+      "description": "Le ministre en chef M. K. Stalin a déclaré que la nomination du conseil économique avait « renforcé la confiance des industries », en plus d’attirer l’attention des médias internationaux.\n\nLa nomination d’un conseil composé d’experts économiques de renommée mondiale constituait le plan de base pour faire du Tamil Nadu la destination d’investissement la plus favorable en Asie du Sud, a déclaré le ministre en chef M. K. Stalin mercredi.",
+      "image": "/latest-news/cm-statement.png",
+      "link": "#",
+      "tag": "À LA UNE"
+    },
+    {
+      "title": "Le Tamil Nadu deviendra une destination privilégiée pour les investissements industriels : Ministre",
+      "description": "Le Tamil Nadu est en passe de devenir une destination privilégiée pour attirer des investissements industriels. La zone économique spéciale de Nanguneri, dans le district de Tirunelveli, connaîtra bientôt un développement industriel accru, a déclaré samedi le ministre de l’Industrie Thangam Thennarasu, après avoir participé à la rencontre des investisseurs à Tirunelveli.\n\nMadurai : Le ministre en chef M. K. Stalin s’intéresse vivement à la croissance industrielle pour promouvoir une économie stable dans la région sud du Tamil Nadu.",
+      "image": "/latest-news/minister-statement.png",
+      "link": "#",
+      "tag": "À LA UNE"
+    }
+  ],
+  "read_more_button": "En savoir plus",
+  "live_tweets_section": {
+    "title": "Tweets en Direct",
+    "twitter_handle_url": "https://twitter.com/Guidance_TN",
+    "embed_height": "400"
+  }
+},
+  "footer": {
+    "sections": [
+      {
+        "heading": "À propos",
+        "links": [
+          "Pourquoi Tamil Nadu",
+          "Guidance Tamil Nadu",
+          "Portail à guichet unique",
+          "Biz Buddy",
+          "Faire des affaires pendant le COVID-19",
+          "Notre équipe",
+          "PME",
+          "Carrières"
+        ]
+      },
+      {
+        "heading": "Secteurs",
+        "links": ["Secteurs"]
+      },
+      {
+        "heading": "Faire des affaires au Tamil Nadu",
+        "links": [
+          "Créer une entreprise",
+          "Liste des autorisations",
+          "Connaître vos autorisations",
+          "Exportations",
+          "Politiques et notifications",
+          "Bureau pays"
+        ]
+      },
+      {
+        "heading": "Médias & Événements",
+        "links": ["Galerie média", "Newsletters", "Blogs", "Vidéos Guidance"]
+      },
+      {
+        "heading": "Initiatives",
+        "links": ["Tamil Nadu AMHUB", "Facilité de faire des affaires", "WorkLabs"]
+      },
+      {
+        "heading": "Aide & Support",
+        "links": ["FAQ", "Soumettre vos questions", "Contactez-nous"]
+      }
+    ],
+    "bottomLinks": ["Politique de confidentialité", "Conditions d'utilisation", "Avertissement", "Plan du site"],
+    "visitorCount": "Nombre de visiteurs : 104281692",
+    "copyright": "© 2025 Tous droits réservés",
+    "subscribePlaceholder": "Entrez votre adresse e-mail",
+    "subscribe": "S’abonner"
+  }
+}

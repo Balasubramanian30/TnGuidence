@@ -1,0 +1,1532 @@
+{
+  "hero_section": {
+    "welcome": "Welcome to",
+    "tamilnadu": "Tamil Nadu",
+    "tagline": "Home of thriving opportunities",
+    "description": "Tamil Nadu is your partner in progress, the most business-friendly state in the country. Home to over 130 global Fortune 500 companies and leading conglomerates",
+    "cta_button": "Partner with Tamil Nadu",
+    "Biz_Buddy": "Go to Biz buddy",
+    "scroll_down": "Scroll Down"
+  },
+  "statistics_section": {
+    "gdp": "2nd largest contributor to India’s GDP",
+    "export": "3rd largest contributor to India’s exports",
+    "airports": "4 international airports, 2 domestic airports",
+    "ports": "4 major seaports, 18 minor ports"
+  },
+  "innovate_statistics_section": {
+    "business_friendly": "Business-Friendly Environment and Supportive Government.",
+    "diverse": "Diverse Talent Pool with Right Expertise.",
+    "fast_growing": "Access to Fast Growing Market."
+  },
+  "innovation_section": {
+    "invest": "Invest",
+    "innovate": "Innovate",
+    "create": "Create",
+    "overview": "Guidance is the nodal agency designated by the Government of Tamil Nadu for investment promotion",
+    "highlights": [
+      "A business-friendly environment",
+      "A supportive government",
+      "A diverse talent pool with adequate expertise",
+      "Access to a rapidly growing market"
+    ],
+    "cta_button_1": "start investing now",
+    "cta_button_2": "new investor form",
+    "in_tamil_nadu": {
+      "in": "In",
+      "location": "Tamil Nadu"
+    }
+  },
+  "shape_section": {
+    "title": "Where innovation shapes tomorrow",
+    "description": "At the forefront of cutting-edge research and development, Tamil Nadu stands as a beacon of progress and creativity. Known for its technological advancements and entrepreneurial spirit, the state attracts top talent and nurtures a culture of innovation. With state-of-the-art facilities and a vibrant ecosystem of startups and industrial giants, it is the most sought-after investment destination in India.",
+    "cards": [
+      {
+        "title": "Largest",
+        "text": "Number of factories in India"
+      },
+      {
+        "title": "Largest",
+        "text_parts": ["Annual turnover of", "skilled workforce in India"]
+      },
+      {
+        "title": "Largest",
+        "text_parts": ["Number of higher education", "institutions in India"]
+      },
+      {
+        "text": "Number of patents filed in India",
+        "title_below": "Largest"
+      },
+      {
+        "title": "Largest",
+        "text_parts": ["Female workforce in", "factories, in India"]
+      },
+      {
+        "title": "Largest",
+        "text": "Number of operational SEZs in India"
+      }
+    ]
+  },
+  "sectors_section": {
+    "title": "Sectors",
+    "sectors": [
+      {
+        "title": "Automobile, Components & Electric Vehicles",
+        "stats": {
+          "left": "35%",
+          "leftLabel": "India's Auto Component Production",
+          "right": "40%",
+          "rightLabel": "of all EVs sold in India are made in Tamil Nadu"
+        },
+        "description": "Tamil Nadu stands as one of the top 10 automobile hubs globally, earning its reputation as the 'Automobile Capital of India.' The state's automotive journey began with the establishment of the Integral Coach Factory (ICF) in Chennai in 1955, marking the inception of a thriving automotive ecosystem. Ashok Leyland, founded in 1948, emerged as a significant player, while Hyundai's first Indian manufacturing plant in 1998 further solidified Tamil Nadu's position in the automotive industry.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Prabakaran A S",
+          "email": "prabakaran@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/automobile.png",
+        "sector_image_full": "/sectors/full/automobile.png"
+      },
+      {
+        "title": "Electronics & Semiconductors",
+        "stats": {
+          "left": "30%",
+          "leftLabel": "OF INDIA’S ELECTRONIC EXPORTS",
+          "right": "40%",
+          "rightLabel": "OF INDIA’S SMARTPHONE EXPORTS"
+        },
+        "description": "Tamil Nadu stands as one of the top 10 automobile hubs globally, earning its reputation as the 'Automobile Capital of India.'",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Raghauv G",
+          "email": "raghauv@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/electronics.png",
+        "sector_image_full": "/sectors/full/electronics.png"
+      },
+      {
+        "title": "Textiles, Apparel & Technical Textiles",
+        "stats": {
+          "left": "1st",
+          "leftLabel": "In Apparel Production",
+          "right": "1st",
+          "rightLabel": "In Production and Exports of Cotton Yarn"
+        },
+        "description": "Often hailed as the 'Yarn Bowl of India,' Tamil Nadu boasts a formidable presence in spinning, handloom weaving, power loom weaving, processing, knitwear, apparel, and garmenting. It stands as the largest contributor to the Indian textile industry and is renowned for its skilled craftsmanship and unique offerings. With supplies to leading brands across the globe, Tamil Nadu's textile sector plays a pivotal role in shaping the global apparel landscape.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Nandha Gopal",
+          "email": "nandha@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/apparel.png",
+        "sector_image_full": "/sectors/full/textile.jpeg"
+      },
+      {
+        "title": "Information Technology & Services",
+        "stats": {
+          "left": "11%",
+          "leftLabel": "Share of total IT Investments in India",
+          "right": "3rd",
+          "rightLabel": "in the Software Exports in the Country"
+        },
+        "description": "Tamil Nadu stood at the forefront among Indian states in formulating policies for the IT & ITeS sector. This early initiative catalyzed remarkable progress, creating a conducive environment for innovation and expansion. Backed by a robust industrial foundation, cutting-edge infrastructure, seamless connectivity, ample power supply, renowned healthcare facilities, prestigious educational institutions, and a skilled workforce, Tamil Nadu has solidified its position as a premier destination for Information Technology-related activities.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Arun George Mathew",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/it.png",
+        "sector_image_full": "/sectors/full/it.jpeg"
+      },
+      {
+        "title": "Renewable Energy",
+        "stats": {
+          "left": "~64GW",
+          "leftLabel": "Tamil Nadu’s Wind Power Potential",
+          "right": "40%",
+          "rightLabel": "of India’s Renewable Manufacturing Capacity"
+        },
+        "description": "Tamil Nadu is a leading State in India's renewable energy sector with over 10,734 MW in wind capacity and significant solar installations, contributing to 50% of its energy from renewables. The State also excels in renewable energy manufacturing, supported by progressive policies and partnerships with organizations like the United Nations Environment Programme. These efforts underscore Tamil Nadu's commitment to expanding its green energy infrastructure and manufacturing capabilities.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Pradeep R",
+          "email": "pradeep@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/renewable.png",
+        "sector_image_full": "/sectors/full/renewable.jpeg"
+      },
+      {
+        "title": "GCC & R&D Centres",
+        "stats": {
+          "left": "250+",
+          "leftLabel": "GCCs present in Tamil Nadu",
+          "right": "750+",
+          "rightLabel": "R&D Institutes in the State"
+        },
+        "description": "Tamil Nadu has become a major hub for Global Capability Centers (GCCs) and Research & Development (R&D) in India, hosting over 250 GCCs. Chennai, known as the SaaS capital, contributes to about 10% of India's GCC presence. These centers, part of multinational company operations, span sectors like IT, finance, engineering, and healthcare. The state's skilled workforce, infrastructure, and pro-business policies continue to attract global firms, bolstering its reputation as a leader in innovation and technology.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Arun George Mathew",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/gcc.png",
+        "sector_image_full": "/sectors/full/gcc.webp"
+      },
+      {
+        "title": "Aerospace & Defence",
+        "stats": {
+          "left": "2nd",
+          "leftLabel": "Tamil Nadu hosts India’s second Satellite Launch Centre in Kulasekarapattinam",
+          "right": "Dedicated",
+          "rightLabel": "Industrial Parks for Aerospace, Space, and Defence sector companies"
+        },
+        "description": "From the impressive naval fleet of the Cholas to the oldest infantry regiment of the Indian Army, Tamil Nadu has been an epicenter of military activities for aeons. The state stands among the few spots outside European nations, and the only in Asia, to witness the first test flight of a biplane by Giacomo D'Angelis in 1910, followed by the establishment of the second private flying club in India, the Madras Flying Club, in the 1930s. Additionally, Tamil Nadu was among the first few states in India to host one of the initial nine pioneering squadrons of the Indian Air Force – Squadron No. 6, based in Tiruchirappalli. Now designated as a defense industrial corridor, Tamil Nadu boasts a thriving military industrial complex supported by Defense Public Sector Units such as Armored Vehicle Nigam Limited, Bharat Electronics Limited, and Munitions India Limited. The upcoming Satellite Launch Centre in Kualsekarapattiman will open up new opportunities for private sector investments in the space domain.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Debasis Dash",
+          "email": "debasis@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/aerospace.png",
+        "sector_image_full": "/sectors/full/aerospace.jpeg"
+      },
+      {
+        "title": "Consumer Goods, Food Processing & Agri-business",
+        "stats": {
+          "left": "10Mn",
+          "leftLabel": "Metric tonnes Food Grain Production",
+          "right": "2nd",
+          "rightLabel": "Highest Number of Food Processing Units in the Country"
+        },
+        "description": "Tamil Nadu, with its diverse agro-geo climatic zones, occupies a prominent position in the agro and food processing sector. The state is home to approximately 24,000 SMEs and 1100 medium and large units in this domain. With abundant agro resources, surging demand, and seamless access to both national and export markets, Tamil Nadu stands out for its competitive edge in this sector.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Trishya Senthil Kumar",
+          "email": "trishya@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/agro.png",
+        "sector_image_full": "/sectors/full/agro.png"
+      },
+      {
+        "title": "Leather & Footwear",
+        "stats": {
+          "left": "29%",
+          "leftLabel": "of India's Footwear Manufacturing Output",
+          "right": "48%",
+          "rightLabel": "of India's Leather & Non-leather Footwear Exports"
+        },
+        "description": "Embedded in the fabric of Tamil Nadu's cultural heritage lies a rich tradition of leather craftsmanship, a testament to its enduring legacy and timeless skill. Today, with over 60% of India's tanning capacity and a vibrant community of 1,650 companies, the State remains the undisputed leader in finished leather production nationwide. Continuing its tradition of excellence, Tamil Nadu has also expanded its horizons, pioneering a new chapter in sustainable fashion by venturing into non-leather footwear.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Pradeep R",
+          "email": "pradeep@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/leather.png",
+        "sector_image_full": "/sectors/full/leather.png"
+      },
+      {
+        "title": "Engineering & Capital Goods",
+        "stats": {
+          "left": "$40Bn+",
+          "leftLabel": "Capital Goods Production",
+          "right": "2nd",
+          "rightLabel": "in Machinery & Heavy Engineering Exports"
+        },
+        "description": "Tamil Nadu is a critical hub for global manufacturers specializing in precision engineering, heavy engineering, and hydraulic manufacturing within the capital goods and heavy electrical equipment sectors. This State’s substantial manufacturing capabilities not only fortify India's industrial base but also hold a major share in driving the nation's economic advancements.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Varadharaj S",
+          "email": "Varadharaj@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/engineering.png",
+        "sector_image_full": "/sectors/full/engineering.png"
+      },
+      {
+        "title": "Industrial Parks",
+        "stats": {
+          "left": "Highest",
+          "leftLabel": "Number of Factories in India",
+          "right": "Highest",
+          "rightLabel": "Number of Operational SEZs in India"
+        },
+        "description": "Tamil Nadu stands out as a premier destination for businesses seeking to establish themselves in India. Distinguished by its unparalleled support for company setups, the State boasts dedicated manufacturing clusters for automobiles and components, electronics, IT, textiles, aerospace, food processing, and country-specific hubs. Renowned for its extensive industrial land availability, Tamil Nadu leads the way with marquee private players and top-tier government industrial parks, offering opportunities ranging from joint ventures to plug-and-play and brownfield projects.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Nandha Gopal",
+          "email": "nandha@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/industrial.png",
+        "sector_image_full": "/sectors/full/industrial.png"
+      },
+      {
+        "title": "Life Sciences",
+        "stats": {
+          "left": "2.8%",
+          "leftLabel": "Share in National Output for the Sector​",
+          "right": "5th",
+          "rightLabel": "Largest Pharmaceutical manufacturing State in India"
+        },
+        "description": "Tamil Nadu has been at the forefront of advancing the nation's healthcare infrastructure, exemplified by the establishment of its first pharma park in 1978. This milestone marked the beginning of a thriving life sciences ecosystem within the State. Today, Tamil Nadu hosts a plethora of global players in the life sciences industry, encompassing pharmaceutical and medical device manufacturers.Additionally, the burgeoning field of medical electronics has experienced remarkable double-digit growth in recent years, further highlighting Tamil Nadu's commitment to innovation and progress in life sciences manufacturing.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Aashrai Arun",
+          "email": "aashrai@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/lifescience.png",
+        "sector_image_full": "/sectors/full/lifesciences.jpeg"
+      },
+      {
+        "title": "Banking & Financial Services",
+        "stats": {
+          "left": "60%",
+          "leftLabel": "of Fortune BFSI Companies have a presence in Tamil Nadu",
+          "right": "100+",
+          "rightLabel": "FinTech Startups"
+        },
+        "description": "From the establishment of The Madras Bank in 1682 to today, Tamil Nadu has consistently been a pivotal player in the financial services industry. Now poised to become a global FinTech hub, the region hosts approximately 15% of BFSI (Banking, Financial Services, and Insurance) Global Capability Center operations in India. This highlights its transformation into a center of financial, technological, and corporate excellence.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Arun George Mathew",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/banking.png",
+        "sector_image_full": "/sectors/full/banking.jpg"
+      },
+      {
+        "title": "Chemicals & Petrochemicals",
+        "stats": {
+          "left": "2600+",
+          "leftLabel": "Chemical Manufacturing Units",
+          "right": "$3.4Bn",
+          "rightLabel": "of Chemicals and Allied Products Exports(FY 2023-24)"
+        },
+        "description": "The chemical and petrochemical industry in Tamil Nadu is a significant contributor to the State's industrial growth and economic development. The sector encompasses various subsectors, such as petrochemicals, pharmaceuticals, agrochemicals, speciality chemicals, and textile chemicals, making it highly diversified. With a conducive business climate, advantageous geographical positioning, and a proficient workforce, Tamil Nadu has established itself as a key hub for the chemical industry nationwide.​",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Raghauv G",
+          "email": "raghauv@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/petrochemicals.png",
+        "sector_image_full": "/sectors/full/chemicals.jpg"
+      },
+      {
+        "title": "Tourism & Hospitality",
+        "stats": {
+          "left": "200Mn+",
+          "leftLabel": "Domestic Tourists Arrivals Annually",
+          "right": "4Mn+",
+          "rightLabel": "Foreign Tourists Arrivals Annually"
+        },
+        "description": "Tamil Nadu, home to one of the world's oldest living civilizations, offers a diverse tapestry of geographic, cultural, ethnic, and historical landscapes. Each city and village unveils a unique facet of this vibrant culture, from aweinspiring temple architecture and timeless music and dance forms to pristine beaches and lush natural beauty. The State is renowned for its colorful cultural traditions, delectable cuisine, exquisite handicrafts, and the warm hospitality of its people. Coupled with its rich cultural history, popular tourist attractions, burgeoning medical tourism, and rapid industrial growth, Tamil Nadu is becoming a preferred investment destination for leading international hospitality brands.",
+        "sector_expert": "Sector Expert",
+        "speaker": {
+          "name": "Prabakaran A S",
+          "email": "prabakaran@investtn.in",
+          "image": "/images/speakers/prabakaran.png"
+        },
+        "sector_btn": "View More In This Sector",
+        "sector_link": "#",
+        "sector_image": "/sectors/tourism.png",
+        "sector_image_full": "/sectors/full/tourism.jpg"
+      }
+    ]
+  },
+
+  "map_section": {
+    "title": "Explore Tamil Nadu",
+    "description": "Tamil Nadu's commitment to business has led to a sturdy public infrastructure in the areas of connectivity, water, power, and telecom.",
+    "explore_district_btn": "Explore",
+    "view_all_btn": "View All Districts",
+    "district_btn": "District",
+    "airports_btn": "Airports",
+    "seaports_btn": "Seaports",
+    "highways_btn": "Highways",
+    "industries_btn": "Industries",
+    "telecom_btn": "Telecom",
+    "districts": {
+      "Krishnagiri": {
+        "title": "Krishnagiri",
+        "description": "Krishnagiri's economy thrives due to its booming automobile industry. Surrounded by scenic hills and bordering Vellore, Thiruvannamalai, Karnataka, and Andhra Pradesh, its strategic location near Bangalore boosts Hosur's industrial growth.",
+        "stats": {
+          "Area": "5143 sq km",
+          "Population": "18,83,731",
+          "Literacy Rate": "71.46%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Bengaluru International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Krishnagiri Railway Station & Bengaluru Railway Station"
+          }
+        ]
+      },
+      "Nilgiris": {
+        "title": "Nilgiris",
+        "description": "The Nilgiris, called the 'Queen of the Hills,' is a tourist paradise and home to tribal communities. Its economy relies on horticulture—potatoes, tea, coffee, spices, and fruits—along with tea, coffee, and pepper processing units.",
+        "stats": {
+          "Area": "2452.5 sq km",
+          "Population": "7,35,394",
+          "Literacy Rate": "85.2%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Coimbatore International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Udhagamandalam Railway Station & Coimbatore Railway Station"
+          }
+        ]
+      },
+      "Virudhunagar": {
+        "title": "Virudhunagar",
+        "description": "Virudhunagar serves as a key logistics hub for industry and agriculture, producing over 70% of India's matches and fireworks. Bordered by multiple districts and Kerala, it leads in matches, fireworks, and printing. Cotton is a major crop, with Rajapalayam as the main center for spinning and ginning mills.",
+        "stats": {
+          "Area": "4288 sq km",
+          "Population": "19,42,288",
+          "Literacy Rate": "80.15%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Madurai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Virudunagar Railway Station & Madurai Railway Station"
+          }
+        ]
+      },
+      "Kanyakumari": {
+        "title": "Kanyakumari",
+        "description": "Kanyakumari, India's southernmost tip, leads Tamil Nadu in literacy and HDI while ranking second in population density. Bounded by Tirunelveli, Kerala, and three water bodies, its unique geography and rich culture make it a prime tourist destination.",
+        "stats": {
+          "Area": "1672 sq km",
+          "Population": "18,70,374",
+          "Literacy Rate": "91.75%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Thiruvananthapuram International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Kanyakumari Railway Station"
+          }
+        ]
+      },
+      "Coimbatore": {
+        "title": "Coimbatore",
+        "description": "Coimbatore, Tamil Nadu's second-largest city, is an education and MSME hub contributing 7% to state GDP. A key logistics center for industry, agriculture, and tourism, it connects Nilgiris, Idukki, and Kerala. Bordered by Tiruppur, Erode, and the Western Ghats, it's India's top producer of pumps and wet-grinders, earning the title 'Pump City'.",
+        "stats": {
+          "Area": "4723 sq km",
+          "Population": "34,58,045",
+          "Literacy Rate": "83.98%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Coimbatore International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Coimbatore Railway Station"
+          }
+        ]
+      },
+      "Cuddalore": {
+        "title": "Cuddalore",
+        "description": "Cuddalore, a coastal district, is known for ceramics, cashew processing, and oil production. Bordered by Viluppuram, Nagapattinam, and Perambalur, it's a major fishing hub with a large fishermen community. Its industrial complex hosts numerous chemical, biotech, pharmaceutical, and fertilizer companies.",
+        "stats": {
+          "Area": "3678 sq km",
+          "Population": "26,05,914",
+          "Literacy Rate": "78.04%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Chennai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Cuddalore Railway Station"
+          }
+        ]
+      },
+      "Karur": {
+        "title": "Karur",
+        "description": "Karur, centraal gelegen in Tamil Nadu, grenst aan de districten Namakkal, Dindigul, Tiruchirappalli, Erode en Tiruppur. Het is een bloeiend industrieel centrum, bekend om zijn woningtextiel, buscarrosseriebouw en papierproductie. Meer dan 30% van de beroepsbevolking werkt in de productiesector.",
+        "stats": {
+          "Area": "2895.57 sq km",
+          "Population": "10,64,493",
+          "Literacy Rate": "75.6%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Coimbatore International Airport & Tiruchirapalli International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Cuddalore Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Karur Railway Station"
+          }
+        ]
+      },
+      "Tiruppur": {
+        "title": "Tiruppur",
+        "description": "Tiruppur, India's 'Knitwear Capital,' is experiencing rapid demographic and economic growth. A major global textile hub, it supplies clothing to top retailers. The district borders Coimbatore , Erode , Karur, and Dindigul. The Noyyal River, a Cauvery tributary, supports its thriving knitting and dyeing industries.",
+        "stats": {
+          "Area": "5186.34 sq km",
+          "Population": "24,79,052",
+          "Literacy Rate": "78.68%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Coimbatore International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Tiruppur Railway Station"
+          }
+        ]
+      },
+      "Nagapattinam": {
+        "title": "Nagapattinam",
+        "description": "Nagapattinam, a coastal Tamil Nadu district, thrives on fishing, tourism, and agriculture. Bordered by the Bay of Bengal, Palk Strait, Tiruvarur, and Puducherry, it was a historic trade hub with eastern nations. The Vedaranyam salt swamp, stretching from Point Calimere, is the state’s longest.",
+        "stats": {
+          "Area": "2715.83 sq km",
+          "Population": "16,16,450",
+          "Literacy Rate": "83.59%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Tiruchirappalli International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Cuddalore Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Nagapattinam Railway Station"
+          }
+        ]
+      },
+      "Theni": {
+        "title": "Theni",
+        "description": "Theni, the 'Cardamom City,' is a major cardamom trade hub. It borders Dindigul, Madurai, Virudhunagar, and Kerala. The district has thriving textile industries and is home to Cumbum Valley, a key grape-growing region.",
+        "stats": {
+          "Area": "3066 sq km",
+          "Population": "12,45,899",
+          "Literacy Rate": "77.26%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Madurai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Bodinayakkanur Railway Station & Madurai Railway Station"
+          }
+        ]
+      },
+      "Tirunelveli": {
+        "title": "Tirunelveli",
+        "description": "Tirunelveli is unique in Tamil Nadu, stretching from the Western Ghats to the coast, featuring waterfalls and wildlife sanctuaries. The Tamiraparani River sustains the region, while the ELCOT IT Park at Gangakondan boosts the service sector. Cement industries thrive due to limestone deposits. The district borders Kerala, the Gulf of Mannar, and Virudhunagar, Thoothukudi, and Kanniyakumari districts.",
+        "stats": {
+          "Area": "3842.37 sq km",
+          "Population": "16,65,253",
+          "Literacy Rate": "82.5%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Thoothukudi Domestic Airport & Madurai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Tirunelveli Railway Station"
+          }
+        ]
+      },
+      "Kallakurichi": {
+        "title": "Kallakurichi",
+        "description": "Kallakurichi, the 'Home of Agriculture,' is a hub for rice processing. It borders Viluppuram, Cuddalore & Perambalur, Salem, and Thiruvannamalai & Dharmapuri. Key industries include textiles, jewelry, and agricultural feeds.",
+        "stats": {
+          "Area": "3520.37 sq km",
+          "Population": "13,70,281",
+          "Literacy Rate": "63.49%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Chennai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Chinnaselam Railway station"
+          }
+        ]
+      },
+      "Pudukottai": {
+        "title": "Pudukottai",
+        "description": "Pudukottai, a former princely state, boasts a rich cultural legacy with forts, temples, and cave art. Bordered by the Bay of Bengal, Trichy, Sivagangai, Ramanathapuram, and Thanjavur, it has abundant natural resources. The district features industrial estates at Machuvadi, Mathur, and Vallanur.",
+        "stats": {
+          "Area": "4663 sq km",
+          "Population": "16,18,345",
+          "Literacy Rate": "77.19%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Tiruchirappalli International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Cuddalore Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Pudukottai Railway Station"
+          }
+        ]
+      },
+      "Sivagangai": {
+        "title": "Sivagangai",
+        "description": "Sivagangai is famed for its spicy Chettinad cuisine. Its black soil supports agriculture, the main livelihood. Industries include sugar mills and renewable energy farms. The district borders Pudukkottai, Tiruchirapalli, Ramanathapuram , Virudhunagar , and Madurai.",
+        "stats": {
+          "Area": "4086 sq km",
+          "Population": "13,39,101",
+          "Literacy Rate": "79.85%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Madurai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Sivagangai Railway Station & Madurai Railway Station"
+          }
+        ]
+      },
+      "Namakkal": {
+        "title": "Namakkal",
+        "description": "Namakkal, India’s 'Transport City,' is renowned for its truck body-building industry, vital to national logistics. Bordered by Salem , Karur , Trichy, and Erode, it’s also a leading egg producer in South India.",
+        "stats": {
+          "Area": "3368.21 sq km",
+          "Population": "17,26,601",
+          "Literacy Rate": "74.63%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Salem Domestic Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Cuddalore Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Namakkal Railway Station"
+          }
+        ]
+      },
+      "Perambalur": {
+        "title": "Perambalur",
+        "description": "Perambalur, a landlocked district, contains 416-million-year-old marine fossils. Bordered by Kallakurichi, Tiruchirappalli, Ariyalur, and Salem. It leads Tamil Nadu in maize and onion production. The TANSIDCO industrial estate hosts major manufacturing units.",
+        "stats": {
+          "Area": "1757 sq km",
+          "Population": "5,65,223",
+          "Literacy Rate": "74.32%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Salem Domestic Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Ariyalur Railway Station"
+          }
+        ]
+      },
+      "Thanjavur": {
+        "title": "Thanjavur",
+        "description": "Thanjavur, 'the Granary of South India,' is a major paddy hub, bordered by the Coloroon River, Thiruvarur, Palk Strait, and Pudukottai. Renowned for its rural crafts—like the Thanjavur Doll, paintings, and musical instruments—it enjoys global demand.",
+        "stats": {
+          "Area": "3396.57 sq km",
+          "Population": "24,05,890",
+          "Literacy Rate": "82.64%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Tiruchirappalli International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Cuddalore Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Thanjavur Railway Station"
+          }
+        ]
+      },
+      "Ariyalur": {
+        "title": "Ariyalur",
+        "description": "Ariyalur, rich in minerals like limestone and shale, is a cement industry hub. Bordered by Cuddalore, Thanjavur, Perambalur, and Mayiladuthurai.It has 59% of its workforce in agriculture. The district also hosts numerous food processing units in its industrial complex.",
+        "stats": {
+          "Area": "1940 sq km",
+          "Population": "7,54,894",
+          "Literacy Rate": "71.34%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Trichy International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Ariyalur Railway Station"
+          }
+        ]
+      },
+      "Viluppuram": {
+        "title": "Viluppuram",
+        "description": "Viluppuram, the ‘Sugar Bowl of Tamil Nadu,’ thrives on agro-industries like rice and sugar mills. With 2.9 million rural residents—the state’s largest—it borders the Bay of Bengal and Puducherry, Kancheepuram, Cuddalore, and Dharmapuri. Nearby Auroville, an experimental township, hosts 170 social enterprises employing 5,000 locals.",
+        "stats": {
+          "Area": "3725.54 sq km",
+          "Population": "34,58,873",
+          "Literacy Rate": "71.88%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Chennai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Viluppuram Railway Station"
+          }
+        ]
+      },
+      "Chengalpattu": {
+        "title": "Chengalpattu",
+        "description": "Chengalpattu, a newly formed district on Tamil Nadu's northeast coast, boasts natural beauty. It borders Chennai, Kancheepuram and Tiruvannamalai, and Viluppuram. Home to the state's second-largest lake, Maduranthakam spread over 2,400 acres, and the iconic Mahabalipuram Shore Temple, it also features an IT corridor along Old Mahabalipuram Road hosting major tech firms, along with a thriving automobile manufacturing hub.",
+        "stats": {
+          "Area": "2944.96 sq km",
+          "Population": "25,56,244",
+          "Literacy Rate": "91.88%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Chennai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port &  Ennore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Chengalpattu Railway Station"
+          }
+        ]
+      },
+      "Thiruvallur": {
+        "title": "Thiruvallur",
+        "description": "Thiruvallur holds industrial significance, bordering Kanchipuram, Ranipet, Chennai, and Andhra Pradesh. Hosts major factories, Ennore Thermal Plant, Avadi Tank Factory, academic institutions, and temples, boosting its strategic value.",
+        "stats": {
+          "Area": "3422.43 sq km",
+          "Population": "37,28,104",
+          "Literacy Rate": "84.03%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Chennai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port &  Ennore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Thiruvallur Railway Station"
+          }
+        ]
+      },
+      "Tenkasi": {
+        "title": "Tenkasi",
+        "description": "Tenkasi features Courtallam Falls and borders Virudhunagar (north), Thoothukudi (east), Tirunelveli (south), and Kerala (west). Known for sericulture, coir industries, and key spiritual sites in South TN.",
+        "stats": {
+          "Area": "2916.13 sq km",
+          "Population": "14,07,627",
+          "Literacy Rate": "87.71%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Thoothukudi Domestic Airport & Madurai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Tenkasi Railway Station & Tirunelveli Railway Station"
+          }
+        ]
+      },
+      "Chennai": {
+        "title": "Chennai",
+        "description": "Chennai, Tamil Nadu's capital, is India's 4th largest metro. A major industrial/commercial hub on the SE coast, it blends rich culture with a robust economy. Key sectors: automobiles, SaaS, medical tourism, hardware, data centers, and fintech.",
+        "stats": {
+          "Area": "178.2 sq km",
+          "Population": "46,46,732",
+          "Literacy Rate": "90.18%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Chennai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Ennore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Chennai Central Railway Station"
+          }
+        ]
+      },
+      "Madurai": {
+        "title": "Madurai",
+        "description": "Madurai, an ancient South Indian city, is Tamil Nadu’s second largest by area and third by population. A thriving industrial and tourist hub, it borders Dindigul, Tiruchirapalli, Sivagangai, Theni, and Virudhunagar. The district is highly urbanized and has a flourishing economy thrives on textiles, food processing, rubber industries, and education.",
+        "stats": {
+          "Area": "3741.73 sq km",
+          "Population": "30,38,252",
+          "Literacy Rate": "83.45%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Madurai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Madurai Railway Station"
+          }
+        ]
+      },
+      "Salem": {
+        "title": "Salem",
+        "description": "Salem, a geologist’s paradise, is surrounded by hills and dotted with hillocks. It borders Dharmapuri, Erode, Namakkal, Kallakurichi, and Perambalur districts. Known for rope-making and the summer resort Yercaud, its mangoes are highly prized.",
+        "stats": {
+          "Area": "5245 sq km",
+          "Population": "34,82,056",
+          "Literacy Rate": "72.86%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Salem Domestic Airport & Coimbatore International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Thoothukudi Port & Chennai Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Salem Railway Station"
+          }
+        ]
+      },
+      "Erode": {
+        "title": "Erode",
+        "description": "Erode, part of Tamil Nadu's Kongu region, is an industrial hub known for dairy, turmeric, and textile products of handloom, powerloom and readymade garments. It borders Karnataka, Udhagamandalam, Coimbatore, Tirupur, Karur, Namakkal, and Salem districts.",
+        "stats": {
+          "Area": "5722 sq km",
+          "Population": "22,51,744",
+          "Literacy Rate": "72.58%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Coimbatore International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Erode Railway Station"
+          }
+        ]
+      },
+      "Dindugal": {
+        "title": "Dindugal",
+        "description": "Dindugal is known for safety locks, leather tanneries, textile spinning, and agricultural trade. It borders Tiruppur, Karur, Tiruchi, Madurai, Theni, and Kerala's Idukki. Chinnalapatti weavers produce famous Sungudi Silk Sarees, and Kodaikanal a popular hill station, lies within the district.",
+        "stats": {
+          "Area": "6266.64 sq km",
+          "Population": "21,59,775",
+          "Literacy Rate": "76.26%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Madurai International Airport & Tiruchirappalli International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Cuddalore Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Dindugal Railway Station"
+          }
+        ]
+      },
+      "Tiruchirapalli": {
+        "title": "Tiruchirapalli",
+        "description": "Tiruchirappalli holds historic, cultural, and economic significance. It's a key node in the Defence Industrial Corridor, hosting major PSUs like BHEL,  Heavy Alloy Penetrator Project and the Ordnance Factory. The district boasts premier institutions like NIT, IIM, and IIIT. It borders Salem, Namakkal, Perambalur, Ariyalur, Thanjavur, Pudukkottai, and Karur.",
+        "stats": {
+          "Area": "4407 sq km",
+          "Population": "27,22,290",
+          "Literacy Rate": "83.23%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Tiruchirappalli International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Tiruchirappalli Railway Station"
+          }
+        ]
+      },
+      "Thiruvarur": {
+        "title": "Thiruvarur",
+        "description": "Thiruvarur, once a capital of the Chola empire, lies in Tamil Nadu’s fertile rice belt. The district is bordered by Nagapattinam to the east, Mayiladuthurai to the north, Thanjavur to the west, the Palk Strait to the south, and Puducherry’s Karaikal to the northeast. Its industries are primarily agro-based, with recent growth in natural gas extraction and power generation.",
+        "stats": {
+          "Area": "2161 sq km",
+          "Population": "12,64,277",
+          "Literacy Rate": "82.86%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Tiruchirappalli International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Cuddalore Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Tiruvarur Railway Station"
+          }
+        ]
+      },
+      "Mayiladuthurai": {
+        "title": "Mayiladuthurai",
+        "description": "Mayiladuthurai, formed from Nagapattinam in 2020, borders Cuddalore, Thanjavur, Karaikal, Tiruvarur and the Bay of Bengal. This coastal district thrives on fishing and agriculture, while preserving Dutch heritage in Tharangambadi. It also features significant Hindu temples along its religious trail.",
+        "stats": {
+          "Area": "1172 sq km",
+          "Population": "918356",
+          "Literacy Rate": "78.78%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Tiruchirappalli International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Cuddalore Port & Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Mayiladuthurai Railway Station"
+          }
+        ]
+      },
+      "Vellore": {
+        "title": "Vellore",
+        "description": "Vellore, a major industrial hub, is famous for its leather industry and historic fort. The district features the Javadhu Hills and boasts high literacy rates with strong education systems. It borders Tiruvallur, Kanchipuram, Tiruvannamalai, Krishnagiri, and Andhra Pradesh.",
+        "stats": {
+          "Area": "2080.11 sq km",
+          "Population": "16,14,242",
+          "Literacy Rate": "79.17%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Chennai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Vellore Railway Station"
+          }
+        ]
+      },
+      "Ranipet": {
+        "title": "Ranipet",
+        "description": "Ranipet stands as a prominent industrial center in southern India, sharing boundaries with Vellore, Kanchipuram, Tiruvannamalai and Thiruvallur districts. The area specializes in leather manufacturing, producing export-quality finished leather, footwear and garments, while also housing chemical plants and tool-making units.",
+        "stats": {
+          "Area": "2234.32 sq km",
+          "Population": "12,10,277",
+          "Literacy Rate": "86.08%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Chennai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Ranipet Railway Station"
+          }
+        ]
+      },
+      "Tirupattur": {
+        "title": "Tirupattur",
+        "description": "Tirupattur thrives as a commercial hub trading dhals, jaggery, chillies, cotton, and agro-products. Bordered by Vellore, Krishnagiri, Dharmapuri, and Tiruvannamalai, it hosts rice mills and beedi factories in Vaniyambadi. Ambur, its industrial zone, specializes in leather exports like footwear, garments.",
+        "stats": {
+          "Area": "1792.92 sq km",
+          "Population": "11,11,812",
+          "Literacy Rate": "82.17%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Bengaluru International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Tirupathur Railway Station & Salem Railway Station"
+          }
+        ]
+      },
+      "Tiruvannamalai": {
+        "title": "Tiruvannamalai",
+        "description": "Tiruvannamalai, an agrarian district in northern Tamil Nadu, is bordered by Kanchipuram to the east, Viluppuram to the south, Dharmapuri and Krishnagiri to the west, and Vellore to the north. The district is renowned for producing Arani Silk Sarees and houses the Cheyyar Industrial Park with major manufacturing units.",
+        "stats": {
+          "Area": "6191 sq km",
+          "Population": "24,64,875",
+          "Literacy Rate": "74.21%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "chennai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Tiruvannamalai Railway Station"
+          }
+        ]
+      },
+      "Dharmapuri": {
+        "title": "Dharmapuri",
+        "description": "Dharmapuri, located in Tamil Nadu's northwestern plateau region, borders Tiruvannamalai, Viluppuram, Karnataka, Krishnagiri, and Salem. The district is home to Hogenakkal Falls, often called India's Niagara  and boasts significant granite reserves. Over half its industrial workforce engages in textile production, particularly spinning, weaving, and finishing.",
+        "stats": {
+          "Area": "4497.77 sq km",
+          "Population": "5,06,843",
+          "Literacy Rate": "68.54%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Bengaluru International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Dharmapuri Railway Station"
+          }
+        ]
+      },
+      "kancheepuram": {
+        "title": "Kancheepuram",
+        "description": "Kancheepuram, the 'City of a Thousand Temples', showcases magnificent Dravidian architecture. Bordered by the Bay of Bengal, Vellore, Thiruvannamalai, Thiruvallur, Chennai, and Villuppuram, it's a major industrial hub hosting international companies. Renowned for its premium silk, Kancheepuram sarees were India's first GI-tagged product.",
+        "stats": {
+          "Area": "1655.94 sq km",
+          "Population": "11,66,401",
+          "Literacy Rate": "84.49%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Chennai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Chennai Port & Cuddalore Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Kancheepuram Railway Station"
+          }
+        ]
+      },
+      "Ramanathapuram": {
+        "title": "Ramanathapuram",
+        "description": "Ramanathapuram, Tamil Nadu's renowned pilgrimage hub, features the iconic Pamban Bridge and a chain of islands linking to Sri Lanka. The district borders Virudhunagar, Tuticorin, Sivagangai and Pudukkottai, and hosts major PSU oil & gas units. It's also known for its indigenous, highly exported chilli peppers.",
+        "stats": {
+          "Area": "4068.31 sq km",
+          "Population": "13,53,445",
+          "Literacy Rate": "80.72%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Madurai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Ramanathapuram Railway Station"
+          }
+        ]
+      },
+      "Thoothukudi": {
+        "title": "Thoothukudi",
+        "description": "Thoothukudi, Tamil Nadu's most industrialized southern district, is traditionally called the Pearl City for its historic pearl fishing. Bounded by Virudhunagar (north), Tirunelveli (south/west), and the Bay of Bengal (east), it remains a key maritime hub with the V.O. Chidambaranar Port. Notably, it was home to India's first indigenous shipping company, the Swadeshi Steam Navigation Company.",
+        "stats": {
+          "Area": "4621 sq km",
+          "Population": "17,50,176",
+          "Literacy Rate": "86.16%"
+        },
+        "icons": [
+          {
+            "src": "/icons/map-airport.svg",
+            "label": "Thoothukudi Domestic Airport & Madurai International Airport"
+          },
+          {
+            "src": "/icons/map-seaport.svg",
+            "label": "Thoothukudi Port"
+          },
+          {
+            "src": "/icons/map-railway.svg",
+            "label": "Thoothukudi Railway Station"
+          }
+        ]
+      }
+    },
+    "airports": {
+      "title": "Airports",
+      "description": "Tamil Nadu has multiple international and domestic airports supporting economic and tourism growth.",
+      "highlights": {
+        "International Airports": "4",
+        "Domestic Airports": "2",
+        "Passengers (in FY 20)": "28 Million"
+      }
+    },
+    "seaports": {
+      "title": "Seaports",
+      "description": "Tamil Nadu’s coastline hosts major ports that serve international trade and logistics.",
+      "highlights": {
+        "Natural Coast Line Length": "1076 km",
+        "Major Seaport": "4",
+        "Minor Seaports": "19"
+      }
+    },
+    "highways": {
+      "title": "Highways",
+      "description": "An extensive network of national highways boosts connectivity across Tamil Nadu.",
+      "highlights": {
+        "Total Road Network Covers": "17,154 km",
+        "National Highway": "5,324 km",
+        "State Highway": "11,830 km"
+      }
+    },
+    "industries": {
+      "title": "Industries",
+      "description": "The state is home to a diverse range of industries including manufacturing, textiles, and automobiles.",
+      "highlights": {
+        "Public & Private Industrial Parks": "55+",
+        "Domestic Tariff Zone (DTZ)": "45",
+        "Operational Special Economic Zones (SEZ)": "49"
+      }
+    },
+    "telecom": {
+      "title": "Telecom & IT",
+      "description": "The IT and telecom sector thrives in special zones like Tidel Park and Mahindra World City.",
+      "highlights": {
+        "Projected Internet User Penetration Rate": "94%",
+        "Broadband Subscriptions in 2019": "4.34 cr",
+        "Mobile Coverage in Populated Areas": "95%"
+      }
+    }
+  },
+  "key_features": {
+    "title": "Key Features",
+    "subtitle": "Resources to Help You Set-up and Do Business in Tamil Nadu",
+    "cards": [
+      {
+        "title": "Track Grievance Submissions",
+        "image": "//get-started/point-1.png",
+        "description": "Unique reference number to track grievance submissions"
+      },
+      {
+        "title": "Ticket Status Notification",
+        "image": "//get-started/point-2.png",
+        "description": "Stakeholders are notified of the ticket status"
+      },
+      {
+        "title": "Escalation & Dashboard",
+        "image": "//get-started/point-3.png",
+        "description": "Ticket can be escalated if grievance is not resolved within given time. Dashboard showcasing pending grievances, escalated issues, widget to sort mechanism to acquire industry stakeholders ideas and suggestions. Resolution will be provided within 30 working days."
+      },
+      {
+        "title": "Help Call Submission",
+        "image": "//get-started/point-4.png",
+        "description": "Submit a “Help Call” on issues which have not been resolved previously by a government department. Help calls are monitored and acted upon by the concerned Tamil Nadu government department(s)."
+      }
+    ]
+  },
+  "get_started_section": {
+    "title": "Get Started",
+    "subtitle": "Resources to Help You Set-up and Do Business in Tamil Nadu",
+    "cards": [
+      {
+        "image": "/get-started/point-1.png",
+        "title": "Setting Up Business",
+        "description": "Fundamentals and Regulations for Establishing an Entity"
+      },
+      {
+        "image": "/get-started/point-2.png",
+        "title": "Knowing Clearances",
+        "description": "Tailored List of Clearances for your Business"
+      },
+      {
+        "image": "/get-started/point-3.png",
+        "title": "User Manual",
+        "description": "Demonstration Documents of the Entire Process"
+      },
+      {
+        "image": "/get-started/point-4.png",
+        "title": "List Of Clearances",
+        "description": "List of All the Clearances Offered by Various Departments"
+      }
+    ]
+  },
+  "testimonials_section1":{
+    "title": "Testimonials",
+    "list": [
+      {
+        "name": "S. Sarathi",
+        "position": "JMD, Mando Automotive",
+        "description": "Guidance TamilNadu Thanks for swift action through BizBuddy and getting us approval to carry out CSR activity. Very user friendly facility created by Industrial Guidance. Hope more companies use this unique facility.",
+        "image": "/testimonial/sarathi.png"
+      },
+      {
+        "name": "Praveen Mathew",
+        "position": "Amazing experience! The team was very professional and responsive.",
+        "description": "Thank you, Guidance, for easing and getting Kanam Latex clearance through Biz Buddy for setting up a new surgical glove mfg unit at AMRL, Nanguneri which was pending for the last 5 years.",
+        "image": "/testimonial/sasikumar.png"
+      }
+    ]
+  },
+  "top_investors_section": {
+    "title": "Top Investors"
+  },
+  "cta_section": {
+    "title": "Guidance, Your Strategic Business Partner",
+    "cta_button_text": "Get Started"
+  },
+  "testimonial_section": {
+    "title": "The World's Top Businesses Call Tamil Nadu Home",
+    "testimonials": [
+      {
+        "name": "Dr. Jochen Stallkamp",
+        "profession": "Ex-Managing Director, BMW Group Plant, Chennai",
+        "image": "/testimonial/jockhen.png",
+        "description": "Tamil Nadu has good accessibility, very good logistics, very good infrastructure, right mindset and political environment, vibrant policies, find qualified and skilled people here."
+      },
+      {
+        "name": "Nishant Ramkutty",
+        "profession": "Executive Director, Niswinfoods, Coimbatore",
+        "image": "/testimonial/nishant.png",
+        "description": "Single window response for necessary clearances has been very good. They co-ordinated, represented and facilitated for faster approvals for starting and operating. We appreciate their timely intervention for speeding up the necessary approvals. We hope they continue the good work and get better in the coming years. The priority for prompt replies and urgent action was very evident which has made coordination with departments very easy and efficient."
+      },
+      {
+        "name": "M Ponnuswami",
+        "profession": "Chairman, Pon Pure Chemicals",
+        "image": "/testimonial/ponnuswami.png",
+        "description": "Tamilnadu Government is very proactive in bring Investments to the State, some time it is more than expectation of the Industry, whether getting connected to the prospective Investors or resolving the issues of the existing Industries they are very fast. Let me wish Guidance a great Success."
+      },
+      {
+        "name": "Ramkumar Ramamoorthy",
+        "profession": "Ex-Chairman and Managing Director, India at Cognizant",
+        "image": "/testimonial/ramkumar.png",
+        "description": "Over the past 25 years, Guidance Tamil Nadu has played a pivotal role in enabling Cognizant engineer modern businesses to improve everyday life. Guidance has served as a catalyst for our accelerated growth, right from the inception and expansion of our operations in the state, to the pioneering work being done by our Centers of Excellence and Innovation."
+      },
+      {
+        "name": "Rivji Kawashima",
+        "profession": "Deputy Manager Director, Yamaha Group",
+        "image": "/testimonial/rijvi.png",
+        "description": "I strongly believe Tamil Nadu is the most attractive state in starting business in India and recommend Tamil Nadu to prospective investors from Japan and other countries"
+      },
+      {
+        "name": "Sasikumar Gendham",
+        "profession": "Managing Director, Salcomp",
+        "image": "/testimonial/sarathi.png",
+        "description": "Tamil Nadu continues to be a major destination for Electronics, and particularly for Salcomp, the journey this far has been very rewarding. Tamil Nadu provides a very conducive environment for large companies like ours, with accessibility for the heavy supply chain and availability of several thousands of employees. Most importantly, extensive and timely support from policymakers and hand holding throughout the process both during and after investment by the Guidance team is noteworthy to mention."
+      },
+      {
+        "name": "S. Sarathi JMD",
+        "profession": "JMD, Mando Automotive",
+        "image": "/testimonial/sasikumar.png",
+        "description": "Guidance TamilNadu Thanks for swift action through BizBuddy and getting us approval to carry out CSR activity. Very user friendly facility created by Industrial Guidance. Hope more companies use this unique facility."
+      },
+      {
+        "name": "Takashi Haga",
+        "profession": "MD, Yamaha Music India",
+        "image": "/testimonial/takashihaga.png",
+        "description": "Chennai is a strategically located with good connectivity , infrastructure and offers a young and skilled / dedicated people. The Industrial park close to Chennai city and is well-developed. It is suitable for plug and play operations to manufacturing companies. The approvals were extremely hassle-free and very quick, which helped us set up plant as planned. Thanks to the great support from Guidance Bureau and The Government of Tamilnadu."
+      }
+    ]
+  },
+  "experts_section": {
+    "title": "Meet Our Biz Buddy Experts",
+    "experts": [
+      {
+        "name": "Jothi Narayanan",
+        "image": "/experts/jothi-ip.png",
+        "email": "narayanan.j@investtn.in"
+      },
+      {
+        "name": "Praveen Mathew",
+        "image": "/experts/jothi-ip.png",
+        "email": "praveen@investtn.in"
+      },
+      {
+        "name": "Ravi Kumar",
+        "image": "/experts/jothi-ip.png",
+        "email": "ravi@investtn.in"
+      }
+    ]
+  },
+  "news_section": {
+    "title": "Latest News",
+    "articles": [
+      {
+        "title": "Plan to make TN the most favourable investment destination in South Asia: CM",
+        "description": "Chief Minister M K Stalin said the appointment of the Economic council has 'infused confidence among industries' besides garnering global media attention.\n\nThe appointment of a council comprising world renowned economic experts was the base plan towards making Tamil Nadu attain the most favourable investment destination status in South Asia, Chief Minister M K Stalin said on Wednesday.",
+        "image": "/latest-news/cm-statement.png",
+        "link": "#",
+        "tag": "FEATURED"
+      },
+      {
+        "title": "TN will emerge preferred destination for industrial investments: Minister",
+        "description": "Tamil Nadu will emerge as a preferred destination to attract industrial investments. The special economic zone at Nanguneri in Tirunelveli district will take progress with more industrial developments to be witnessed in coming days, Industries Minister Thangam Thennarasu said on Saturday after taking part in the investors meet at Tirunelveli.\n\nMadurai: Chief Minister MK Stalin is keenly interested in achieving industrial growth to promote a stable economy in the southern region of Tamil Nadu.",
+        "image": "/latest-news/minister-statement.png",
+        "link": "#",
+        "tag": "FEATURED"
+      }
+    ],
+    "read_more_button": "Read More",
+    "live_tweets_section": {
+      "title": "Live Tweets",
+      "twitter_handle_url": "https://twitter.com/Guidance_TN",
+      "embed_height": "400"
+    }
+  },
+  "footer": {
+    "sections": [
+      {
+        "heading": "About us",
+        "links": [
+          "Why Tamil Nadu",
+          "Guidance Tamil Nadu",
+          "Single Window Portal",
+          "Biz Buddy",
+          "Business during COVID-19",
+          "Our Team",
+          "MSMEs",
+          "Careers"
+        ]
+      },
+      {
+        "heading": "Sectors",
+        "links": ["Sectors"]
+      },
+      {
+        "heading": "Doing Business in Tamil Nadu",
+        "links": [
+          "Start a Business",
+          "List of Clearances",
+          "Know Your Clearances",
+          "Exports",
+          "Policies and Notifications",
+          "Country Desk"
+        ]
+      },
+      {
+        "heading": "Media & Events",
+        "links": ["Media Gallery", "e-Newsletters", "Blogs", "Guidance Video"]
+      },
+      {
+        "heading": "Initiatives",
+        "links": ["Tamil Nadu AMHUB", "Ease of Doing Business", "WorkLabs"]
+      },
+      {
+        "heading": "Help & Support",
+        "links": ["FAQs", "Submit Your Queries", "Contact Us"]
+      }
+    ],
+    "bottomLinks": ["Privacy Policy", "Terms of Use", "Disclaimer", "Site Map"],
+    "visitorCount": "Visitor Count: 104281692",
+    "copyright": "© 2025 All rights reserved",
+    "subscribePlaceholder": "Enter your email address",
+    "subscribe": "Subscribe"
+  }
+}

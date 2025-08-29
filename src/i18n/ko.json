@@ -1,0 +1,1467 @@
+{
+  "hero_section": {
+    "welcome": "환영합니다",
+    "tamilnadu": "타밀나두",
+    "tagline": "번영하는 기회의 터전",
+      "description": "타밀나두는 발전의 동반자이자, 국내에서 가장 비즈니스 친화적인 주입니다. 130개 이상의 글로벌 포춘 500대 기업과 주요 대기업의 본거지입니다",
+    "cta_button": "타밀나두와 협력하세요",
+    "scroll_down": "아래로 스크롤"
+  },
+  "statistics_section": {
+    "gdp": "인도 GDP의 두 번째로 큰 기여 주",
+    "export": "인도 수출의 세 번째로 큰 기여 주",
+    "airports": "국제공항 4곳, 국내공항 2곳",
+    "ports": "주요 항구 4곳, 소형 항만 18곳"
+  },
+  "innovate_statistics_section": {
+    "business_friendly": "비즈니스 친화적인 환경과 지원적인 정부.",
+    "diverse": "적절한 전문성을 갖춘 다양한 인재 풀.",
+    "fast_growing": "빠르게 성장하는 시장에 접근."
+  },
+  "innovation_section": {
+    "invest": "투자",
+    "innovate": "혁신",
+    "create": "창조",
+    "overview": "Guidance는 타밀나두 정부가 지정한 투자 유치 주관 기관입니다.",
+    "highlights": [
+      "비즈니스 친화적인 환경",
+      "지원하는 정부",
+      "충분한 전문성을 갖춘 다양한 인재 풀",
+      "빠르게 성장하는 시장에 대한 접근"
+    ],
+    "cta_button_1": "지금 투자 시작하기",
+    "cta_button_2": "신규 투자자 신청서",
+    "in_tamil_nadu": {
+      "in": "에서",
+      "location": "타밀나두"
+    }
+  },
+  "shape_section": {
+    "title": "혁신이 미래를 만들어가는 곳",
+    "description": "첨단 연구개발의 최전선에 서 있는 타밀나두는 진보와 창의성의 등대로 자리 잡고 있습니다. 기술 발전과 기업가 정신으로 잘 알려진 이 주는 우수 인재를 유치하고 혁신적인 문화를 조성합니다. 최첨단 시설과 스타트업 및 산업 대기업의 역동적인 생태계와 함께 인도에서 가장 선호되는 투자지입니다.",
+    "cards": [
+      {
+        "title": "최대",
+        "text": "인도 내 공장 수"
+      },
+      {
+        "title": "최대",
+        "text_parts": ["연간 매출", "숙련된 노동력 수 (인도)"]
+      },
+      {
+        "title": "최대",
+        "text_parts": ["고등 교육 기관", "수 (인도)"]
+      },
+      {
+        "text": "인도에서 출원된 특허 수",
+        "title_below": "최대"
+      },
+      {
+        "title": "최대",
+        "text_parts": ["여성 노동력", "인도 내 공장 근무자 수"]
+      },
+      {
+        "title": "최대",
+        "text": "인도 내 운영 중인 경제특구(SEZ) 수"
+      }
+    ]
+  },
+   "sectors_section": {
+    "title": "산업 분야",
+    "sectors": [
+      {
+        "title": "자동차, 부품 및 전기차",
+        "stats": {
+          "left": "35%",
+          "leftLabel": "인도의 자동차 부품 생산",
+          "right": "40%",
+          "rightLabel": "인도에서 판매되는 전기차의 40%는 타밀나두에서 제조됨"
+        },
+        "description": "타밀나두는 세계 10대 자동차 허브 중 하나로, ‘인도의 자동차 수도’로 불립니다. 1955년 첸나이에 설립된 통합 객차 공장이 이 지역의 자동차 산업을 시작했습니다. 아쇼크 레이랜드(1948년 설립)가 주요 기업으로 부상하였으며, 현대자동차가 1998년 인도 최초의 제조 공장을 설립하면서 타밀나두의 입지를 더욱 강화했습니다.",
+        "sector_expert": "산업 전문가",
+        "speaker": {
+          "name": "프라바카란 A S",
+          "email": "prabakaran@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "전자 및 반도체",
+        "stats": {
+          "left": "30%",
+          "leftLabel": "인도의 전자제품 수출 비중",
+          "right": "40%",
+          "rightLabel": "인도의 스마트폰 수출 비중"
+        },
+        "description": "타밀나두는 세계 10대 자동차 허브 중 하나로, ‘인도의 자동차 수도’로 잘 알려져 있습니다.",
+        "sector_expert": "산업 전문가",
+        "speaker": {
+          "name": "라가우브 G",
+          "email": "raghauv@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "섬유, 의류 및 산업용 섬유",
+        "stats": {
+          "left": "1위",
+          "leftLabel": "의류 생산 부문",
+          "right": "1위",
+          "rightLabel": "면사 생산 및 수출"
+        },
+        "description": "‘인도의 원사 그릇’이라 불리는 타밀나두는 방적, 직조, 가공, 니트웨어, 의류 및 봉제에서 강력한 존재감을 보입니다. 이 주는 인도 섬유 산업의 최대 기여자이며, 숙련된 장인정신과 독특한 제품으로 세계적인 브랜드에 공급하고 있습니다.",
+        "sector_expert": "산업 전문가",
+         "speaker": {
+          "name": "난다 고팔",
+          "email": "nandha@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "정보기술 및 서비스",
+        "stats": {
+          "left": "11%",
+          "leftLabel": "인도의 전체 IT 투자 비율",
+          "right": "3위",
+          "rightLabel": "소프트웨어 수출 부문"
+        },
+        "description": "타밀나두는 IT 및 ITeS 부문에서 인도 내 최초로 정책을 수립한 주 중 하나로, 혁신과 성장을 촉진해왔습니다. 강력한 산업 기반과 현대식 인프라, 안정적인 전력 공급, 우수한 의료 시스템, 명문 대학, 숙련된 인재 덕분에 이 지역은 IT 활동의 중심지로 자리 잡았습니다.",
+        "sector_expert": "산업 전문가",
+       "speaker": {
+          "name": "아룬 조지 매튜",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "신재생 에너지",
+        "stats": {
+          "left": "~64GW",
+          "leftLabel": "타밀나두의 풍력 발전 가능성",
+          "right": "40%",
+          "rightLabel": "인도의 재생에너지 제조 역량"
+        },
+        "description": "타밀나두는 인도에서 신재생 에너지 부문을 선도하고 있으며, 10,734MW 이상의 풍력 및 대규모 태양광 설비를 보유하고 있습니다. 전력의 약 50%를 재생에너지로 충당하며, 진보적인 정책과 유엔환경계획(UNEP)과의 파트너십으로 친환경 인프라 확대에 박차를 가하고 있습니다.",
+        "sector_expert": "산업 전문가",
+        "speaker": {
+          "name": "프라딥 R",
+          "email": "pradeep@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "서비스 및 연구개발 센터",
+        "stats": {
+          "left": "250+",
+          "leftLabel": "타밀나두에 위치한 글로벌 역량 센터(GCC)",
+          "right": "750+",
+          "rightLabel": "주 내 연구개발(R&D) 기관 수"
+        },
+        "description": "타밀나두는 인도 내 글로벌 역량 센터(GCC) 및 연구개발 허브로 부상했습니다. 첸나이는 SaaS의 중심지로 알려져 있으며, 전국 GCC의 약 10%를 차지합니다. 이 센터들은 IT, 금융, 엔지니어링, 의료 등 다양한 분야에서 활동하고 있으며, 숙련된 인력과 인프라, 친기업 정책이 글로벌 기업을 끌어들이고 있습니다.",
+        "sector_expert": "산업 전문가",
+        "speaker": {
+          "name": "아룬 조지 매튜",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "항공우주 및 국방",
+        "stats": {
+          "left": "2위",
+          "leftLabel": "인도의 두 번째 위성 발사 센터 (쿨라세카라파트티남)",
+          "right": "전용",
+          "rightLabel": "항공우주 및 방위 산업 단지"
+        },
+        "description": "타밀나두는 역사적으로 군사 활동의 중심지였으며, 1910년 아시아 최초의 비행 시험과 마드라스 비행 클럽 설립, 인도 공군 초기 비행중대 중 하나인 6번 중대 주둔 등 방위 산업의 초석을 다졌습니다. 현재는 국방산업 회랑으로 지정되어 있으며, 국영 방산기업 및 민간 우주산업 투자 기회가 확대되고 있습니다.",
+        "sector_expert": "산업 전문가",
+         "speaker": {
+          "name": "데바시스 대시",
+          "email": "debasis@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "소비재, 식품가공 및 농업비즈니스",
+        "stats": {
+          "left": "1천만 톤",
+          "leftLabel": "식량 작물 생산량",
+          "right": "2위",
+          "rightLabel": "식품가공 단지 수 기준 전국 2위"
+        },
+        "description": "다양한 기후대를 가진 타밀나두는 농식품 가공 산업의 선도 지역으로, 약 24,000개의 중소기업과 1,100개의 중대형 기업이 운영 중입니다. 풍부한 농업 자원, 수요 증가, 국내외 시장 접근성으로 이 산업 분야에서 경쟁력을 확보하고 있습니다.",
+        "sector_expert": "산업 전문가",
+        "speaker": {
+          "name": "트리샤 센틸 쿠마르",
+          "email": "trishya@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "가죽 및 신발 산업",
+        "stats": {
+          "left": "29%",
+          "leftLabel": "인도 신발 제조 점유율",
+          "right": "48%",
+          "rightLabel": "인도 가죽 및 비가죽 신발 수출 점유율"
+        },
+        "description": "타밀나두는 가죽 장인의 전통이 뿌리 깊게 자리 잡은 주로, 인도 가죽 생산의 선두주자입니다. 전국 제혁 용량의 60% 이상을 보유하고 있으며, 1,650개 이상의 기업이 운영되고 있습니다. 지속 가능한 패션의 일환으로 비가죽 신발 분야도 선도하고 있습니다.",
+        "sector_expert": "산업 전문가",
+        "speaker": {
+          "name": "프라딥 R",
+          "email": "pradeep@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "기계 및 자본재",
+        "stats": {
+          "left": "$400억+",
+          "leftLabel": "자본재 생산 규모",
+          "right": "2위",
+          "rightLabel": "중장비 및 기계 수출"
+        },
+        "description": "타밀나두는 정밀 기계, 중장비, 유압 시스템 제조에서 세계적 수준의 허브로 자리잡고 있으며, 인도의 산업 기반을 강화하고 국가 경제 성장을 견인하는 주요 역할을 하고 있습니다.",
+        "sector_expert": "산업 전문가",
+        "speaker": {
+          "name": "바라다라즈 S",
+          "email": "Varadharaj@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "산업단지",
+        "stats": {
+          "left": "최다",
+          "leftLabel": "인도 내 공장 수",
+          "right": "최다",
+          "rightLabel": "운영 중인 특별경제구역(SEZ) 수"
+        },
+        "description": "타밀나두는 자동차, 전자, IT, 섬유, 항공우주, 식품가공 등 다양한 분야의 전문 산업 클러스터를 보유한 비즈니스 중심지입니다. 광범위한 산업 용지, 선도적 민간 및 공공 산업단지, 조인트 벤처, 플러그앤플레이, 브라운필드 투자 기회를 제공합니다.",
+        "sector_expert": "산업 전문가",
+        "speaker": {
+          "name": "난다 고팔",
+          "email": "nandha@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "생명과학",
+        "stats": {
+          "left": "2.8%",
+          "leftLabel": "국가 생명과학 생산 비중",
+          "right": "5위",
+          "rightLabel": "인도 내 제약 생산 규모"
+        },
+        "description": "타밀나두는 1978년 인도 최초의 제약단지를 설립하며 의료 인프라 발전을 주도해 왔습니다. 현재는 글로벌 제약 및 의료기기 제조사의 중심지로 성장했으며, 의료 전자 분야도 두 자릿수 성장을 보이며 생명과학 분야의 혁신을 이끌고 있습니다.",
+        "sector_expert": "산업 전문가",
+       "speaker": {
+          "name": "아슈라이 아룬",
+          "email": "aashrai@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "금융 및 은행 서비스",
+        "stats": {
+          "left": "60%",
+          "leftLabel": "포춘 BFSI 기업 중 타밀나두 진출 비율",
+          "right": "100+",
+          "rightLabel": "핀테크 스타트업 수"
+        },
+        "description": "1682년 마드라스 은행 설립 이후, 타밀나두는 금융 서비스 산업의 핵심 주체로 자리잡았습니다. 현재 인도 내 BFSI 글로벌 역량센터(GCC)의 약 15%가 이곳에 있으며, 글로벌 핀테크 허브로 부상하고 있습니다.",
+        "sector_expert": "산업 전문가",
+        "speaker": {
+          "name": "아룬 조지 매튜",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "화학 및 석유화학",
+        "stats": {
+          "left": "2600+",
+          "leftLabel": "화학 제조 단위 수",
+          "right": "$34억",
+          "rightLabel": "2023–24년 화학 제품 수출액"
+        },
+        "description": "타밀나두의 화학 및 석유화학 산업은 산업 성장과 경제 발전에 핵심적인 역할을 하고 있습니다. 석유화학, 제약, 농화학, 특수 화학, 섬유 화학 등 다양한 하위 분야를 포괄하며, 전략적 위치, 숙련된 인재, 우호적인 비즈니스 환경을 갖춘 인도 내 주요 허브입니다.",
+        "sector_expert": "산업 전문가",
+        "speaker": {
+          "name": "라가우브 G",
+          "email": "raghauv@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      },
+      {
+        "title": "관광 및 환대 산업",
+        "stats": {
+          "left": "2억+",
+          "leftLabel": "연간 국내 관광객 수",
+          "right": "400만+",
+          "rightLabel": "연간 해외 관광객 수"
+        },
+        "description": "세계에서 가장 오래된 문명 중 하나의 본거지인 타밀나두는 지리적, 문화적, 역사적으로 풍부한 다양성을 자랑합니다. 사원 건축, 음악과 춤, 아름다운 해변과 자연경관, 전통 수공예와 미식 등 독특한 문화가 관광 자원으로 발전하였으며, 의료 관광과 산업 성장으로 국제 호텔 브랜드의 투자처로 주목받고 있습니다.",
+        "sector_expert": "산업 전문가",
+        "speaker": {
+          "name": "프라바카란 A S",
+          "email": "prabakaran@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "이 분야에서 더 보기",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+
+      }
+    ]
+  },
+   "map_section": {
+        "title": "타밀 나두 탐험",
+  "description": "타밀나두의 비즈니스에 대한 헌신은, 연결성, 물, 전력, 통신 분야에서 견고한 공공 인프라를 구축하게 했습니다. 이는 공급망과 유통 경로를 온전히 유지하고, 빠르게 변화하는 경제 환경에 맞춘, 인적 및 사회적 자본의 발전을 보장했습니다.",        "explore_district_btn": "탐색",
+        "view_all_btn": "모든 지구 보기",
+        "district_btn": "지구",
+        "airports_btn": "공항",
+        "seaports_btn": "항구",
+        "highways_btn": "고속도로",
+        "industries_btn": "산업",
+        "telecom_btn": "통신",
+
+        "districts": {
+            "Krishnagiri": {
+                "title": "크리슈나기리",
+                "description": "크리슈나기리의 경제는 번창하는 자동차 산업에 의해 성장하고 있습니다. 아름다운 언덕에 둘러싸여 있으며 벨로어, 티루반나말라이, 카르나타카, 안드라프라데시와 접하고, 방갈로르 인근의 전략적 위치가 호수르의 급속한 산업 성장을 촉진합니다.",
+                "stats": {
+                    "면적": "5143 평방 km",
+                    "인구": "18,83,731",
+                    "문해율": "71.46%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "벵갈루루 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "크리슈나기리 철도역과 벵갈루루 철도역"
+                    }
+                ]
+            },
+            "Nilgiris": {
+                "title": "닐기리스",
+                "description": "언덕의 여왕’이라 불리는 닐기리스는 관광 명소이자 원주민 공동체의 고향입니다. 경제는 원예—감자, 차, 커피, 향신료, 과일—와 함께 차, 커피, 후추 가공 산업에 의존하고 있습니다.",
+                "stats": {
+                    "면적": "2452.5 평방 km",
+                    "인구": "7,35,394",
+                    "문해율": "85.2%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "코임바토르 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "우다가만달람 철도역과 코임바토르 철도역"
+                    }
+                ]
+            },
+            "Virudhunagar": {
+                "title": "비루두나가르",
+                "description": "비루드후나가는 산업과 농업의 핵심 물류 거점으로, 인도 전체 성냥과 폭죽 생산의 70% 이상을 차지합니다. 여러 구와 케랄라 주와 접하며, 성냥·폭죽·인쇄 산업에서 선도적인 위치를 차지하고 있습니다. 면화는 주요 작물이며, 라자팔라얌은 방적 및 탈종 공장의 중심지입니다.",
+                "stats": {
+                    "면적": "4288 평방 km",
+                    "인구": "19,42,288",
+                    "문해율": "80.15%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "마두라이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "비루두나가르 철도역과 마두라이 철도역"
+                    }
+                ]
+            },
+            "Kanyakumari": {
+                "title": "카냐쿠마리",
+  "description": "인도 최남단에 위치한 칸야쿠마리는 문해율과 인간개발지수에서 타밀나두 주를 선도하며, 인구 밀도에서는 2위를 차지합니다. 티룬넬벨리, 케랄라, 세 개의 수역과 접한 독특한 지리와 풍부한 문화가 이곳을 최고의 관광지로 만듭니다.",
+                "stats": {
+                    "면적": "1672 평방 km",
+                    "인구": "18,70,374",
+                    "문해율": "91.75%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "티루바난타푸람 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "카냐쿠마리 철도역"
+                    }
+                ]
+            },
+            "Coimbatore": {
+                "title": "코임바토르",
+  "description": "코임바토르는 타밀나두 주에서 두 번째로 큰 도시로, 교육과 중소기업 중심지이며 주 GDP의 7%를 기여합니다. 산업, 농업, 관광의 핵심 물류 거점으로서 닐기리스, 이두키, 케랄라를 연결합니다. 티루푸르, 에로드, 서고츠 산맥과 접하고 있으며, 인도 최대의 펌프와 습식 그라인더 생산지로 ‘펌프 시티’라는 별명을 가지고 있습니다.",
+                "stats": {
+                    "면적": "4723 평방 km",
+                    "인구": "34,58,045",
+                    "문해율": "83.98%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "코임바토르 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "코임바토르 철도역"
+                    }
+                ]
+            },
+            "Cuddalore": {
+                "title": "커달로어",
+  "description": "쿠달로르는 해안 지구로, 도자기, 캐슈 가공, 석유 생산으로 유명합니다. 빌루푸람, 나가파티남, 페람발루르와 접하며, 대규모 어민 공동체가 있는 주요 어업 중심지입니다. 산업 단지에는 수많은 화학, 바이오, 제약, 비료 회사들이 입주해 있습니다.",
+                "stats": {
+                    "면적": "3678 평방 km",
+                    "인구": "26,05,914",
+                    "문해율": "78.04%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "첸나이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "커달로어 철도역"
+                    }
+                ]
+            },
+            "Karur": {
+                "title": "카루르",
+  "description": "카루르는 타밀나두 중앙에 위치하며, 나마칼, 딘디굴, 티루치라파리, 에로드, 티루푸르와 접하고 있습니다. 주택용 섬유, 버스 차체 제작, 제지 산업으로 유명한 번창하는 산업 중심지이며, 전체 노동력의 30% 이상이 제조업에 종사하고 있습니다.",
+                "stats": {
+                    "면적": "2895.57 평방 km",
+                    "인구": "10,64,493",
+                    "문해율": "75.6%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "코임바토르 국제공항과 티루치라팔리 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "커달로어 항구와 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "카루르 철도역"
+                    }
+                ]
+            },
+            "Tiruppur": {
+                "title": "티루푸르",
+"description": "티루푸르는 인도의 ‘니트웨어 수도’로, 인구 및 경제가 빠르게 성장하고 있습니다. 세계적인 섬유 중심지로서 주요 소매업체에 의류를 공급합니다. 이 지역은 코임바토르, 에로드, 카루르, 딘디굴과 접하고 있습니다. 카베리강의 지류인 노이얄강은 번창하는 니팅 및 염색 산업을 뒷받침합니다.",
+                "stats": {
+                    "면적": "5186.34 평방 km",
+                    "인구": "24,79,052",
+                    "문해율": "78.68%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "코임바토르 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "티루푸르 철도역"
+                    }
+                ]
+            },
+            "Nagapattinam": {
+                "title": "나가파티남",
+"description": "나가파티남은 타밀나두의 해안 지역으로, 어업, 관광, 농업으로 번영합니다. 벵골만, 팔크 해협, 티루바루르, 푸두체리와 접하며, 과거에는 동방 국가들과의 역사적인 무역 중심지였습니다. 포인트 칼리메르에서 이어지는 베다라니얌 염습지는 주에서 가장 깁니다.",
+                "stats": {
+                    "면적": "2715.83 평방 km",
+                    "인구": "16,16,450",
+                    "문해율": "83.59%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "티루치라팔리 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "커달로어 항구와 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "나가파티남 철도역"
+                    }
+                ]
+            },
+            "Theni": {
+                "title": "테니",
+"description": "테니는 '카다몸 시티'로 알려져 있으며, 주요 카다몸 무역 중심지입니다. 이곳은 딘디굴, 마두라이, 비루두나가르, 케랄라와 접하고 있습니다. 직물 산업이 번창하고 있으며, 주요 포도 재배지인 쿰밤 계곡이 있습니다.",
+                "stats": {
+                    "면적": "3066 평방 km",
+                    "인구": "12,45,899",
+                    "문해율": "77.26%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "마두라이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "보디나야카누르 철도역과 마두라이 철도역"
+                    }
+                ]
+            },
+            "Tirunelveli": {
+                "title": "티루넬벨리",
+"description": "티루넬벨리는 타밀나두에서 독특한 지역으로, 서부 가츠 산맥에서 해안까지 뻗어 있으며, 폭포와 야생동물 보호구역이 있습니다. 타미라파라니 강이 이 지역을 지탱하며, 강가콘단의 ELCOT IT 파크가 서비스 산업을 발전시키고 있습니다. 석회암 매장량 덕분에 시멘트 산업이 번성합니다. 이 지역은 케랄라, 만나르 만, 비루두나가르, 투티코린, 칸니야쿠마리와 접하고 있습니다.",
+                "stats": {
+                    "면적": "3842.37 평방 km",
+                    "인구": "16,65,253",
+                    "문해율": "82.5%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "투티코린 국내공항과 마두라이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "티루넬벨리 철도역"
+                    }
+                ]
+            },
+            "Kallakurichi": {
+                "title": "칼라쿠리치",
+"description": "칼라쿠리치는 '농업의 고향'으로 쌀 가공의 중심지입니다. 빌루푸람, 쿠다로르 & 페람발루르, 세일럼, 티루반나말라이 & 다르마푸리에 접해 있습니다. 주요 산업으로는 섬유, 보석, 농업 사료가 포함됩니다.",
+                "stats": {
+                    "면적": "3520.37 평방 km",
+                    "인구": "13,70,281",
+                    "문해율": "63.49%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "첸나이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "친나셀람 철도역"
+                    }
+                ]
+            },
+            "Pudukottai": {
+                "title": "푸두코타이",
+"description": "푸두코타이는 옛 왕국으로 요새, 사원, 동굴 예술 등 풍부한 문화 유산을 자랑합니다. 벵골만, 트리치, 시바간가이, 라마나타푸람, 탄자부르와 인접하며 풍부한 천연 자원을 보유하고 있습니다. 마추바디, 마투르, 발라누르에 산업 단지가 있습니다.",
+                "stats": {
+                    "면적": "4663 평방 km",
+                    "인구": "16,18,345",
+                    "문해율": "77.19%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "티루치라팔리 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "커달로어 항구와 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "푸두코타이 철도역"
+                    }
+                ]
+            },
+            "Sivagangai": {
+                "title": "시방가이",
+"description": "시바간가이는 매운 체티나드 요리로 유명합니다. 검은 토양은 주요 생계인 농업을 지원합니다. 산업으로는 설탕 공장과 재생 에너지 농장이 있습니다. 이 지역은 푸두코타이, 티루치라팔리, 라마나타푸람, 비루두나가르, 마두라이와 인접해 있습니다.",
+                "stats": {
+                    "면적": "4086 평방 km",
+                    "인구": "13,39,101",
+                    "문해율": "79.85%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "마두라이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "시방가이 철도역과 마두라이 철도역"
+                    }
+                ]
+            },
+            "Namakkal": {
+                "title": "나마칼",
+"description": "나막칼은 인도의 '운송 도시'로서 전국 물류에 중요한 트럭 차체 제작 산업으로 유명합니다. 셀람, 카루르, 트리치, 에로데와 인접해 있으며 남인도에서 주요한 달걀 생산지이기도 합니다.",
+                "stats": {
+                    "면적": "3368.21 평방 km",
+                    "인구": "17,26,601",
+                    "문해율": "74.63%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "살렘 국내공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "커달로어 항구와 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "나마칼 철도역"
+                    }
+                ]
+            },
+            "Perambalur": {
+                "title": "페람발루르",
+"description": "페람발루르는 내륙 지역으로 4억 1,600만 년 된 해양 화석을 포함하고 있습니다. 칼라쿠리치, 티루치라팔리, 아리얄루르, 셀람과 인접해 있습니다. 타밀나두에서 옥수수와 양파 생산을 선도하고 있습니다. TANSIDCO 산업 단지에는 주요 제조 시설이 있습니다.",
+                "stats": {
+                    "면적": "1757 평방 km",
+                    "인구": "5,65,223",
+                    "문해율": "74.32%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "살렘 국내공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "아리알루르 철도역"
+                    }
+                ]
+            },
+            "Thanjavur": {
+                "title": "탄자부르",
+"description": "탄자부르는 '남인도의 곡창지대'로, 컬룬강, 티루바루르, 팔크 해협, 푸두코타이에 접해 있는 주요 벼 생산지입니다. 탄자부르 인형, 회화, 악기와 같은 농촌 공예로 유명하며 전 세계적인 수요가 있습니다.",
+                "stats": {
+                    "면적": "3396.57 평방 km",
+                    "인구": "24,05,890",
+                    "문해율": "82.64%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "티루치라팔리 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "커달로어 항구와 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "탄자부르 철도역"
+                    }
+                ]
+            },
+            "Ariyalur": {
+                "title": "아리알루르",
+"description": "아리아랄루르는 석회석과 셰일 같은 광물이 풍부한 시멘트 산업 중심지입니다. 쿠달로르, 탄자부르, 페람발루르, 마일라두투라이와 인접해 있습니다. 노동력의 59%가 농업에 종사합니다. 산업 단지에는 수많은 식품 가공 시설이 있습니다.",
+                "stats": {
+                    "면적": "1940 평방 km",
+                    "인구": "7,54,894",
+                    "문해율": "71.34%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "트리치 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "아리알루르 철도역"
+                    }
+                ]
+            },
+            "Viluppuram": {
+                "title": "빌루푸람",
+"description": "빌루푸람은 '타밀나두의 설탕 그릇'으로 알려져 있으며, 쌀과 설탕 공장과 같은 농업 산업이 번창하고 있습니다. 290만 명의 농촌 인구로 주에서 가장 크며, 벵골 만과 푸두체리, 칸치푸람, 쿠달로르, 다르마푸리와 접해 있습니다. 인근 아우로빌은 5,000명의 현지인을 고용하는 170개의 사회적 기업이 있는 실험적 도시입니다.",
+                "stats": {
+                    "면적": "3725.54 평방 km",
+                    "인구": "34,58,873",
+                    "문해율": "71.88%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "첸나이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "빌루푸람 철도역"
+                    }
+                ]
+            },
+            "Chengalpattu": {
+                "title": "첸갈파투",
+"description": "첸갈파트는 타밀나두 북동 해안에 새로 형성된 구역으로, 자연 경관이 아름답습니다. 체나이, 칸치푸람, 티루반나말라이, 빌루푸람과 인접해 있습니다. 주에서 두 번째로 큰 호수인 마두란타캄(2,400에이커)이 있고, 상징적인 마하발리푸람 쇼어 사원이 있습니다. 또한 올드 마하발리푸람 로드를 따라 주요 기술 기업들이 위치한 IT 코리더와 활발한 자동차 제조 허브가 있습니다.",
+                "stats": {
+                    "면적": "2944.96 평방 km",
+                    "인구": "25,56,244",
+                    "문해율": "91.88%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "첸나이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 엔노르 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "첸갈파투 철도역"
+                    }
+                ]
+            },
+            "Thiruvallur": {
+                "title": "티루발루르",
+"description": "티루발루르는 칸치푸람, 라니펫, 체나이, 안드라프라데시와 접해 있는 산업적 중요성을 지닌 지역입니다. 주요 공장, 에노르 화력 발전소, 아바디 전차 공장, 학술 기관 및 사원이 있어 전략적 가치를 높이고 있습니다.",
+                "stats": {
+                    "면적": "3422.43 평방 km",
+                    "인구": "37,28,104",
+                    "문해율": "84.03%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "첸나이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 엔노르 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "티루발루르 철도역"
+                    }
+                ]
+            },
+            "Tenkasi": {
+                "title": "텐카시",
+"description": "텐카시는 코탈람 폭포가 있으며 북쪽으로 비루둔가르, 동쪽으로 토투쿠디, 남쪽으로 티루넬벨리, 서쪽으로 케랄라와 접해 있습니다. 남 타밀나두의 누에치기, 코이어 산업 및 주요 영적 장소로 유명합니다.",
+                "stats": {
+                    "면적": "2916.13 평방 km",
+                    "인구": "14,07,627",
+                    "문해율": "87.71%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "투티코린 국내공항과 마두라이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "텐카시 철도역과 티루넬벨리 철도역"
+                    }
+                ]
+            },
+            "Chennai": {
+                "title": "첸나이",
+"description": "첸나이는 타밀나두의 수도로 인도에서 네 번째로 큰 대도시입니다. 동남해안의 주요 산업 및 상업 중심지로, 풍부한 문화와 강력한 경제를 결합합니다. 주요 분야: 자동차, SaaS, 의료 관광, 하드웨어, 데이터 센터 및 핀테크.",
+                "stats": {
+                    "면적": "178.2 평방 km",
+                    "인구": "46,46,732",
+                    "문해율": "90.18%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "첸나이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구와 엔노르 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "첸나이 중앙 철도역"
+                    }
+                ]
+            },
+            "Madurai": {
+                "title": "마두라이",
+"description": "마다라이, 고대 남인도 도시로 타밀나두에서 면적 기준으로 두 번째, 인구 기준으로 세 번째로 큽니다. 산업과 관광이 활발한 중심지로 딘디굴, 티루치라팔리, 시바간가이, 테니, 비루두나가르와 접해 있습니다. 이 지역은 고도로 도시화되어 있으며 섬유, 식품 가공, 고무 산업 및 교육에 기반한 번창하는 경제를 가지고 있습니다.",
+                "stats": {
+                    "면적": "3741.73 평방 km",
+                    "인구": "30,38,252",
+                    "문해율": "83.45%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "마두라이 국제공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "마두라이 철도역"
+                    }
+                ]
+            },
+            "Salem": {
+                "title": "살렘",
+"description": "세일럼은 지질학자들의 천국으로, 언덕으로 둘러싸여 있고 작은 언덕들이 점재해 있습니다. 다르마푸리, 에로데, 나막칼, 칼라쿠리치, 페람발루르 구역과 인접해 있습니다. 로프 제조와 여름 휴양지 예르카우드로 유명하며, 망고가 매우 귀중하게 여겨집니다.",
+                "stats": {
+                    "면적": "5245 평방 km",
+                    "인구": "34,82,056",
+                    "문해율": "72.86%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "살렘 국내 공항 & 코임바토르 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "투티코린 항구 & 첸나이 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "살렘 철도역"
+                    }
+                ]
+            },
+            "Erode": {
+                "title": "에로드",
+"description": "에로데는 타밀나두의 콩구 지역의 일부로, 수공직기, 파워룸, 기성복의 섬유제품과 유제품, 강황으로 알려진 산업 중심지입니다. 카르나타카, 우다가만달람, 코임바토르, 티루푸르, 카루르, 나막칼, 세일렘 구역과 경계를 이룹니다.",
+                "stats": {
+                    "면적": "5722 평방 km",
+                    "인구": "22,51,744",
+                    "문해율": "72.58%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "코임바토르 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구 & 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "에로드 철도역"
+                    }
+                ]
+            },
+            "Dindugal": {
+                "title": "딘디걸",
+"description": "딘두갈은 안전 잠금장치, 가죽 무두질, 섬유 방적 및 농업 무역으로 알려져 있습니다. 티루푸르, 카루르, 티루치, 마두라이, 테니 및 케랄라의 이두키와 접경해 있습니다. 친날라파트티의 직조공들은 유명한 성구디 실크 사리를 생산하며, 인기 있는 산악 휴양지 코다이카날이 이 구역 내에 위치해 있습니다.",
+                "stats": {
+                    "면적": "6266.64 평방 km",
+                    "인구": "21,59,775",
+                    "문해율": "76.26%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "마두라이 국제 공항 & 티루치라팔리 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "커달로어 항구 & 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "딘디걸 철도역"
+                    }
+                ]
+            },
+            "Tiruchirapalli": {
+                "title": "티루치라팔리",
+"description": "티루치라팔리는 역사적, 문화적, 경제적 중요성을 지닌 지역입니다. 국방 산업 회랑의 핵심 노드로 BHEL, 중합금 관통기 프로젝트 및 군수 공장과 같은 주요 공기업이 위치해 있습니다. 이 지역에는 NIT, IIM, IIIT 같은 주요 기관도 있습니다. 세일럼, 나막칼, 페람발루르, 아리얄루르, 탄자부르, 푸두코타이, 카루르와 경계를 접하고 있습니다.",
+                "stats": {
+                    "면적": "4407 평방 km",
+                    "인구": "27,22,290",
+                    "문해율": "83.23%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "티루치라팔리 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구 & 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "티루치라팔리 철도역"
+                    }
+                ]
+            },
+            "Thiruvarur": {
+                "title": "티루바루르",
+"description": "티루바루르는 한때 촐라 제국의 수도였으며, 타밀나두의 비옥한 쌀 지대에 위치해 있습니다. 이 지역은 동쪽으로 나가파티남, 북쪽으로 마일라두트라이, 서쪽으로 탄자부르, 남쪽으로 팔크 해협, 북동쪽으로 푸두체리의 카라이칼과 인접해 있습니다. 산업은 주로 농업 기반이며, 최근에는 천연 가스 추출과 발전이 성장하고 있습니다.",
+                "stats": {
+                    "면적": "2161 평방 km",
+                    "인구": "12,64,277",
+                    "문해율": "82.86%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "티루치라팔리 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "커달로어 항구 & 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "티루바루르 철도역"
+                    }
+                ]
+            },
+            "Mayiladuthurai": {
+                "title": "마일라두투라이",
+"description": "마일라두트라이는 2020년에 나가파티남에서 분리되어 커들로어, 탄자부르, 카라이칼, 티루바루르, 벵골만과 접해 있습니다. 이 해안 지역은 어업과 농업이 번성하며 타랑감바디의 네덜란드 유산을 보존하고 있습니다. 또한 종교 순례 경로를 따라 중요한 힌두교 사원이 있습니다.",
+                "stats": {
+                    "면적": "1172 평방 km",
+                    "인구": "918356",
+                    "문해율": "78.78%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "티루치라팔리 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "커달로어 항구 & 투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "마일라두투라이 철도역"
+                    }
+                ]
+            },
+            "Vellore": {
+                "title": "벨로르",
+"description": "벨로르는 주요 산업 중심지로서 가죽 산업과 역사적인 요새로 유명합니다. 이 지역에는 자바두 산맥이 있으며 높은 문해율과 강력한 교육 시스템을 자랑합니다. 티루발루르, 칸치푸람, 티루반나말라이, 크리슈나기리, 안드라프라데시와 인접해 있습니다.",
+                "stats": {
+                    "면적": "2080.11 평방 km",
+                    "인구": "16,14,242",
+                    "문해율": "79.17%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "첸나이 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구 & 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "벨로르 철도역"
+                    }
+                ]
+            },
+            "Ranipet": {
+                "title": "라니펫",
+"description": "라니페트는 남인도의 중요한 산업 중심지로서 벨로르, 칸치푸람, 티루반나말라이, 티루발루르 지역과 경계를 접하고 있습니다. 이 지역은 가죽 제조에 특화되어 있으며, 수출 품질의 완성 가죽, 신발 및 의류를 생산하며 화학 공장과 공구 제조 시설도 갖추고 있습니다.",
+                "stats": {
+                    "면적": "2234.32 평방 km",
+                    "인구": "12,10,277",
+                    "문해율": "86.08%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "첸나이 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구 & 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "라니펫 철도역"
+                    }
+                ]
+            },
+            "Tirupattur": {
+                "title": "티루파투르",
+"description": "티루파트르는 달, 자가리, 고추, 면화, 농산물 무역의 상업 중심지로 번성합니다. 벨로르, 크리슈나기리, 다르마푸리, 티루반나말라이와 접경하며 바니암바디에 쌀 방앗간과 비디 공장을 보유하고 있습니다. 암부르는 산업 지역으로 신발, 의류와 같은 가죽 수출을 전문으로 합니다.",
+                "stats": {
+                    "면적": "1792.92 평방 km",
+                    "인구": "11,11,812",
+                    "문해율": "82.17%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "벵갈루루 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "티루파투르 철도역 & 살렘 철도역"
+                    }
+                ]
+            },
+            "Tiruvannamalai": {
+                "title": "티루반나말라이",
+"description": "티루반나말라이, 타밀나두 북부의 농업 지역으로 동쪽은 칸치푸람, 남쪽은 빌루푸람, 서쪽은 다르마푸리와 크리슈나기리, 북쪽은 벨로르와 접해 있습니다. 이 지역은 아라니 실크 사리 생산으로 유명하며, 주요 제조 시설이 위치한 체이어 산업 공원이 있습니다.",
+                "stats": {
+                    "면적": "6191 평방 km",
+                    "인구": "24,64,875",
+                    "문해율": "74.21%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "첸나이 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구 & 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "티루반나말라이 철도역"
+                    }
+                ]
+            },
+            "Dharmapuri": {
+                "title": "다르마푸리",
+"description": "다르마푸리는 타밀나두 북서부 고원 지대에 위치하며 티루반나말라이, 빌루푸람, 카르나타카, 크리슈나기리, 셀람과 경계를 접합니다. 이 지역에는 인도의 나이아가라라고 불리는 호게나칼 폭포가 있으며, 상당한 화강암 매장량을 자랑합니다. 산업 노동력의 절반 이상이 방적, 직조 및 마무리 등 섬유 생산에 종사하고 있습니다.",
+                "stats": {
+                    "면적": "4497.77 평방 km",
+                    "인구": "5,06,843",
+                    "문해율": "68.54%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "벵갈루루 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구 & 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "다르마푸리 철도역"
+                    }
+                ]
+            },
+            "kancheepuram": {
+                "title": "칸치푸람",
+"description": "칸치푸람은 '천 개의 사원의 도시'로 불리며, 웅장한 드라비다 건축 양식을 자랑합니다. 벵골만, 벨로르, 티루반나말라이, 티루발루르, 체나이, 빌루푸람과 접해 있으며, 국제 기업들이 입주한 주요 산업 중심지입니다. 고급 실크로 유명한 칸치푸람 사리는 인도 최초의 GI 태그 제품이었습니다.",
+                "stats": {
+                    "면적": "1655.94 평방 km",
+                    "인구": "11,66,401",
+                    "문해율": "84.49%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "첸나이 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "첸나이 항구 & 커달로어 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "칸치푸람 철도역"
+                    }
+                ]
+            },
+            "Ramanathapuram": {
+                "title": "라마나타푸람",
+"description": "라마나타푸람은 타밀나두의 유명한 순례지로 상징적인 팜반 다리와 스리랑카로 연결되는 섬 연쇄를 자랑합니다. 이 지역은 비루드나가르, 투티코린, 시바간가이, 푸두코타이와 인접해 있으며 주요 국영 석유 및 가스 단지가 있습니다. 또한 토착산 고추가 수출이 많기로 유명합니다.",
+                "stats": {
+                    "면적": "4068.31 평방 km",
+                    "인구": "13,53,445",
+                    "문해율": "80.72%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "마두라이 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "라마나타푸람 철도역"
+                    }
+                ]
+            },
+            "Thoothukudi": {
+                "title": "투티코린",
+"description": "투투쿠디는 타밀나두에서 가장 산업화된 남부 지역으로, 역사적인 진주 어업 덕분에 전통적으로 진주 도시로 불립니다. 북쪽으로는 비루드나가르, 남쪽/서쪽으로는 티루넬벨리, 동쪽으로는 벵골만과 접하며, V.O. 치담바라나르 항구가 있어 중요한 해양 허브입니다. 인도의 첫 자국 해운 회사인 스와데시 스팀 내비게이션 컴퍼니가 이곳에 있었습니다.",
+                "stats": {
+                    "면적": "4621 평방 km",
+                    "인구": "17,50,176",
+                    "문해율": "86.16%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "투티코린 국내 공항 & 마두라이 국제 공항"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "투티코린 항구"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "투티코린 철도역"
+                    }
+                ]
+            }
+        },
+        "airports": {
+            "title": "공항",
+            "description": "타밀 나두에는 경제 및 관광 성장을 지원하는 여러 국제 및 국내 공항이 있습니다.",
+            "highlights": [
+                "첸나이 국제 공항은 남부 인도에서 가장 분주한 공항 중 하나입니다.",
+                "코임바토르와 마두라이 공항은 지역 및 국가 연결을 제공합니다.",
+                "티루치라팔리 공항은 전략적 화물 허브로 부상하고 있습니다."
+            ]
+        },
+        "seaports": {
+            "title": "항구",
+            "description": "타밀 나두의 해안선은 국제 무역 및 물류를 지원하는 주요 항구들이 있습니다.",
+            "highlights": [
+                "첸나이 항구는 인도에서 가장 오래되고 활발한 항구 중 하나입니다.",
+                "투티코린 항구는 대량 화물을 효율적으로 처리합니다.",
+                "카마라자 항구(에노르)는 석탄 및 자동차 처리에 특화되어 있습니다."
+            ]
+        },
+        "highways": {
+            "title": "고속도로",
+            "description": "광범위한 국도 네트워크가 타밀 나두 전역의 연결성을 향상시킵니다.",
+            "highlights": [
+                "NH 44는 마두라이를 통과하는 인도에서 가장 긴 고속도로입니다.",
+                "골든 쿼드릴레터럴 프로젝트는 주요 산업 경로를 통합합니다.",
+                "GST 도로는 첸나이 시를 남부 지구들과 연결합니다."
+            ]
+        },
+        "industries": {
+            "title": "산업",
+            "description": "이 주는 제조업, 직물, 자동차 등 다양한 산업의 본고장입니다.",
+            "highlights": [
+                "호수르와 오라가담은 전자 및 자동차 생산의 주요 중심지입니다.",
+                "이룬가투코타이에는 SIPCOT 구역에 많은 국제 공장이 있습니다.",
+                "페룬두라이는 농업 기반 및 직물 산업을 지원합니다."
+            ]
+        },
+        "telecom": {
+            "title": "통신 및 IT",
+            "description": "IT 및 통신 부문은 타이델 파크와 마힌드라 월드 시티와 같은 특별 구역에서 번성합니다.",
+            "highlights": [
+                "TCS 시루세리는 글로벌 배달 센터를 갖춘 선도적인 IT 허브입니다.",
+                "첸갈파투의 인포시스 캠퍼스는 대규모 고용을 지원합니다.",
+                "타이델 파크는 첸나이의 IT 성장의 선구자로 남아 있습니다."
+            ]
+        }
+    },
+  "get_started_section": {
+    "title": "시작하기",
+    "subtitle": "타밀나두에서 비즈니스를 설립하고 운영하기 위한 자료",
+    "cards": [
+      {
+        "image": "/get-started/point-1.png",
+        "title": "사업 설립",
+        "description": "법인 설립을 위한 기초 및 규정"
+      },
+      {
+        "image": "/get-started/point-2.png",
+        "title": "인가 사항 파악",
+        "description": "귀하의 비즈니스에 맞는 맞춤형 인가 목록"
+      },
+      {
+        "image": "/get-started/point-3.png",
+        "title": "사용자 매뉴얼",
+        "description": "전체 프로세스에 대한 시연 문서"
+      },
+      {
+        "image": "/get-started/point-4.png",
+        "title": "인가 목록",
+        "description": "각 부처에서 제공하는 전체 인가 목록"
+      }
+    ]
+  },
+  "top_investors_section": {
+    "title": "최고의 투자자"
+  },
+  "cta_section": {
+    "title": "Guidance, 당신의 전략적 비즈니스 파트너",
+    "cta_button_text": "지금 시작하기"
+  },
+  "testimonial_section": {
+  "title": "세계 최고의 기업들이 타밀나두를 선택한 이유",
+  "testimonials": [
+    {
+      "name": "Dr. Jochen Stallkamp",
+      "profession": "전무 이사, BMW 그룹 공장, 첸나이",
+      "image": "/testimonial/jockhen.png",
+      "description": "타밀나두는 우수한 접근성, 뛰어난 물류 시스템, 훌륭한 인프라, 올바른 사고방식과 정치 환경, 활발한 정책, 그리고 자격을 갖춘 숙련된 인재들이 풍부합니다."
+    },
+    {
+      "name": "Nishant Ramkutty",
+      "profession": "전무 이사, Niswinfoods, 코임바토르",
+      "image": "/testimonial/nishant.png",
+      "description": "필요한 인허가를 위한 단일 창구 응답이 매우 우수했습니다. 이들은 인허가를 빠르게 받을 수 있도록 조율하고 대변하며 지원해주었습니다. 절차를 신속하게 처리할 수 있도록 제때 개입해 준 점에 감사드립니다. 앞으로도 이러한 좋은 활동이 계속되길 기대합니다. 신속한 답변과 긴급 대응에 우선순위를 둔 것이 뚜렷했으며, 관련 부서와의 협조가 매우 원활하고 효율적으로 이루어졌습니다."
+    },
+    {
+      "name": "M Ponnuswami",
+      "profession": "회장, Pon Pure Chemicals",
+      "image": "/testimonial/ponnuswami.png",
+      "description": "타밀나두 정부는 투자를 유치하는 데 매우 적극적이며, 때로는 산업계의 기대 이상으로 움직입니다. 잠재 투자자와 연결하거나 기존 산업의 문제를 해결하는 데 매우 신속하게 대응합니다. Guidance의 큰 성공을 기원합니다."
+    },
+    {
+      "name": "Ramkumar Ramamoorthy",
+      "profession": "전 회장 및 인도 대표, Cognizant",
+      "image": "/testimonial/ramkumar.png",
+      "description": "지난 25년 동안 Guidance Tamil Nadu는 Cognizant가 일상 생활을 개선하는 현대적인 비즈니스를 설계할 수 있도록 결정적인 역할을 해왔습니다. 사업 시작과 확장을 포함해, 우리의 혁신 및 우수성 센터에서 이루어진 선도적인 작업까지, Guidance는 가속 성장의 촉매 역할을 했습니다."
+    },
+    {
+      "name": "Rivji Kawashima",
+      "profession": "부사장, 야마하 그룹",
+      "image": "/testimonial/rijvi.png",
+      "description": "타밀나두는 인도에서 사업을 시작하기에 가장 매력적인 주라고 확신하며, 일본과 다른 국가의 잠재적 투자자들에게 강력히 추천합니다."
+    },
+    {
+      "name": "Sasikumar Gendham",
+      "profession": "대표이사, Salcomp",
+      "image": "/testimonial/sarathi.png",
+      "description": "타밀나두는 전자 산업의 주요 거점으로 남아 있으며, Salcomp에게는 매우 보람찬 여정이었습니다. 대규모 공급망 접근성과 수천 명의 직원 확보가 가능해 우리 같은 대기업에게 매우 우호적인 환경을 제공합니다. 특히 정책 입안자들의 광범위하고 시의적절한 지원과 Guidance 팀의 투자 전후 지속적인 동행이 인상적이었습니다."
+    },
+    {
+      "name": "S. Sarathi JMD",
+      "profession": "공동 전무이사, Mando Automotive",
+      "image": "/testimonial/sasikumar.png",
+      "description": "BizBuddy를 통한 신속한 대응과 CSR 활동을 위한 승인 지원에 감사드립니다. Guidance에서 제공한 매우 사용자 친화적인 시스템입니다. 더 많은 기업들이 이 독특한 시스템을 활용하길 바랍니다."
+    },
+    {
+      "name": "Takashi Haga",
+      "profession": "대표이사, Yamaha Music India",
+      "image": "/testimonial/takashihaga.png",
+      "description": "첸나이는 전략적으로 좋은 위치에 있으며, 우수한 교통망과 인프라를 갖추고 있으며 젊고 숙련되고 헌신적인 인재들을 제공합니다. 첸나이 근처의 산업단지는 잘 개발되어 있어 제조업체들이 바로 운영을 시작할 수 있는 플러그 앤 플레이 방식에 적합합니다. 인허가 절차도 매우 수월하고 신속했으며, 계획대로 공장을 설립할 수 있도록 도와주었습니다. Guidance 국과 타밀나두 정부의 훌륭한 지원에 감사드립니다."
+    }
+  ]
+},
+  "news_section": {
+  "title": "최신 뉴스",
+  "articles": [
+    {
+      "title": "CM: 타밀나두를 남아시아에서 가장 매력적인 투자 목적지로 만들 계획",
+      "description": "M.K. 스탈린 주총리는 경제 위원회의 임명이 '산업계에 신뢰를 불어넣었다'고 말하며, 전 세계 언론의 주목을 받았다고 밝혔습니다.\n\n스탈린 주총리는 수요일, 세계적으로 유명한 경제 전문가들로 구성된 위원회의 설립이 타밀나두를 남아시아에서 가장 유망한 투자처로 만들기 위한 기본 계획이었다고 말했습니다.",
+      "image": "/latest-news/cm-statement.png",
+      "link": "#",
+      "tag": "주요"
+    },
+    {
+      "title": "장관: 타밀나두는 산업 투자의 선호 목적지가 될 것",
+      "description": "타밀나두는 산업 투자를 유치하기 위한 선호 목적지로 부상할 것입니다. 티루넬벨리 지역의 낭구네리 특별경제구역은 앞으로 더 많은 산업 발전이 이루어질 예정입니다. 산업부 장관 탕감 테나라수는 토요일, 티루넬벨리에서 열린 투자자 회의에 참석한 후 이렇게 말했습니다.\n\n마두라이: M.K. 스탈린 주총리는 타밀나두 남부 지역의 안정적인 경제 성장을 위해 산업 발전을 추진하는 데 깊은 관심을 보이고 있습니다.",
+      "image": "/latest-news/minister-statement.png",
+      "link": "#",
+      "tag": "주요"
+    }
+  ],
+  "read_more_button": "더 보기",
+  "live_tweets_section": {
+    "title": "실시간 트윗",
+    "twitter_handle_url": "https://twitter.com/Guidance_TN",
+    "embed_height": "400"
+  }
+},
+  "footer": {
+    "sections": [
+      {
+        "heading": "회사 소개",
+        "links": [
+          "타밀나두를 선택해야 하는 이유",
+          "Guidance 타밀나두",
+          "원스톱 포털",
+          "Biz Buddy",
+          "코로나 기간 중 비즈니스",
+          "우리 팀",
+          "중소기업(MSME)",
+          "채용"
+        ]
+      },
+      {
+        "heading": "산업 분야",
+        "links": ["산업 분야"]
+      },
+      {
+        "heading": "타밀나두에서 비즈니스하기",
+        "links": [
+          "비즈니스 시작",
+          "인가 목록",
+          "인가 정보 확인",
+          "수출",
+          "정책 및 공지사항",
+          "국가 데스크"
+        ]
+      },
+      {
+        "heading": "미디어 및 행사",
+        "links": ["미디어 갤러리", "뉴스레터", "블로그", "Guidance 영상"]
+      },
+      {
+        "heading": "이니셔티브",
+        "links": ["타밀나두 AMHUB", "비즈니스 환경 개선", "WorkLabs"]
+      },
+      {
+        "heading": "지원 및 문의",
+        "links": ["자주 묻는 질문", "문의 제출", "문의하기"]
+      }
+    ],
+    "bottomLinks": ["개인정보 처리방침", "이용 약관", "면책 조항", "사이트 맵"],
+    "visitorCount": "방문자 수: 104281692",
+    "copyright": "© 2025 모든 권리 보유",
+    "subscribePlaceholder": "이메일 주소 입력",
+    "subscribe": "구독하기"
+  }
+}

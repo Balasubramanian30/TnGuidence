@@ -1,0 +1,1467 @@
+{
+  "hero_section": {
+    "welcome": "欢迎来到",
+    "tamilnadu": "泰米尔纳德邦",
+    "tagline": "蓬勃机遇之地",
+      "description": "泰米尔纳德邦是您进步的合作伙伴，是全国最友好的商业州。这里汇聚了超过130家全球财富500强企业和领先的企业集团",
+    "cta_button": "与泰米尔纳德邦合作",
+    "scroll_down": "向下滚动"
+  },
+  "statistics_section": {
+    "gdp": "印度GDP第二大贡献者",
+    "export": "印度出口第三大贡献者",
+    "airports": "4个国际机场，2个国内机场",
+    "ports": "4个主要海港，18个小型港口"
+  },
+  "innovate_statistics_section": {
+    "business_friendly": "商业友好环境与支持性政府。",
+    "diverse": "多样化的人才库，具备合适的专业技能。",
+    "fast_growing": "进入快速增长的市场。"
+  },
+  "innovation_section": {
+    "invest": "投资",
+    "innovate": "创新",
+    "create": "创造",
+    "overview": "Guidance 是由泰米尔纳德邦政府指定的投资促进主办机构",
+    "highlights": [
+      "商业友好环境",
+      "支持性的政府",
+      "具有足够专业技能的多元化人才库",
+      "进入快速增长的市场"
+    ],
+    "cta_button_1": "立即开始投资",
+    "cta_button_2": "新投资者表格",
+    "in_tamil_nadu": {
+      "in": "在",
+      "location": "泰米尔纳德邦"
+    }
+  },
+  "shape_section": {
+    "title": "在这里，创新塑造未来",
+    "description": "泰米尔纳德邦处于前沿的研发领域，是进步和创意的灯塔。该邦以其技术进步和创业精神而闻名，吸引了顶尖人才并培育了创新文化。拥有先进的设施和由初创企业与工业巨头构成的充满活力的生态系统，是印度最受欢迎的投资目的地。",
+    "cards": [
+      {
+        "title": "最大",
+        "text": "印度工厂数量最多"
+      },
+      {
+        "title": "最大",
+        "text_parts": ["年度营业额", "印度熟练劳动力"]
+      },
+      {
+        "title": "最大",
+        "text_parts": ["高等教育", "机构数量在印度最多"]
+      },
+      {
+        "text": "印度专利申请数量最多",
+        "title_below": "最大"
+      },
+      {
+        "title": "最大",
+        "text_parts": ["女性劳动力在", "印度工厂中的比例最高"]
+      },
+      {
+        "title": "最大",
+        "text": "印度运营中的SEZ数量最多"
+      }
+    ]
+  },
+   "sectors_section": {
+    "title": "行业领域",
+    "sectors": [
+      {
+        "title": "汽车、零部件与电动汽车",
+        "stats": {
+          "left": "35%",
+          "leftLabel": "印度汽车零部件产量",
+          "right": "40%",
+          "rightLabel": "在印度销售的电动汽车中有40%产自泰米尔纳德邦"
+        },
+        "description": "泰米尔纳德邦是全球十大汽车制造中心之一，被誉为“印度汽车之都”。该州的汽车产业始于1955年在金奈设立的综合车厢工厂（ICF），由此开始形成繁荣的汽车生态系统。阿肖克·雷兰德于1948年成立，成为重要的行业参与者，而现代汽车于1998年在印度建立的第一家制造厂，更加巩固了泰米尔纳德在汽车行业的地位。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "普拉巴卡兰 A S",
+          "email": "prabakaran@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "电子与半导体",
+        "stats": {
+          "left": "30%",
+          "leftLabel": "印度电子产品出口占比",
+          "right": "40%",
+          "rightLabel": "印度智能手机出口占比"
+        },
+        "description": "泰米尔纳德邦是全球十大汽车制造中心之一，被誉为“印度汽车之都”。",
+        "sector_expert": "行业专家",
+       "speaker": {
+          "name": "拉高夫 G",
+          "email": "raghauv@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "纺织、服装与技术纺织品",
+        "stats": {
+          "left": "第1位",
+          "leftLabel": "在服装生产方面",
+          "right": "第1位",
+          "rightLabel": "在棉纱产量与出口方面"
+        },
+        "description": "被称为“印度的纱线之都”，泰米尔纳德邦在纺纱、手工织布、电动织布、染整、针织、服装生产等方面拥有强大实力。它是印度纺织产业最大的贡献者，以熟练工艺和独特产品而闻名。为全球领先品牌供应产品，泰米尔纳德的纺织业在全球服装市场中占据举足轻重的地位。",
+        "sector_expert": "行业专家",
+         "speaker": {
+          "name": "南达 戈帕尔",
+          "email": "nandha@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "信息技术与服务",
+        "stats": {
+          "left": "11%",
+          "leftLabel": "印度信息技术总投资份额",
+          "right": "第3位",
+          "rightLabel": "在全国软件出口中排名"
+        },
+        "description": "泰米尔纳德邦在印度最早制定IT和ITeS政策，是该行业进步的重要推动者，营造了有利于创新与发展的环境。凭借强大的工业基础、先进的基础设施、便捷的连接、电力充足、医疗设施优秀、教育资源丰富以及高技能人才，泰米尔纳德已成为信息技术活动的首选目的地。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "阿伦 乔治 马修",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "可再生能源",
+        "stats": {
+          "left": "~64吉瓦",
+          "leftLabel": "泰米尔纳德风能潜力",
+          "right": "40%",
+          "rightLabel": "印度可再生能源制造能力占比"
+        },
+        "description": "泰米尔纳德邦在印度可再生能源领域处于领先地位，拥有10734兆瓦风电装机容量和可观的太阳能设备，实现了50%的电力来自可再生能源。在进步政策和联合国环境规划署等组织合作的支持下，泰米尔纳德在绿色能源基础设施和制造方面持续扩大影响力。",
+        "sector_expert": "行业专家",
+         "speaker": {
+          "name": "普拉迪普 R",
+          "email": "pradeep@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "服务与研发中心",
+        "stats": {
+          "left": "250+",
+          "leftLabel": "泰米尔纳德现有全球能力中心 (GCCs)",
+          "right": "750+",
+          "rightLabel": "全州范围内的研发机构"
+        },
+        "description": "泰米尔纳德邦成为印度全球能力中心 (GCCs) 与研发 (R&D) 的核心基地，拥有超过250家GCCs。被誉为“SaaS之都”的金奈，占据全国GCC约10%的份额。中心涵盖IT、金融、工程、医疗等多个领域，得益于该州高素质人才、良好的基础设施与营商政策，吸引了全球公司落户，巩固其创新技术领导地位。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "阿伦 乔治 马修",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "航空航天与国防",
+        "stats": {
+          "left": "第2位",
+          "leftLabel": "库拉塞卡拉帕蒂纳姆为印度第二大卫星发射中心",
+          "right": "专属",
+          "rightLabel": "航空航天与国防工业园区"
+        },
+        "description": "从古代朱罗王朝的强大舰队，到印度陆军最古老的步兵团，泰米尔纳德邦自古就是军事活动的中心。1910年，意大利人贾科莫·丹杰利斯在此地试飞双翼飞机，是亚洲首次飞行测试地，也是欧洲以外极少数地区之一。1930年代，马德拉斯飞行俱乐部建立。此外，印度空军最初九个中队之一的第6中队即驻扎在蒂鲁奇。作为当前的国防工业走廊，泰米尔纳德已形成成熟的军工体系，拥有诸如装甲车公司、巴拉特电子、印度军火公司等国家级防务单位。新的卫星发射中心将推动私人领域在太空产业中的投资机会。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "德巴西斯 达什",
+          "email": "debasis@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "消费品、食品加工与农业商业",
+        "stats": {
+          "left": "1000万吨",
+          "leftLabel": "粮食产量",
+          "right": "第2位",
+          "rightLabel": "食品加工单位数量全国第2"
+        },
+        "description": "泰米尔纳德由于其多样的农业地理气候区域，在农产品加工行业中占有重要地位。该州拥有约2.4万家中小企业和1100家中大型单位。凭借丰富的农业资源、不断增长的市场需求，以及便利的国内外市场通道，泰米尔纳德在该行业中表现出色。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "特里夏 森提尔 库马尔",
+          "email": "trishya@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "皮革与鞋类",
+        "stats": {
+          "left": "29%",
+          "leftLabel": "印度鞋类制造产量占比",
+          "right": "48%",
+          "rightLabel": "印度皮革与非皮革鞋类出口占比"
+        },
+        "description": "泰米尔纳德邦以其深厚的皮革工艺传统著称，是印度皮革加工领域的领军者。该州拥有全国60%以上的制革能力及1650多家活跃企业，是印度成品皮革的最大产地。随着可持续时尚的发展，泰米尔纳德还引领非皮革鞋类领域的创新浪潮。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "普拉迪普 R",
+          "email": "pradeep@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "工程与资本货物",
+        "stats": {
+          "left": "$400亿+",
+          "leftLabel": "资本货物生产额",
+          "right": "第2位",
+          "rightLabel": "机械与重型工程出口"
+        },
+        "description": "泰米尔纳德是全球制造商在精密工程、重型工程及液压制造方面的重要中心。该州强大的制造能力不仅加强了印度的工业基础，也在推动国家经济进步中发挥了重要作用。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "瓦拉达拉杰 S",
+          "email": "Varadharaj@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "工业园区",
+        "stats": {
+          "left": "最多",
+          "leftLabel": "印度工厂数量最多",
+          "right": "最多",
+          "rightLabel": "运营中的特别经济区数量最多"
+        },
+        "description": "泰米尔纳德是企业在印度设立基地的首选之地。该州支持设立汽车、电子、信息技术、纺织、航空航天、食品加工和国家专属产业集群。泰米尔纳德提供广阔的工业用地，拥有领先的公私工业园项目，涵盖合资企业、即插即用模式和成熟项目。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "南达 戈帕尔",
+          "email": "nandha@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "生命科学",
+        "stats": {
+          "left": "2.8%",
+          "leftLabel": "全国该行业产值占比",
+          "right": "第5位",
+          "rightLabel": "印度第五大制药州"
+        },
+        "description": "泰米尔纳德自1978年设立第一家制药园区以来，在国家医疗基础设施发展中一直处于领先地位。如今，该州聚集了全球多个制药与医疗器械企业。此外，近年来医疗电子产业也实现了双位数的增长，彰显其在生命科学领域的持续创新。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "阿什赖 阿伦",
+          "email": "aashrai@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "银行与金融服务",
+        "stats": {
+          "left": "60%",
+          "leftLabel": "财富BFSI企业中60%在泰米尔纳德设有分支",
+          "right": "100+",
+          "rightLabel": "金融科技初创企业数量"
+        },
+        "description": "自1682年设立马德拉斯银行以来，泰米尔纳德在金融服务领域一直扮演关键角色。如今，该州正迅速发展为全球金融科技中心，约占印度银行、金融与保险（BFSI）全球能力中心的15%，彰显其在金融和技术领域的领导地位。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "阿伦 乔治 马修",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "化学与石化",
+        "stats": {
+          "left": "2600+",
+          "leftLabel": "化工生产单位",
+          "right": "$34亿",
+          "rightLabel": "2023–24财年化学产品及相关产品出口额"
+        },
+        "description": "泰米尔纳德的化学与石化产业是该州工业发展和经济增长的重要支柱。涵盖石化、制药、农化、特种化学品、纺织化学品等多个子领域。凭借优越的营商环境、地理位置与专业人才，该州已成为全国化学产业的重要基地。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "拉高夫 G",
+          "email": "raghauv@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      },
+      {
+        "title": "旅游与酒店业",
+        "stats": {
+          "left": "2亿+",
+          "leftLabel": "年国内游客接待量",
+          "right": "400万+",
+          "rightLabel": "年国际游客接待量"
+        },
+        "description": "泰米尔纳德作为世界最古老文明之一的发源地，展现出丰富的地理、文化与历史遗产。从寺庙建筑、传统音乐舞蹈、洁净海滩到自然风光，每座城市与乡村都展示其独特魅力。再加上美食、手工艺、热情好客、文化盛典、医疗旅游和工业增长，使得该州成为国际酒店品牌投资的首选之地。",
+        "sector_expert": "行业专家",
+        "speaker": {
+          "name": "普拉巴卡兰 A S",
+          "email": "prabakaran@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "查看更多该行业信息",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+   
+      }
+    ]
+  },
+   "map_section": {
+        "title": "探索泰米尔纳德邦",
+  "description": "泰米尔纳德邦对商业的承诺，促成了在交通、水、电力、和电信等领域坚实的公共基础设施。这确保了供应链和渠道的完整性，并推动了，与快速变化的经济格局相一致的人力和社会资本的发展。",        "explore_district_btn": "探索",
+        "view_all_btn": "查看所有地区",
+        "district_btn": "地区",
+        "airports_btn": "机场",
+        "seaports_btn": "海港",
+        "highways_btn": "高速公路",
+        "industries_btn": "工业",
+        "telecom_btn": "电信",
+
+        "districts": {
+            "Krishnagiri": {
+                "title": "克里希纳吉里",
+                "description": "克里希纳吉里的经济因蓬勃发展的汽车产业而兴旺。它被风景如画的群山环绕，毗邻维洛尔、蒂鲁瓦纳马莱、卡纳塔克邦和安得拉邦，其靠近班加罗尔的战略位置推动了霍苏尔的快速工业增长。",
+                "stats": {
+                    "面积": "5143 平方公里",
+                    "人口": "18,83,731",
+                    "识字率": "71.46%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "班加罗尔国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "克里希纳吉里火车站与班加罗尔火车站"
+                    }
+                ]
+            },
+            "Nilgiris": {
+                "title": "尼尔吉里斯",
+                "description": "尼尔吉里山，被称为“群山之王后”，是旅游胜地，也是部落社区的家园。其经济依赖园艺业——马铃薯、茶叶、咖啡、香料和水果——以及茶叶、咖啡和胡椒加工单位。",
+                "stats": {
+                    "面积": "2452.5 平方公里",
+                    "人口": "7,35,394",
+                    "识字率": "85.2%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "哥印拜陀国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "乌塔卡蒙德火车站与哥印拜陀火车站"
+                    }
+                ]
+            },
+            "Virudhunagar": {
+                "title": "维鲁杜纳加尔",
+                "description": "维鲁杜讷讷格尔是工业和农业的重要物流中心，生产印度70%以上的火柴和烟花。它与多个地区及喀拉拉邦接壤，在火柴、烟花和印刷方面处于领先地位。棉花是主要作物，拉贾帕拉亚姆是纺纱和轧花厂的主要中心。",
+                "stats": {
+                    "面积": "4288 平方公里",
+                    "人口": "19,42,288",
+                    "识字率": "80.15%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "马杜赖国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "维鲁杜纳加尔火车站与马杜赖火车站"
+                    }
+                ]
+            },
+            "Kanyakumari": {
+                "title": "坎亚库马里",
+  "description": "卡尼亚库马里是印度最南端，在识字率和人类发展指数方面领先泰米尔纳德邦，在人口密度方面排名第二。毗邻蒂鲁内尔维利、喀拉拉邦和三片水域，其独特的地理位置和丰富的文化使其成为一流的旅游胜地。",
+                "stats": {
+                    "面积": "1672 平方公里",
+                    "人口": "18,70,374",
+                    "识字率": "91.75%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "蒂鲁文南特布勒姆国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "坎亚库马里火车站"
+                    }
+                ]
+            },
+            "Coimbatore": {
+                "title": "哥印拜陀",
+  "description": "哥印拜陀是泰米尔纳德邦第二大城市，是教育和中小企业的中心，对该邦GDP贡献7%。作为工业、农业和旅游的重要物流中心，它连接尼尔吉里、伊杜基和喀拉拉邦。与蒂鲁普尔、伊罗德和西高止山脉接壤，是印度最大的水泵和湿磨机生产地，被誉为“泵城”。",
+                "stats": {
+                    "面积": "4723 平方公里",
+                    "人口": "34,58,045",
+                    "识字率": "83.98%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "哥印拜陀国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "哥印拜陀火车站"
+                    }
+                ]
+            },
+            "Cuddalore": {
+                "title": "古德洛尔",
+  "description": "卡达洛尔是一个沿海地区，以陶瓷、腰果加工和石油生产而闻名。它与维卢普拉姆、纳加帕蒂南和佩兰巴卢尔接壤，是一个拥有大量渔民社区的重要渔业中心。其工业园区汇集了众多化工、生物技术、制药和化肥企业。",
+                "stats": {
+                    "面积": "3678 平方公里",
+                    "人口": "26,05,914",
+                    "识字率": "78.04%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "金奈国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与古德洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "古德洛尔火车站"
+                    }
+                ]
+            },
+            "Karur": {
+                "title": "卡鲁尔",
+  "description": "卡鲁尔位于泰米尔纳德邦中部，与纳马卡尔、丁迪古尔、蒂鲁吉拉帕利、伊罗德和蒂鲁普尔接壤。它是一个繁荣的工业中心，以家用纺织品、巴士车身制造和造纸业闻名。超过30%的劳动力从事制造业。",
+                "stats": {
+                    "面积": "2895.57 平方公里",
+                    "人口": "10,64,493",
+                    "识字率": "75.6%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "哥印拜陀国际机场与蒂鲁吉拉伯利国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "古德洛尔港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "卡鲁尔火车站"
+                    }
+                ]
+            },
+            "Tiruppur": {
+                "title": "蒂鲁普尔",
+"description": "蒂鲁普尔是印度的“针织之都”，正经历快速的人口和经济增长。作为主要的全球纺织中心，它为顶级零售商供应服装。该地区与哥印拜陀、伊罗德、卡鲁尔和丁迪古尔接壤。卡韦里河的支流诺亚尔河支撑着其蓬勃发展的针织和染色产业。",
+                "stats": {
+                    "面积": "5186.34 平方公里",
+                    "人口": "24,79,052",
+                    "识字率": "78.68%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "哥印拜陀国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "蒂鲁普尔火车站"
+                    }
+                ]
+            },
+            "Nagapattinam": {
+                "title": "纳加帕蒂南",
+"description": "纳迦帕蒂南是印度泰米尔纳德邦的一个沿海地区，依靠渔业、旅游业和农业繁荣发展。它与孟加拉湾、帕尔克海峡、蒂鲁瓦鲁尔和本地治里接壤，曾是与东方国家进行贸易的重要历史枢纽。韦达拉尼亚姆盐沼从卡利梅尔角延伸，是该邦最长的盐沼。",
+                "stats": {
+                    "面积": "2715.83 平方公里",
+                    "人口": "16,16,450",
+                    "识字率": "83.59%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "蒂鲁吉拉伯利国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "古德洛尔港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "纳加帕蒂南火车站"
+                    }
+                ]
+            },
+            "Theni": {
+                "title": "特尼",
+"description": "泰尼被称为“豆蔻之城”，是重要的豆蔻贸易中心。与丁迪古尔、马杜赖、维鲁敦纳加尔和喀拉拉邦接壤。该地区纺织业繁荣，并拥有重要的葡萄种植区——昆巴姆谷。",
+                "stats": {
+                    "面积": "3066 平方公里",
+                    "人口": "12,45,899",
+                    "识字率": "77.26%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "马杜赖国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "博迪纳亚卡努尔火车站与马杜赖火车站"
+                    }
+                ]
+            },
+            "Tirunelveli": {
+                "title": "蒂鲁内尔维利",
+"description": "蒂魯內爾維利在泰米爾納德邦獨一無二，從西高止山延伸到海岸，擁有瀑布和野生動物保護區。塔米拉帕拉尼河支撐著該地區，而岡加孔丹的ELCOT IT園區促進了服務業的發展。由於石灰岩儲量豐富，水泥產業蓬勃發展。該地區與喀拉拉邦、曼納爾灣以及維魯杜納加爾、圖蒂科林和坎亞庫馬里等地區接壤。",
+                "stats": {
+                    "面积": "3842.37 平方公里",
+                    "人口": "16,65,253",
+                    "识字率": "82.5%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "图图库迪国内机场与马杜赖国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "蒂鲁内尔维利火车站"
+                    }
+                ]
+            },
+            "Kallakurichi": {
+                "title": "卡拉库里奇",
+"description": "卡拉库里奇是“农业之乡”，是稻米加工中心。它与维鲁普拉姆、库达洛尔和佩拉姆巴卢尔、塞勒姆以及蒂鲁瓦纳马莱和达尔马普里接壤。主要产业包括纺织、珠宝和农用饲料。",
+                "stats": {
+                    "面积": "3520.37 平方公里",
+                    "人口": "13,70,281",
+                    "识字率": "63.49%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "金奈国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与古德洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "钦纳塞拉姆火车站"
+                    }
+                ]
+            },
+            "Pudukottai": {
+                "title": "普杜科泰",
+"description": "普杜科泰是一个前王国，拥有丰富的文化遗产，包括堡垒、寺庙和洞穴艺术。毗邻孟加拉湾、特里奇、西瓦甘加伊、拉曼纳塔普拉姆和坦贾武尔，拥有丰富的自然资源。该区设有马楚瓦迪、马图尔和瓦拉努尔工业区。",
+                "stats": {
+                    "面积": "4663 平方公里",
+                    "人口": "16,18,345",
+                    "识字率": "77.19%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "蒂鲁吉拉伯利国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "古德洛尔港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "普杜科泰火车站"
+                    }
+                ]
+            },
+            "Sivagangai": {
+                "title": "锡瓦甘加",
+"description": "西瓦甘加伊以其辛辣的切蒂纳德美食闻名。其黑土支持农业，这是主要生计。工业包括糖厂和可再生能源农场。该区毗邻普杜科泰、蒂鲁奇拉帕利、拉曼纳塔普拉姆、维鲁杜纳加尔和马杜赖。",
+                "stats": {
+                    "面积": "4086 平方公里",
+                    "人口": "13,39,101",
+                    "识字率": "79.85%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "马杜赖国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "锡瓦甘加火车站与马杜赖火车站"
+                    }
+                ]
+            },
+            "Namakkal": {
+                "title": "纳马卡尔",
+"description": "纳马卡尔是印度的“运输之城”，以其卡车车身制造业闻名，是国家物流的重要组成部分。毗邻塞勒姆、卡鲁尔、特里奇和埃罗德，也是南印度的领先蛋类生产地。",
+                "stats": {
+                    "面积": "3368.21 平方公里",
+                    "人口": "17,26,601",
+                    "识字率": "74.63%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "塞勒姆国内机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "古德洛尔港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "纳马卡尔火车站"
+                    }
+                ]
+            },
+            "Perambalur": {
+                "title": "佩兰巴卢尔",
+"description": "佩兰巴卢尔是一个内陆区，含有4.16亿年前的海洋化石。毗邻卡拉库里奇、蒂鲁奇拉帕利、阿里亚卢尔和塞勒姆。它在泰米尔纳德邦的玉米和洋葱生产中居领先地位。TANSIDCO工业区设有主要制造单位。",
+                "stats": {
+                    "面积": "1757 平方公里",
+                    "人口": "5,65,223",
+                    "识字率": "74.32%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "塞勒姆国内机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与古德洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "阿里亚卢尔火车站"
+                    }
+                ]
+            },
+            "Thanjavur": {
+                "title": "坦贾武尔",
+"description": "坦贾武尔，‘南印度的粮仓’，是重要的稻米产区，毗邻科罗伦河、提鲁瓦鲁尔、帕尔克海峡和普杜科泰。以乡村工艺品闻名——如坦贾武尔娃娃、绘画和乐器——享有全球需求。",
+                "stats": {
+                    "面积": "3396.57 平方公里",
+                    "人口": "24,05,890",
+                    "识字率": "82.64%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "蒂鲁吉拉伯利国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "古德洛尔港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "坦贾武尔火车站"
+                    }
+                ]
+            },
+            "Ariyalur": {
+                "title": "阿里亚卢尔",
+"description": "阿里亚卢尔矿物资源丰富，如石灰石和页岩，是水泥工业中心。毗邻卡达洛尔、坦贾武尔、佩兰巴卢尔和马伊拉杜图赖。59%的劳动力从事农业。该区工业园区还有众多食品加工单位。",
+                "stats": {
+                    "面积": "1940 平方公里",
+                    "人口": "7,54,894",
+                    "识字率": "71.34%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "蒂鲁吉拉伯利国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与古德洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "阿里亚卢尔火车站"
+                    }
+                ]
+            },
+            "Viluppuram": {
+                "title": "维卢普拉姆",
+"description": "维卢普兰，被称为“泰米尔纳德邦的糖碗”，依靠稻米和制糖厂等农业产业蓬勃发展。拥有290万农村居民，是该邦人口最多的地区，毗邻孟加拉湾、普杜切里、坎奇普兰、库达洛尔和达尔马普里。附近的奥罗维尔是一个实验性城镇，拥有170家社会企业，雇佣了5,000名当地居民。",
+                "stats": {
+                    "面积": "3725.54 平方公里",
+                    "人口": "34,58,873",
+                    "识字率": "71.88%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "金奈国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与古德洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "维卢普拉姆火车站"
+                    }
+                ]
+            },
+            "Chengalpattu": {
+                "title": "陈加尔帕图",
+"description": "成加尔帕图是泰米尔纳德邦东北海岸新成立的区，拥有秀丽的自然风光。毗邻钦奈、坎奇普兰、蒂鲁瓦纳马莱和维卢普兰。这里有该邦第二大湖——马杜兰塔卡姆湖，面积达2400英亩，还有标志性的马哈巴利普兰海岸寺庙。此外，老马哈巴利普兰路沿线设有IT走廊，聚集了多家大型科技公司，以及一个繁荣的汽车制造中心。",
+                "stats": {
+                    "面积": "2944.96 平方公里",
+                    "人口": "25,56,244",
+                    "识字率": "91.88%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "金奈国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与恩诺尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "陈加尔帕图火车站"
+                    }
+                ]
+            },
+            "Thiruvallur": {
+                "title": "蒂鲁瓦卢尔",
+"description": "蒂鲁瓦卢尔具有工业重要性，毗邻坎奇普拉姆、拉尼佩特、钦奈和安得拉邦。拥有大型工厂、恩诺尔热电厂、阿瓦迪坦克工厂、学术机构和寺庙，提升了其战略价值。",
+                "stats": {
+                    "面积": "3422.43 平方公里",
+                    "人口": "37,28,104",
+                    "识字率": "84.03%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "金奈国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与恩诺尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "蒂鲁瓦卢尔火车站"
+                    }
+                ]
+            },
+            "Tenkasi": {
+                "title": "滕卡西",
+"description": "滕卡西拥有科尔特拉姆瀑布，北邻维鲁杜纳加尔，东邻图杜库迪，南接蒂鲁内尔维利，西靠喀拉拉。以蚕业、椰壳纤维产业及南泰米尔纳德邦的重要灵修圣地著称。",
+                "stats": {
+                    "面积": "2916.13 平方公里",
+                    "人口": "14,07,627",
+                    "识字率": "87.71%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "图图库迪国内机场与马杜赖国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "滕卡西火车站与蒂鲁内尔维利火车站"
+                    }
+                ]
+            },
+            "Chennai": {
+                "title": "金奈",
+"description": "钦奈是泰米尔纳德邦的首府，是印度第四大大都市。作为东南海岸的重要工业和商业中心，融合了丰富的文化与强大的经济。主要行业包括汽车、SaaS、医疗旅游、硬件、数据中心和金融科技。",
+                "stats": {
+                    "面积": "178.2 平方公里",
+                    "人口": "46,46,732",
+                    "识字率": "90.18%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "金奈国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与恩诺尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "金奈中央火车站"
+                    }
+                ]
+            },
+            "Madurai": {
+                "title": "马杜赖",
+"description": "马杜赖是印度南部的一座古老城市，是泰米尔纳德邦面积第二大、人口第三多的地区。它是一个繁荣的工业和旅游中心，毗邻丁迪古尔、蒂鲁吉拉帕利、锡瓦甘盖、特尼和维鲁杜纳加尔。该区高度城市化，经济繁荣，主要依赖纺织、食品加工、橡胶工业和教育。",
+                "stats": {
+                    "面积": "3741.73 平方公里",
+                    "人口": "30,38,252",
+                    "识字率": "83.45%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "马杜赖国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "马杜赖火车站"
+                    }
+                ]
+            },
+            "Salem": {
+                "title": "塞勒姆",
+"description": "塞勒姆是地质学家的天堂，四周被群山环绕，点缀着小山丘。它与达尔马普里、埃罗德、纳马卡尔、卡拉库里奇和佩兰巴鲁尔区接壤。以制绳业和夏季度假胜地耶尔考德著称，其芒果非常珍贵。",
+                "stats": {
+                    "面积": "5245 平方公里",
+                    "人口": "34,82,056",
+                    "识字率": "72.86%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "塞勒姆国内机场与哥印拜陀国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "图图库迪港与金奈港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "塞勒姆火车站"
+                    }
+                ]
+            },
+            "Erode": {
+                "title": "埃罗德",
+"description": "埃罗德，属于泰米尔纳德邦的孔古地区，是以乳制品、姜黄和手工织布、电动织布以及成衣纺织品闻名的工业中心。它与卡纳塔克邦、乌达加曼达拉姆、科印拜陀、蒂鲁布尔、卡鲁尔、纳马卡尔和塞勒姆区接壤。",
+                "stats": {
+                    "面积": "5722 平方公里",
+                    "人口": "22,51,744",
+                    "识字率": "72.58%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "哥印拜陀国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与古德洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "埃罗德火车站"
+                    }
+                ]
+            },
+            "Dindugal": {
+                "title": "丁迪古尔",
+"description": "丁杜伽尔以安全锁、制革厂、纺织纱线和农业贸易闻名。毗邻蒂鲁普尔、卡鲁尔、蒂鲁奇、马杜赖、特尼和喀拉拉邦伊杜基区。钦纳拉帕蒂的织工生产著名的Sungudi丝绸纱丽，科达伊卡纳尔是该区内一个受欢迎的山地度假胜地。",
+                "stats": {
+                    "面积": "6266.64 平方公里",
+                    "人口": "21,59,775",
+                    "识字率": "76.26%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "马杜赖国际机场与蒂鲁吉拉伯利国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "古德洛尔港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "丁迪古尔火车站"
+                    }
+                ]
+            },
+            "Tiruchirapalli": {
+                "title": "蒂鲁吉拉伯利",
+"description": "蒂鲁奇拉帕里具有历史、文化和经济重要性。它是国防工业走廊的关键节点，拥有BHEL、重合金穿透器项目和军械工厂等大型国有企业。该区拥有NIT、IIM和IIIT等著名院校。毗邻塞勒姆、纳马克卡尔、佩兰巴卢尔、阿里亚卢尔、坦贾武尔、普杜科泰和卡鲁尔。",
+                "stats": {
+                    "面积": "4407 平方公里",
+                    "人口": "27,22,290",
+                    "识字率": "83.23%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "蒂鲁吉拉伯利国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与古德洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "蒂鲁吉拉伯利火车站"
+                    }
+                ]
+            },
+            "Thiruvarur": {
+                "title": "蒂鲁瓦鲁尔",
+"description": "提鲁瓦鲁尔，曾是乔拉帝国的首都，位于泰米尔纳德邦肥沃的稻米带。该区东接纳加帕蒂南，北邻迈拉杜图赖，西靠坦贾武尔，南临帕尔克海峡，东北与本地治里的卡拉伊卡尔接壤。其产业主要以农业为主，近年天然气开采和发电业增长迅速。",
+                "stats": {
+                    "面积": "2161 平方公里",
+                    "人口": "12,64,277",
+                    "识字率": "82.86%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "蒂鲁吉拉伯利国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "古德洛尔港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "蒂鲁瓦鲁尔火车站"
+                    }
+                ]
+            },
+            "Mayiladuthurai": {
+                "title": "马伊拉杜图赖",
+"description": "迈拉杜图赖于2020年从纳加帕蒂南分出，毗邻卡达洛尔、坦贾武尔、卡拉伊卡尔、蒂鲁瓦鲁尔和孟加拉湾。该沿海地区以渔业和农业为主，同时保护塔兰甘巴迪的荷兰遗产。沿着宗教路线还分布着重要的印度教寺庙。",
+                "stats": {
+                    "面积": "1172 平方公里",
+                    "人口": "918356",
+                    "识字率": "78.78%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "蒂鲁吉拉伯利国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "古德洛尔港与图图库迪港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "马伊拉杜图赖火车站"
+                    }
+                ]
+            },
+            "Vellore": {
+                "title": "韦洛尔",
+"description": "韦洛尔是一个重要的工业中心，以皮革工业和历史悠久的堡垒闻名。该区有贾瓦杜山脉，拥有较高的识字率和完善的教育体系。毗邻蒂鲁瓦鲁尔、坎奇普兰、蒂鲁瓦纳马莱、克里希纳吉里和安得拉邦。",
+                "stats": {
+                    "面积": "2080.11 平方公里",
+                    "人口": "16,14,242",
+                    "识字率": "79.17%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "金奈国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港与古德洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "韦洛尔火车站"
+                    }
+                ]
+            },
+            "Ranipet": {
+                "title": "拉尼佩特",
+"description": "拉尼佩特是南印度的重要工业中心，与韦洛尔、坎奇普兰、蒂鲁瓦纳马莱和蒂鲁瓦鲁尔等区接壤。该地区专注于皮革制造，生产出口品质的成品皮革、鞋类和服装，同时还拥有化工厂和工具制造单位。",
+                "stats": {
+                    "面积": "2234.32 平方公里",
+                    "人口": "12,10,277",
+                    "识字率": "86.08%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "金奈国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港和库达洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "拉尼佩特火车站"
+                    }
+                ]
+            },
+            "Tirupattur": {
+                "title": "蒂鲁帕图尔",
+"description": "蒂鲁帕图尔是一个繁荣的商业中心，主要贸易扁豆、糖渣、辣椒、棉花和农产品。它与韦洛尔、克里希纳吉里、达尔马普里和蒂鲁瓦纳马莱接壤，瓦尼亚姆巴迪设有米厂和贝迪工厂。其工业区安布尔专注于皮革出口，如鞋类和服装。",
+                "stats": {
+                    "面积": "1792.92 平方公里",
+                    "人口": "11,11,812",
+                    "识字率": "82.17%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "班加罗尔国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "蒂鲁帕图尔火车站和塞勒姆火车站"
+                    }
+                ]
+            },
+            "Tiruvannamalai": {
+                "title": "蒂鲁文纳默莱",
+"description": "提鲁瓦纳马莱是泰米尔纳德邦北部的一个农业区，东邻康奇普람，南接维鲁普兰姆，西接达尔马普里和克里希纳吉里，北靠韦洛尔。该区以生产阿拉尼丝绸纱丽闻名，并设有拥有主要制造单位的切亚尔工业园。",
+                "stats": {
+                    "面积": "6191 平方公里",
+                    "人口": "24,64,875",
+                    "识字率": "74.21%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "金奈国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港和库达洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "蒂鲁文纳默莱火车站"
+                    }
+                ]
+            },
+            "Dharmapuri": {
+                "title": "达尔马布里",
+"description": "达尔马普里位于泰米尔纳德邦西北高原地区，邻接提鲁瓦纳马莱、维卢普兰、卡纳塔克邦、克里希纳吉里和塞勒姆。该区拥有被誉为印度尼亚加拉的霍格纳卡尔瀑布，并拥有丰富的花岗岩储备。超过一半的工业劳动力从事纺织生产，尤其是纺纱、织造和整理。",
+                "stats": {
+                    "面积": "4497.77 平方公里",
+                    "人口": "5,06,843",
+                    "识字率": "68.54%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "班加罗尔国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港和库达洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "达尔马布里火车站"
+                    }
+                ]
+            },
+            "kancheepuram": {
+                "title": "甘吉布勒姆",
+"description": "甘吉布勒姆被称为“千庙之城”，展现了壮丽的德拉威达建筑风格。它毗邻孟加拉湾、韦洛尔、蒂鲁瓦纳马莱、蒂鲁瓦卢尔、钦奈和维鲁普拉姆，是一个拥有国际公司的主要工业中心。甘吉布勒姆纱丽以其优质丝绸闻名，是印度首个获得地理标志（GI）认证的产品。",
+                "stats": {
+                    "面积": "1655.94 平方公里",
+                    "人口": "11,66,401",
+                    "识字率": "84.49%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "金奈国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "金奈港和库达洛尔港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "甘吉布勒姆火车站"
+                    }
+                ]
+            },
+            "Ramanathapuram": {
+                "title": "拉马纳塔普拉姆",
+"description": "拉曼纳塔普勒姆是泰米尔纳德邦著名的朝圣中心，拥有标志性的潘班桥和连接斯里兰卡的群岛。该区与维鲁杜纳加尔、图蒂科林、西瓦甘盖和普杜科泰接壤，设有大型国营石油和天然气单位。这里还以本土高度出口的辣椒闻名。",
+                "stats": {
+                    "面积": "4068.31 平方公里",
+                    "人口": "13,53,445",
+                    "识字率": "80.72%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "马杜赖国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "杜蒂戈林港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "拉马纳塔普拉姆火车站"
+                    }
+                ]
+            },
+            "Thoothukudi": {
+                "title": "杜蒂戈林",
+"description": "图图库迪是泰米尔纳德邦最工业化的南部地区，因其历史悠久的珍珠捕鱼传统而被称为珍珠城。其北接维鲁杜纳加尔，南/西邻蒂鲁内尔维利，东临孟加拉湾，拥有重要的海事枢纽——V.O.奇丹巴拉纳尔港。这里还是印度第一家本土航运公司Swadeshi蒸汽航运公司的发源地。",
+                "stats": {
+                    "面积": "4621 平方公里",
+                    "人口": "17,50,176",
+                    "识字率": "86.16%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "杜蒂戈林国内机场和马杜赖国际机场"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "杜蒂戈林港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "杜蒂戈林火车站"
+                    }
+                ]
+            }
+        },
+        "airports": {
+            "title": "机场",
+            "description": "泰米尔纳德邦拥有多个国际和国内机场，支持经济和旅游业增长。",
+            "highlights": [
+                "金奈国际机场是南印度最繁忙的机场之一。",
+                "哥印拜陀和马杜赖机场服务于区域和国家连接。",
+                "蒂鲁吉拉伯利机场正在成为战略货运枢纽。"
+            ]
+        },
+        "seaports": {
+            "title": "海港",
+            "description": "泰米尔纳德邦的海岸线上有服务于国际贸易和物流的主要港口。",
+            "highlights": [
+                "金奈港是印度最古老和最活跃的港口之一。",
+                "杜蒂戈林港高效处理散货。",
+                "卡马拉贾尔港（恩诺尔）专门处理煤炭和汽车。"
+            ]
+        },
+        "highways": {
+            "title": "高速公路",
+            "description": "广泛的国家公路网络促进了泰米尔纳德邦各地的连接。",
+            "highlights": [
+                "NH 44是印度最长的高速公路，途经马杜赖。",
+                "黄金四边形项目整合了关键的工业路线。",
+                "GST公路连接金奈市和南部地区。"
+            ]
+        },
+        "industries": {
+            "title": "工业",
+            "description": "该邦拥有多样化的工业，包括制造业、纺织业和汽车业。",
+            "highlights": [
+                "霍苏尔和奥拉加达姆是电子和汽车生产的主要中心。",
+                "伊伦加图科泰在SIPCOT区拥有许多国际工厂。",
+                "佩伦杜赖支持农业和纺织工业。"
+            ]
+        },
+        "telecom": {
+            "title": "电信与信息技术",
+            "description": "IT和电信行业在Tidel Park和马恒达世界城等特殊区域蓬勃发展。",
+            "highlights": [
+                "TCS Siruseri是一个领先的IT中心，拥有全球交付中心。",
+                "钦格尔普特的印孚瑟斯园区支持大规模就业。",
+                "Tidel Park仍然是金奈IT增长的先驱。"
+            ]
+        }
+    },
+  "get_started_section": {
+    "title": "开始您的旅程",
+    "subtitle": "帮助您在泰米尔纳德邦创业与开展业务的资源",
+    "cards": [
+      {
+        "image": "/get-started/point-1.png",
+        "title": "设立企业",
+        "description": "建立实体的基础知识与法规"
+      },
+      {
+        "image": "/get-started/point-2.png",
+        "title": "了解审批",
+        "description": "为您的业务量身定制的审批清单"
+      },
+      {
+        "image": "/get-started/point-3.png",
+        "title": "用户手册",
+        "description": "整个流程的演示文档"
+      },
+      {
+        "image": "/get-started/point-4.png",
+        "title": "审批清单",
+        "description": "各部门提供的所有审批清单"
+      }
+    ]
+  },
+  "top_investors_section": {
+    "title": "顶级投资者"
+  },
+  "cta_section": {
+    "title": "Guidance——您的战略商业伙伴",
+    "cta_button_text": "立即开始"
+  },
+  "testimonial_section": {
+  "title": "世界顶级企业选择泰米尔纳德邦为家",
+  "testimonials": [
+    {
+      "name": "Dr. Jochen Stallkamp",
+      "profession": "宝马集团钦奈工厂前董事总经理",
+      "image": "/testimonial/jockhen.png",
+      "description": "泰米尔纳德邦交通便利，物流优越，基础设施完善，拥有正确的思维方式和良好的政治环境，政策充满活力，并能找到合格且技术娴熟的人才。"
+    },
+    {
+      "name": "Nishant Ramkutty",
+      "profession": "Niswinfoods 公司执行董事（科印布托）",
+      "image": "/testimonial/nishant.png",
+      "description": "关于必要审批的单一窗口响应非常出色。他们协调、代表并促进了快速批准，有助于企业快速启动和运营。我们感谢他们在加快必要审批方面的及时介入。我们希望他们继续保持优秀表现，并在未来不断进步。对快速响应和紧急行动的重视非常明显，这使得与各部门的协调变得非常轻松高效。"
+    },
+    {
+      "name": "M Ponnuswami",
+      "profession": "Pon Pure Chemicals 董事长",
+      "image": "/testimonial/ponnuswami.png",
+      "description": "泰米尔纳德邦政府在吸引投资方面非常积极主动，有时甚至超出行业预期。无论是帮助联系潜在投资者，还是解决现有企业的问题，他们的反应都非常迅速。祝愿 Guidance 获得巨大成功。"
+    },
+    {
+      "name": "Ramkumar Ramamoorthy",
+      "profession": "前 Cognizant 印度区董事长兼董事总经理",
+      "image": "/testimonial/ramkumar.png",
+      "description": "在过去的25年里，Guidance Tamil Nadu 在帮助 Cognizant 构建现代化业务、提升生活质量方面发挥了关键作用。从我们在该州建立和扩展运营开始，到我们卓越与创新中心的开创性工作，Guidance 始终是我们快速发展的催化剂。"
+    },
+    {
+      "name": "Rivji Kawashima",
+      "profession": "雅马哈集团副董事总经理",
+      "image": "/testimonial/rijvi.png",
+      "description": "我坚信泰米尔纳德邦是在印度开展业务最具吸引力的州，并推荐日本及其他国家的投资者来此投资。"
+    },
+    {
+      "name": "Sasikumar Gendham",
+      "profession": "Salcomp 董事总经理",
+      "image": "/testimonial/sarathi.png",
+      "description": "泰米尔纳德邦继续成为电子产业的重要目的地，特别是对 Salcomp 而言，这段旅程非常值得。泰米尔纳德邦为我们这样的大型公司提供了非常有利的环境，具备完善的供应链通道和数以千计的员工资源。最重要的是，从政策制定者那里获得的广泛及时支持，以及 Guidance 团队在投资过程中的全程协助，值得特别赞扬。"
+    },
+    {
+      "name": "S. Sarathi JMD",
+      "profession": "Mando Automotive 公司副董事总经理",
+      "image": "/testimonial/sasikumar.png",
+      "description": "感谢 Guidance Tamil Nadu 通过 BizBuddy 快速采取行动，为我们开展企业社会责任活动审批开绿灯。工业指导部门创建的这个平台非常友好，期望更多公司能利用这一独特功能。"
+    },
+    {
+      "name": "Takashi Haga",
+      "profession": "雅马哈音乐印度公司总经理",
+      "image": "/testimonial/takashihaga.png",
+      "description": "钦奈地理位置优越，连接便利，基础设施完善，拥有年轻、有技能、敬业的人才。靠近钦奈市的工业园开发良好，非常适合制造企业开展即插即用型运营。审批流程极其顺畅且迅速，帮助我们按计划建立工厂。感谢 Guidance 局和泰米尔纳德邦政府的大力支持。"
+    }
+  ]
+},
+  "news_section": {
+  "title": "最新消息",
+  "articles": [
+    {
+      "title": "首席部长：计划将泰米尔纳德邦打造成南亚最具吸引力的投资目的地",
+      "description": "首席部长 M·K·斯大林表示，任命经济委员会‘增强了产业界的信心’，同时吸引了全球媒体的关注。\n\n斯大林在周三表示，组建由世界知名经济专家组成的委员会，是使泰米尔纳德邦成为南亚最具吸引力的投资目的地的基本计划。",
+      "image": "/latest-news/cm-statement.png",
+      "link": "#",
+      "tag": "精选"
+    },
+    {
+      "title": "部长：泰米尔纳德邦将成为工业投资的首选目的地",
+      "description": "泰米尔纳德邦将成为吸引工业投资的首选目的地。位于蒂鲁内尔维利区南古内里的经济特区将在未来几天迎来更多工业发展，工业部长坦加姆·坦纳拉苏在南古内里的投资者会议上表示。\n\n马杜赖：首席部长 M·K·斯大林非常关注南泰米尔纳德邦的工业增长，以推动经济稳定。",
+      "image": "/latest-news/minister-statement.png",
+      "link": "#",
+      "tag": "精选"
+    }
+  ],
+  "read_more_button": "阅读更多",
+  "live_tweets_section": {
+    "title": "实时推文",
+    "twitter_handle_url": "https://twitter.com/Guidance_TN",
+    "embed_height": "400"
+  }
+},
+  "footer": {
+    "sections": [
+      {
+        "heading": "关于我们",
+        "links": [
+          "为什么选择泰米尔纳德邦",
+          "Guidance 泰米尔纳德邦",
+          "单一窗口平台",
+          "Biz Buddy",
+          "疫情期间的商业活动",
+          "我们的团队",
+          "中小企业",
+          "职业机会"
+        ]
+      },
+      {
+        "heading": "产业领域",
+        "links": ["产业领域"]
+      },
+      {
+        "heading": "在泰米尔纳德邦开展业务",
+        "links": [
+          "创办企业",
+          "审批清单",
+          "了解审批要求",
+          "出口",
+          "政策与通知",
+          "国家专线"
+        ]
+      },
+      {
+        "heading": "媒体与活动",
+        "links": ["媒体库", "电子通讯", "博客", "Guidance 视频"]
+      },
+      {
+        "heading": "倡议",
+        "links": ["泰米尔纳德 AMHUB", "营商便利", "WorkLabs"]
+      },
+      {
+        "heading": "帮助与支持",
+        "links": ["常见问题", "提交问题", "联系我们"]
+      }
+    ],
+    "bottomLinks": ["隐私政策", "使用条款", "免责声明", "网站地图"],
+    "visitorCount": "访客计数：104281692",
+    "copyright": "© 2025 版权所有",
+    "subscribePlaceholder": "请输入您的邮箱地址",
+    "subscribe": "订阅"
+  }
+}

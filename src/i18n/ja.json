@@ -1,0 +1,1468 @@
+{
+  "hero_section": {
+    "welcome": "ようこそ",
+    "tamilnadu": "タミル・ナードゥ州",
+    "tagline": "繁栄する機会の拠点",
+      "description": "タミル・ナードゥ州は進歩におけるあなたのパートナーであり、国内で最もビジネスに優しい州です。130社以上の世界的なフォーチュン500企業と主要コングロマリットの本拠地です",
+    "cta_button": "タミル・ナードゥ州と提携する",
+    "scroll_down": "下へスクロール"
+  },
+  "statistics_section": {
+    "gdp": "インドGDP第2位の貢献州",
+    "export": "インド輸出第3位の貢献州",
+    "airports": "国際空港4つ、国内空港2つ",
+    "ports": "主要港4つ、小規模港18つ"
+  },
+  "innovate_statistics_section": {
+    "business_friendly": "ビジネスに優しい環境と支援的な政府。",
+    "diverse": "多様な専門知識を持つ人材プール。",
+    "fast_growing": "急成長中の市場へのアクセス。"
+  },
+  "innovation_section": {
+    "invest": "投資する",
+    "innovate": "革新する",
+    "create": "創造する",
+    "overview": "Guidance は、タミル・ナードゥ州政府により任命された投資促進機関です。",
+    "highlights": [
+      "ビジネスに適した環境",
+      "支援的な政府",
+      "豊富な専門知識を持つ多様な人材",
+      "急速に成長する市場へのアクセス"
+    ],
+    "cta_button_1": "今すぐ投資を始める",
+    "cta_button_2": "新規投資家フォーム",
+    "in_tamil_nadu": {
+      "in": "〜で",
+      "location": "タミル・ナードゥ州"
+    }
+  },
+  "shape_section": {
+    "title": "イノベーションが未来を形作る場所",
+    "description": "最先端の研究開発の最前線に立つタミル・ナードゥ州は、進歩と創造性の象徴です。技術の進歩と起業家精神で知られ、優秀な人材を引き寄せ、革新文化を育んでいます。最先端の施設とスタートアップや産業大手が集う活気あるエコシステムにより、インドで最も人気のある投資先となっています。",
+    "cards": [
+      {
+        "title": "最多",
+        "text": "インド国内の工場数"
+      },
+      {
+        "title": "最多",
+        "text_parts": ["年間売上高", "インドにおける熟練労働者"]
+      },
+      {
+        "title": "最多",
+        "text_parts": ["高等教育機関の", "数（インド）"]
+      },
+      {
+        "text": "インド国内での特許出願数",
+        "title_below": "最多"
+      },
+      {
+        "title": "最多",
+        "text_parts": ["女性労働者数", "（インドの工場において）"]
+      },
+      {
+        "title": "最多",
+        "text": "インド国内で稼働中の経済特区（SEZ）数"
+      }
+    ]
+  },
+  "sectors_section": {
+    "title": "産業分野",
+    "sectors": [
+      {
+        "title": "自動車、部品、電気自動車",
+        "stats": {
+          "left": "35%",
+          "leftLabel": "インドの自動車部品生産の割合",
+          "right": "40%",
+          "rightLabel": "インドで販売されるEVのうちタミル・ナードゥ製"
+        },
+        "description": "タミル・ナードゥ州は世界のトップ10の自動車拠点の一つであり、「インドの自動車の首都」として知られています。1955年にチェンナイに設立されたインテグラル・コーチ・ファクトリー（ICF）がこの州の自動車産業の始まりでした。1948年に設立されたアショク・レイランド、1998年にヒュンダイのインド初工場が設立され、自動車分野での地位を確立しました。",
+         "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "プラバカラン A S",
+          "email": "prabakaran@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+         "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+      },
+      {
+        "title": "電子・半導体",
+        "stats": {
+          "left": "30%",
+          "leftLabel": "インドの電子機器輸出の割合",
+          "right": "40%",
+          "rightLabel": "インドのスマートフォン輸出の割合"
+        },
+        "description": "タミル・ナードゥは世界的に有名な自動車拠点の1つであり、「インドの自動車の首都」と呼ばれています。",
+         "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "ラガウ G",
+          "email": "raghauv@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+      },
+      {
+        "title": "繊維、アパレル、産業用繊維",
+        "stats": {
+          "left": "第1位",
+          "leftLabel": "衣料生産において",
+          "right": "第1位",
+          "rightLabel": "綿糸の生産と輸出において"
+        },
+        "description": "「インドの糸のボウル」とも呼ばれるタミル・ナードゥは、紡績、手織り機、パワールーム、加工、ニットウェア、アパレル、縫製などで強力な存在感を示しています。インドの繊維産業への最大の貢献州であり、優れた職人技とユニークな製品で世界的なブランドに供給しています。",
+         "sector_expert": "業界専門家",
+         "speaker": {
+          "name": "ナンダ ゴパル",
+          "email": "nandha@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+      },
+      {
+        "title": "情報技術およびサービス",
+        "stats": {
+          "left": "11%",
+          "leftLabel": "インドのIT投資における割合",
+          "right": "第3位",
+          "rightLabel": "国内ソフトウェア輸出において"
+        },
+        "description": "タミル・ナードゥはITおよびITeS分野においてインドの中で最も早く政策を策定した州の1つです。この早期の取り組みが、革新と成長を促進しました。強固な産業基盤、最先端のインフラ、安定した電力供給、質の高い医療機関、優れた教育機関、そして熟練した人材により、IT分野の拠点としての地位を確立しています。",
+         "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "アルン ジョージ マシュー",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+      },
+      {
+        "title": "再生可能エネルギー",
+        "stats": {
+          "left": "~64GW",
+          "leftLabel": "タミル・ナードゥの風力発電の可能性",
+          "right": "40%",
+          "rightLabel": "インドの再生可能エネルギー製造能力の割合"
+        },
+        "description": "タミル・ナードゥはインドにおける再生可能エネルギー分野のリーダーであり、10,734MW以上の風力容量と大規模な太陽光発電設置を持ちます。エネルギーの約50％は再生可能資源から得られています。国連環境計画（UNEP）との提携や先進的な政策により、グリーン・エネルギーの製造インフラを拡大しています。",
+         "sector_expert": "業界専門家",
+         "speaker": {
+          "name": "プラディープ R",
+          "email": "pradeep@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+      },
+      {
+        "title": "サービスおよび研究開発センター",
+        "stats": {
+          "left": "250+",
+          "leftLabel": "タミル・ナードゥにあるグローバル・キャパビリティ・センター数",
+          "right": "750+",
+          "rightLabel": "研究開発機関の数"
+        },
+        "description": "タミル・ナードゥはインドにおけるグローバル・キャパビリティ・センター（GCC）とR&Dの主要拠点となっており、250以上のGCCが存在します。SaaSの首都であるチェンナイは、インド全体のGCCの約10％を占めています。州の熟練した労働力、インフラ、企業に優しい政策により、革新と技術の中心地としての評価を得ています。",
+         "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "アルン ジョージ マシュー",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+      },
+      {
+        "title": "航空宇宙・防衛",
+        "stats": {
+          "left": "第2位",
+          "leftLabel": "インドで2番目の衛星打上センター（クーラセカラパッティナム）",
+          "right": "専用",
+          "rightLabel": "航空宇宙・宇宙・防衛産業向け工業団地"
+        },
+        "description": "チョーラ王朝の強大な海軍からインド陸軍最古の歩兵連隊まで、タミル・ナードゥは古くから軍事の中心地でした。1910年にはジャコモ・ダンジェリスによるアジア初の複葉機試験飛行が行われ、1930年代にはマドラス・フライングクラブが設立されました。さらに、インド空軍初期の第6飛行隊がティルチラパッリに配備されました。現在は国防工業回廊として指定されており、民間の宇宙分野投資にも新たな機会が開かれています。",
+         "sector_expert": "業界専門家",
+         "speaker": {
+          "name": "デバシス ダッシュ",
+          "email": "debasis@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+      },
+      {
+        "title": "消費財、食品加工、農業関連ビジネス",
+        "stats": {
+          "left": "1,000万トン",
+          "leftLabel": "穀物生産量",
+          "right": "第2位",
+          "rightLabel": "食品加工ユニット数において"
+        },
+        "description": "多様な農業・地理的条件を持つタミル・ナードゥは、インドの農業・食品加工分野で重要な位置を占めています。約24,000の中小企業と1,100の中・大規模事業が活動しており、豊富な農業資源、増加する需要、輸出市場へのアクセスにより、大きな競争力を持っています。",
+         "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "トリシャ センティル クマール",
+          "email": "trishya@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+      },
+      {
+      "title": "皮革および履物",
+      "stats": {
+        "left": "29%",
+        "leftLabel": "インドの履物製造の割合",
+        "right": "48%",
+        "rightLabel": "インドの革・非革靴の輸出割合"
+      },
+      "description": "タミル・ナードゥは、伝統的な革工芸が深く根付いた地域であり、インドで最大の革製品生産州です。インド全体のなめし処理能力の60％以上を有し、1,650社以上の企業が活動しています。また、非革製履物の分野にも積極的に進出しており、持続可能なファッションの先駆者となっています。",
+       "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "プラディープ R",
+          "email": "pradeep@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+    },
+    {
+      "title": "エンジニアリングおよび資本財",
+      "stats": {
+        "left": "$400億超",
+        "leftLabel": "資本財生産額",
+        "right": "第2位",
+        "rightLabel": "機械・重工業輸出において"
+      },
+      "description": "タミル・ナードゥは精密工学、重機械、油圧製造のグローバル製造ハブとして機能しており、インドの産業基盤を強化し、経済成長を支える重要な役割を担っています。",
+       "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "ヴァラダラジ S",
+          "email": "Varadharaj@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+    },
+    {
+      "title": "工業団地",
+      "stats": {
+        "left": "最多",
+        "leftLabel": "インドでの工場数",
+        "right": "最多",
+        "rightLabel": "稼働中の経済特区(SEZ)数"
+      },
+      "description": "タミル・ナードゥは、インドで事業を展開しようとする企業にとって理想的な目的地です。自動車、電子、IT、繊維、航空宇宙、食品加工など各分野ごとに専用の産業クラスターを備えており、広大な産業用地と優れたインフラにより、共同事業、プラグアンドプレイ型、ブラウンフィールド投資など多様な機会を提供しています。",
+       "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "ナンダ ゴパル",
+          "email": "nandha@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+    },
+    {
+      "title": "ライフサイエンス",
+      "stats": {
+        "left": "2.8%",
+        "leftLabel": "ライフサイエンス分野における国内生産比率",
+        "right": "第5位",
+        "rightLabel": "製薬製造規模において"
+      },
+      "description": "タミル・ナードゥは1978年にインド初の製薬パークを設立し、医療インフラ整備の先駆けとなりました。現在では、製薬・医療機器業界の世界的企業が数多く進出しており、医療エレクトロニクス分野でも2桁成長を達成するなど、ライフサイエンス製造分野での革新と成長が続いています。",
+       "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "アーシュライ アルン",
+          "email": "aashrai@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+    },
+    {
+      "title": "銀行・金融サービス",
+      "stats": {
+        "left": "60%",
+        "leftLabel": "フォーチュンBFSI企業の進出率",
+        "right": "100+",
+        "rightLabel": "フィンテック・スタートアップ数"
+      },
+      "description": "1682年に設立されたマドラス銀行以来、タミル・ナードゥは金融サービス分野で重要な役割を果たしてきました。現在では、インド国内のBFSI（銀行・金融サービス・保険）系グローバル・キャパビリティ・センターの約15%がこの州に集中しており、世界的なフィンテック・ハブへの進化が進んでいます。",
+       "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "アルン ジョージ マシュー",
+          "email": "arun@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+    },
+    {
+      "title": "化学および石油化学",
+      "stats": {
+        "left": "2,600+",
+        "leftLabel": "化学製造ユニット数",
+        "right": "$34億",
+        "rightLabel": "化学および関連製品の輸出額（2023–24年度）"
+      },
+      "description": "タミル・ナードゥの化学および石油化学産業は、州の産業成長と経済発展に大きく貢献しています。石油化学、製薬、農薬、特殊化学品、繊維用化学品など幅広いサブセクターを含み、戦略的な立地、ビジネスに優しい環境、熟練労働力により、インドの主要な化学ハブの1つとなっています。",
+       "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "ラガウ G",
+          "email": "raghauv@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+    },
+    {
+      "title": "観光およびホスピタリティ",
+      "stats": {
+        "left": "2億人超",
+        "leftLabel": "年間国内観光客数",
+        "right": "400万人超",
+        "rightLabel": "年間外国人観光客数"
+      },
+      "description": "タミル・ナードゥは世界最古の文明の一つの故郷であり、地理・文化・歴史の多様性に富んだ州です。壮麗な寺院建築、伝統芸能、海岸線、緑豊かな自然、料理、工芸、そして温かな人々のもてなしが観光資源となっています。医療ツーリズムや産業の発展と相まって、国際的なホスピタリティ・ブランドにとっても魅力的な投資先となっています。",
+       "sector_expert": "業界専門家",
+        "speaker": {
+          "name": "プラバカラン A S",
+          "email": "prabakaran@investtn.in",
+          "image": "/images/speakers/prabakaran.jpg"
+        },
+        "sector_btn": "この分野の詳細を見る",
+        "sector_link": "#",
+        "sector_image": "https://www.shutterstock.com/image-photo/rearview-car-parked-luxury-showroom-dealership-2477240993"
+ 
+    }
+    ]
+  },
+   "map_section": {
+        "title": "タミル・ナードゥ州を探索",
+        "description": "タミル・ナードゥ州のビジネスへの取り組みにより、接続性、水、電力、通信分野で強固な公共インフラが整備されました。これにより、供給網や流通経路が確保され、人間的および社会的資本が、急速に進化する経済情勢に合わせて発展しました。",
+        "explore_district_btn": "探索する",
+        "view_all_btn": "すべての地区を見る",
+        "district_btn": "地区",
+        "airports_btn": "空港",
+        "seaports_btn": "港",
+        "highways_btn": "高速道路",
+        "industries_btn": "産業",
+        "telecom_btn": "通信",
+
+        "districts": {
+            "Krishnagiri": {
+                "title": "クリシュナギリ",
+                "description": "クリシュナギリの経済は、成長著しい自動車産業によって支えられています。絵のように美しい丘に囲まれ、ヴェッロール、ティルヴァンナマライ、カルナータカ州、アーンドラ・プラデーシュ州と接し、バンガロールに近い戦略的な立地がホスールの急速な産業成長を後押ししています。",
+                "stats": {
+                    "面積": "5143 平方キロメートル",
+                    "人口": "18,83,731",
+                    "識字率": "71.46%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "ベンガルール国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とトゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "クリシュナギリ駅とベンガルール駅"
+                    }
+                ]
+            },
+            "Nilgiris": {
+                "title": "ニルギリス",
+                "description": "「丘の女王」と呼ばれるニルギリは、観光の楽園であり、先住民族の人々が暮らす場所でもあります。経済は園芸作物—ジャガイモ、紅茶、コーヒー、香辛料、果物—と、紅茶・コーヒー・コショウの加工施設に依存しています。",
+                "stats": {
+                    "面積": "2452.5 平方キロメートル",
+                    "人口": "7,35,394",
+                    "識字率": "85.2%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "コインバトール国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とトゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ウダガマンダラム駅とコインバトール駅"
+                    }
+                ]
+            },
+            "Virudhunagar": {
+                "title": "ヴィルドゥナガル",
+                "description": "ヴィルドゥナガルは、産業と農業の主要な物流拠点として機能し、インドのマッチと花火の70%以上を生産しています。複数の地区とケーララ州に接しており、マッチ、花火、印刷の分野でトップです。綿花は主要作物であり、ラージャパラヤムは紡績・綿繰り工場の中心地です。",
+                "stats": {
+                    "面積": "4288 平方キロメートル",
+                    "人口": "19,42,288",
+                    "識字率": "80.15%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "マドゥライ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ヴィルドゥナガル駅とマドゥライ駅"
+                    }
+                ]
+            },
+            "Kanyakumari": {
+                "title": "カンニヤークマリ",
+  "description": "インド最南端のカンニャクマリは、識字率と人間開発指数でタミル・ナードゥ州をリードし、人口密度では2位に位置しています。ティルネルヴェリ、ケーララ州、そして3つの水域に囲まれたその独特な地理と豊かな文化は、観光地としての魅力を高めています。",
+                "stats": {
+                    "面積": "1672 平方キロメートル",
+                    "人口": "18,70,374",
+                    "識字率": "91.75%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "ティルヴァナンタプラム国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "カンニヤークマリ駅"
+                    }
+                ]
+            },
+            "Coimbatore": {
+                "title": "コインバトール",
+  "description": "タミル・ナードゥ州で二番目に大きな都市コーヤンブトゥールは、教育と中小企業の拠点であり、州のGDPの7%を占めています。産業、農業、観光の主要な物流拠点として、ニルギリ、イドゥッキ、ケーララとつながっています。ティルプール、エロード、西ガーツ山脈に囲まれ、ポンプとウェットグラインダーの生産でインド一を誇り、「ポンプシティ」という称号を得ています。",
+                "stats": {
+                    "面積": "4723 平方キロメートル",
+                    "人口": "34,58,045",
+                    "識字率": "83.98%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "コインバトール国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とトゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "コインバトール駅"
+                    }
+                ]
+            },
+            "Cuddalore": {
+                "title": "カダルール",
+  "description": "カダロールは沿岸地区で、陶器、カシューナッツ加工、油の生産で知られています。ヴィルップラム、ナガパティナム、ペランバルールと接し、大規模な漁師コミュニティを抱える主要な漁業拠点です。その工業団地には多くの化学、バイオテクノロジー、製薬、肥料関連企業があります。",
+                "stats": {
+                    "面積": "3678 平方キロメートル",
+                    "人口": "26,05,914",
+                    "識字率": "78.04%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "チェンナイ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とカダルール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "カダルール駅"
+                    }
+                ]
+            },
+            "Karur": {
+                "title": "カルール",
+  "description": "カルールはタミル・ナードゥ州の中央に位置し、ナマッカル、ディンディグル、ティルチラーパッリ、エロード、ティルプールの各地区に接しています。住宅用繊維、バス車体製造、紙の生産で知られる産業拠点で、労働力の30％以上が製造業に従事しています。",
+                "stats": {
+                    "面積": "2895.57 平方キロメートル",
+                    "人口": "10,64,493",
+                    "識字率": "75.6%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "コインバトール国際空港とティルチラーパッリ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "カダルール港とトゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "カルール駅"
+                    }
+                ]
+            },
+            "Tiruppur": {
+                "title": "ティルプール",
+"description": "ティルップールはインドの「ニットウェアの首都」と呼ばれ、急速な人口および経済成長を遂げています。世界有数の繊維ハブとして、大手小売業者に衣料品を供給しています。地区はコインバトール、エロード、カルール、ディンディグルと接しています。カーヴェリ川の支流であるノイヤル川が、盛んな編み物と染色産業を支えています。",
+                "stats": {
+                    "面積": "5186.34 平方キロメートル",
+                    "人口": "24,79,052",
+                    "識字率": "78.68%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "コインバトール国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とトゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ティルプール駅"
+                    }
+                ]
+            },
+            "Nagapattinam": {
+                "title": "ナガパッティナム",
+"description": "ナガパッティナムは、タミル・ナードゥ州の沿岸地域で、漁業、観光、農業で栄えています。ベンガル湾、パルク海峡、ティルヴァールール、ポンディシェリに接し、かつては東方諸国との歴史的な貿易拠点でした。ポワン・カリメールから広がるヴェーダラニヤムの塩湿地は、州内で最も長いものです。",
+                "stats": {
+                    "面積": "2715.83 平方キロメートル",
+                    "人口": "16,16,450",
+                    "識字率": "83.59%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "ティルチラーパッリ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "カダルール港とトゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ナガパッティナム駅"
+                    }
+                ]
+            },
+            "Theni": {
+                "title": "テニ",
+"description": "テーニーは「カルダモンシティ」として知られ、カルダモン取引の主要拠点です。ディンディグル、マドゥライ、ヴィルドゥナガル、ケーララと接しています。繊維産業が盛んで、重要なブドウ産地であるクンバム渓谷があります。",
+                "stats": {
+                    "面積": "3066 平方キロメートル",
+                    "人口": "12,45,899",
+                    "識字率": "77.26%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "マドゥライ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ボディナーヤッカヌール駅とマドゥライ駅"
+                    }
+                ]
+            },
+            "Tirunelveli": {
+                "title": "ティルネルヴェリ",
+"description": "ティルネルヴェリはタミル・ナードゥ州で特有の地域で、西ガーツ山脈から海岸まで広がり、滝や野生動物保護区があります。タミラパラニ川が地域を支え、ガンガコンダンのELCOT ITパークがサービス業を後押ししています。石灰岩の埋蔵によりセメント産業が盛んです。ケーララ州、マンナール湾、ヴィルドゥナガル、トゥティコリン、カンニヤークマリ各地区と接しています。",
+                "stats": {
+                    "面積": "3842.37 平方キロメートル",
+                    "人口": "16,65,253",
+                    "識字率": "82.5%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "トゥートゥクディ国内空港とマドゥライ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ティルネルヴェリ駅"
+                    }
+                ]
+            },
+            "Kallakurichi": {
+                "title": "カッラークリチ",
+"description": "カッラクリチは「農業のふるさと」であり、米の加工の中心地です。ヴィルップラム、クッダロール＆ペラムバルール、セーラム、ティルバンナマライ＆ダルマプリに隣接しています。主要な産業は繊維、宝飾品、農業用飼料です。",
+                "stats": {
+                    "面積": "3520.37 平方キロメートル",
+                    "人口": "13,70,281",
+                    "識字率": "63.49%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "チェンナイ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とカダルール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "チンナセーラム駅"
+                    }
+                ]
+            },
+            "Pudukottai": {
+                "title": "プドゥコッタイ",
+"description": "プドゥコッタイはかつての王国で、砦や寺院、洞窟壁画など豊かな文化遺産を誇ります。ベンガル湾、トリチー、シヴァガンガイ、ラーマナータプラム、タンジャヴールに接し、豊富な天然資源があります。マチュヴァディ、マトゥール、ヴァッラヌールに工業団地があります。",
+                "stats": {
+                    "面積": "4663 平方キロメートル",
+                    "人口": "16,18,345",
+                    "識字率": "77.19%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "ティルチラーパッリ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "カダルール港とトゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "プドゥコッタイ駅"
+                    }
+                ]
+            },
+            "Sivagangai": {
+                "title": "シヴァンガイ",
+"description": "シヴァガンガイはスパイシーなチェッティナード料理で有名です。黒い土壌は主な生計である農業を支えています。産業には砂糖工場や再生可能エネルギー農場が含まれます。地区はプドゥコッタイ、ティルチラパッリ、ラーマナータプラム、ヴィルドゥヌガル、マドゥライと接しています。",
+                "stats": {
+                    "面積": "4086 平方キロメートル",
+                    "人口": "13,39,101",
+                    "識字率": "79.85%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "マドゥライ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "シヴァンガイ駅とマドゥライ駅"
+                    }
+                ]
+            },
+            "Namakkal": {
+                "title": "ナマッカル",
+"description": "ナマッカルはインドの「輸送都市」として知られており、国の物流に不可欠なトラックボディ製造業で有名です。セーラム、カルール、トリチ、エロードに隣接し、南インドで主要な卵の生産地でもあります。",
+                "stats": {
+                    "面積": "3368.21 平方キロメートル",
+                    "人口": "17,26,601",
+                    "識字率": "74.63%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "セーラム国内空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "カダルール港とトゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ナマッカル駅"
+                    }
+                ]
+            },
+            "Perambalur": {
+                "title": "ペーランバルール",
+"description": "ペラムバルルは内陸の地区で、4億1600万年前の海洋化石が含まれています。カッラクリチ、ティルチラッパリ、アリヤルール、セーラムに隣接しています。タミル・ナードゥ州でトウモロコシとタマネギの生産で首位を占めています。TANSIDCOの工業団地には主要な製造拠点があります。",
+                "stats": {
+                    "面積": "1757 平方キロメートル",
+                    "人口": "5,65,223",
+                    "識字率": "74.32%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "セーラム国内空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とカダルール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "アーリヤールール駅"
+                    }
+                ]
+            },
+            "Thanjavur": {
+                "title": "タンジャーヴール",
+"description": "タンジャブールは「南インドの穀倉地帯」として知られ、コロルーン川、ティルヴァルール、パルク海峡、プドゥコッタイに接しています。タンジャブール人形、絵画、楽器などの農村工芸で有名で、世界的に需要があります。",
+                "stats": {
+                    "面積": "3396.57 平方キロメートル",
+                    "人口": "24,05,890",
+                    "識字率": "82.64%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "ティルチラーパッリ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "カダルール港とトゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "タンジャーヴール駅"
+                    }
+                ]
+            },
+            "Ariyalur": {
+                "title": "アーリヤールール",
+"description": "アリヤルールは石灰岩や頁岩などの鉱物が豊富で、セメント産業の中心地です。カッダロール、タンジャブール、ペランバルール、マイラードゥトゥライに隣接しています。労働力の59％が農業に従事しています。産業団地には多くの食品加工工場があります。",
+                "stats": {
+                    "面積": "1940 平方キロメートル",
+                    "人口": "7,54,894",
+                    "識字率": "71.34%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "ティルチラーパッリ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とカダルール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "アーリヤールール駅"
+                    }
+                ]
+            },
+            "Viluppuram": {
+                "title": "ヴィルップラム",
+"description": "ヴィルップラムは「タミルナードゥのシュガーボウル」と呼ばれ、米や砂糖の製粉業などの農業産業が盛んです。州最大の290万人の農村住民を擁し、ベンガル湾、プドゥチェリー、カンチープラム、クッダロール、ダルマプリに隣接しています。近くのオーロヴィルは、5,000人の地元住民を雇用する170の社会企業がある実験的な自治都市です。",
+                "stats": {
+                    "面積": "3725.54 平方キロメートル",
+                    "人口": "34,58,873",
+                    "識字率": "71.88%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "チェンナイ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とカダルール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ヴィルップラム駅"
+                    }
+                ]
+            },
+            "Chengalpattu": {
+                "title": "チェンガルパットゥ",
+"description": "チェンガルパトゥはタミル・ナードゥ州の北東海岸に新たに設置された地区で、自然美が自慢です。チェンナイ、カンチープラム、ティルヴァンナマライ、ヴィルップラムに隣接し、州内で2番目に大きな湖であるマドゥランタカム（約2,400エーカー）や象徴的なマハーバリプラム海岸寺院があります。また、オールドマハーバリプラムロード沿いのIT回廊には大手テック企業が集まり、自動車製造の拠点も盛んです。",
+                "stats": {
+                    "面積": "2944.96 平方キロメートル",
+                    "人口": "25,56,244",
+                    "識字率": "91.88%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "チェンナイ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とエンノール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "チェンガルパットゥ駅"
+                    }
+                ]
+            },
+            "Thiruvallur": {
+                "title": "ティルヴァルール",
+"description": "ティルヴァルールは産業的に重要で、カンチプラム、ラニペット、チェンナイ、アンドラプラデーシュに隣接しています。主要工場、エンノール火力発電所、アヴァディ戦車工場、学術機関、寺院があり、戦略的価値を高めています。",
+                "stats": {
+                    "面積": "3422.43 平方キロメートル",
+                    "人口": "37,28,104",
+                    "識字率": "84.03%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "チェンナイ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とエンノール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ティルヴァルール駅"
+                    }
+                ]
+            },
+            "Tenkasi": {
+                "title": "テンカシ",
+"description": "テンカシにはコータラムの滝があり、北はヴィルドゥヌガル、東はトゥトゥクディ、南はティルネルヴェリ、西はケララに隣接しています。南タミルナードゥの養蚕業、コイヤー産業、重要な霊場で知られています。",
+                "stats": {
+                    "面積": "2916.13 平方キロメートル",
+                    "人口": "14,07,627",
+                    "識字率": "87.71%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "トゥートゥクディ国内空港とマドゥライ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "テンカシ駅とティルネルヴェリ駅"
+                    }
+                ]
+            },
+            "Chennai": {
+                "title": "チェンナイ",
+"description": "チェンナイはタミル・ナードゥ州の州都で、インドで4番目に大きな大都市です。南東海岸の主要な工業・商業の中心地で、豊かな文化と堅実な経済が融合しています。主要産業：自動車、SaaS、医療観光、ハードウェア、データセンター、フィンテック。",
+                "stats": {
+                    "面積": "178.2 平方キロメートル",
+                    "人口": "46,46,732",
+                    "識字率": "90.18%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "チェンナイ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港とエンノール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "チェンナイ中央駅"
+                    }
+                ]
+            },
+            "Madurai": {
+                "title": "マドゥライ",
+"description": "マドゥライは古代の南インドの都市で、タミル・ナードゥ州で面積で2番目、人口で3番目に大きいです。産業と観光が盛んな中心地で、ディンディグル、ティルチラパリ、シヴァガンガイ、テニ、ヴィルドゥナガルに接しています。地区は高度に都市化されており、繊維、食品加工、ゴム産業、教育に基づく繁栄する経済を持っています。",
+                "stats": {
+                    "面積": "3741.73 平方キロメートル",
+                    "人口": "30,38,252",
+                    "識字率": "83.45%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "マドゥライ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "マドゥライ駅"
+                    }
+                ]
+            },
+            "Salem": {
+                "title": "セーラム",
+"description": "セーラムは地質学者の楽園で、丘に囲まれ、小さな丘が点在しています。ダルマプリ、エローデ、ナマッカル、カッラクリチ、ペランバルールの各地区に隣接しています。縄作りと夏のリゾート地ヤーカウドで知られ、そのマンゴーは非常に高く評価されています。",
+                "stats": {
+                    "面積": "5245 平方キロメートル",
+                    "人口": "34,82,056",
+                    "識字率": "72.86%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "セーラム国内空港とコインバトール国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "トゥートゥクディ港とチェンナイ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "セーラム駅"
+                    }
+                ]
+            },
+            "Erode": {
+                "title": "エロード",
+"description": "エローデはタミル・ナードゥ州のコング地方の一部で、手織り、パワールーム、既製服の織物製品、乳製品、ウコンで知られる工業の中心地です。カルナータカ州、ウダガマンダラム、コインバトール、ティルプル、カルール、ナマッカル、セーラムの各地区に隣接しています。",
+                "stats": {
+                    "面積": "5722 平方キロメートル",
+                    "人口": "22,51,744",
+                    "識字率": "72.58%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "コインバトール国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港 & カダロール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "エロード鉄道駅"
+                    }
+                ]
+            },
+            "Dindugal": {
+                "title": "ディンディガル",
+"description": "ディンデュガルは安全ロック、革なめし工場、繊維紡績、農業取引で知られています。ティルプル、カルール、ティルチ、マドゥライ、テニ、ケララ州イドゥッキと隣接しています。チンナラパッティの織工は有名なスングディシルクサリーを生産し、人気のある丘のリゾート地コダイカナルも地区内にあります。",
+                "stats": {
+                    "面積": "6266.64 平方キロメートル",
+                    "人口": "21,59,775",
+                    "識字率": "76.26%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "マドゥライ国際空港 & ティルチラッパリ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "カダロール港 & トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ディンディガル鉄道駅"
+                    }
+                ]
+            },
+            "Tiruchirapalli": {
+                "title": "ティルチラッパリ",
+"description": "ティルチラッパリは歴史的、文化的、経済的に重要な地域です。防衛工業回廊の主要拠点であり、BHEL、ヘビーアロイペネトレータープロジェクト、兵器工場などの主要公営企業が所在します。NIT、IIM、IIITといった一流機関もあります。セーラム、ナマッカル、ペランバルール、アリヤルール、タンジャブール、プドゥコッタイ、カルールと隣接しています。",
+                "stats": {
+                    "面積": "4407 平方キロメートル",
+                    "人口": "27,22,290",
+                    "識字率": "83.23%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "ティルチラッパリ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港 & カダロール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ティルチラッパリ鉄道駅"
+                    }
+                ]
+            },
+            "Thiruvarur": {
+                "title": "ティルヴァルール",
+"description": "ティルヴァルールはかつてチョーラ帝国の首都であり、タミル・ナードゥ州の肥沃な米作地帯に位置します。地区は東にナガパッティナム、北にマイラドゥトゥライ、西にタンジャヴール、南にパルク海峡、北東にプドゥチェリーのカライカルと接しています。産業は主に農業に基づいており、近年は天然ガス採取と発電が成長しています。",
+                "stats": {
+                    "面積": "2161 平方キロメートル",
+                    "人口": "12,64,277",
+                    "識字率": "82.86%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "ティルチラッパリ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "カダロール港 & トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ティルヴァルール鉄道駅"
+                    }
+                ]
+            },
+            "Mayiladuthurai": {
+                "title": "マイラドゥトゥライ",
+"description": "マイラドゥトゥライは2020年にナガパッティナムから分割され、カダラ、タンジャヴール、カライカル、ティルヴァルール、ベンガル湾に隣接しています。この沿岸地域は漁業と農業が盛んで、タランガンバディのオランダの遺産を保存しています。また、宗教的な巡礼路には重要なヒンドゥー教寺院が点在しています。",
+                "stats": {
+                    "面積": "1172 平方キロメートル",
+                    "人口": "918356",
+                    "識字率": "78.78%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "ティルチラッパリ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "カダロール港 & トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "マイラドゥトゥライ鉄道駅"
+                    }
+                ]
+            },
+            "Vellore": {
+                "title": "ヴェロール",
+"description": "ヴェッロールは主要な工業拠点であり、皮革産業と歴史的な要塞で有名です。地区内にはジャヴァドゥ丘陵があり、高い識字率と強力な教育システムを誇ります。ティルヴァルル、カンチプラム、ティルヴァンナマライ、クリシュナギリ、アンドラプラデーシュと隣接しています。",
+                "stats": {
+                    "面積": "2080.11 平方キロメートル",
+                    "人口": "16,14,242",
+                    "識字率": "79.17%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "チェンナイ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港 & カダロール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ヴェロール鉄道駅"
+                    }
+                ]
+            },
+            "Ranipet": {
+                "title": "ラニペット",
+"description": "ラニペットは南インドの主要な工業中心地で、ヴェッロール、カンチプラム、ティルヴァンナマライ、ティルヴァルルの各地区と接しています。この地域は革製品の製造に特化しており、輸出品質の完成革、履物、衣料品を生産し、化学工場や工具製造工場もあります。",
+                "stats": {
+                    "面積": "2234.32 平方キロメートル",
+                    "人口": "12,10,277",
+                    "識字率": "86.08%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "チェンナイ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港 & カダロール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ラニペット鉄道駅"
+                    }
+                ]
+            },
+            "Tirupattur": {
+                "title": "ティルパットゥール",
+"description": "ティルパットゥルはダール、ジャグリー、唐辛子、綿、農産物の取引で商業の中心地として栄えています。ヴェッロール、クリシュナギリ、ダルマプリ、ティルヴァンナマライと接し、ヴァニヤンバディには米工場とビーディ工場があります。アンブールは工業地帯で、履物や衣料品の皮革輸出を専門としています。",
+                "stats": {
+                    "面積": "1792.92 平方キロメートル",
+                    "人口": "11,11,812",
+                    "識字率": "82.17%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "ベンガルール国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ティルパットゥール鉄道駅 & セーラム鉄道駅"
+                    }
+                ]
+            },
+            "Tiruvannamalai": {
+                "title": "ティルヴァンナマライ",
+"description": "ティルヴァンナマライはタミル・ナードゥ州北部の農業地区で、東はカンチプラム、南はヴィルップラム、西はダルマプリとクリシュナギリ、北はヴェッロールに隣接しています。この地区はアラニシルクサリーの生産で有名で、主要な製造拠点であるチェイヤー工業団地があります。",
+                "stats": {
+                    "面積": "6191 平方キロメートル",
+                    "人口": "24,64,875",
+                    "識字率": "74.21%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "チェンナイ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港 & カダロール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ティルヴァンナマライ鉄道駅"
+                    }
+                ]
+            },
+            "Dharmapuri": {
+                "title": "ダルマプリ",
+"description": "ダルマプリはタミル・ナードゥ州の北西部高原地域に位置し、ティルヴァンナマライ、ヴィルップラム、カルナータカ、クリシュナギリ、セーラムと隣接しています。地区内にはインドのナイアガラとも呼ばれるホゲナッカル滝があり、重要な花崗岩の埋蔵量を誇ります。産業労働力の半数以上が紡績、織物、仕上げなどの繊維生産に従事しています。",
+                "stats": {
+                    "面積": "4497.77 平方キロメートル",
+                    "人口": "5,06,843",
+                    "識字率": "68.54%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "ベンガルール国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港 & カダロール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ダルマプリ鉄道駅"
+                    }
+                ]
+            },
+            "kancheepuram": {
+                "title": "カンチープラム",
+"description": "カンチープラムは「千の寺の町」として知られ、壮大なドラヴィダ建築を誇ります。ベンガル湾、ヴェロール、ティルヴァンナマライ、ティルヴァルル、チェンナイ、ヴィルップラムに接し、国際企業を擁する主要な工業地帯です。高級シルクで有名なカンチープラムのサリーは、インドで最初にGI登録された製品です。",
+                "stats": {
+                    "面積": "1655.94 平方キロメートル",
+                    "人口": "11,66,401",
+                    "識字率": "84.49%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "チェンナイ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "チェンナイ港 & カダロール港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "カンチープラム鉄道駅"
+                    }
+                ]
+            },
+            "Ramanathapuram": {
+                "title": "ラーマナータプラム",
+"description": "ラーマナータプラムはタミルナードゥ州の著名な巡礼地であり、象徴的なパンバン橋とスリランカに繋がる島々の連なりがあります。地区はヴィルドゥナガル、トゥティコリン、シヴァガンガイ、プドゥコッタイと隣接し、大手国営石油・ガス施設が立地しています。また、先住民の高輸出チリペッパーでも知られています。",
+                "stats": {
+                    "面積": "4068.31 平方キロメートル",
+                    "人口": "13,53,445",
+                    "識字率": "80.72%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "マドゥライ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "ラーマナータプラム鉄道駅"
+                    }
+                ]
+            },
+            "Thoothukudi": {
+                "title": "トゥートゥクディ",
+"description": "トゥートゥクディはタミル・ナードゥ州で最も工業化された南部の地区で、歴史的な真珠漁で「パールシティ」と呼ばれています。ヴィルドゥナガル（北）、ティルネルヴェリ（南／西）、ベンガル湾（東）に囲まれ、V.O.チダンバラナール港を持つ重要な海上ハブです。インド初の国産海運会社、スワデシ蒸気航行会社の本拠地でもありました。",
+                "stats": {
+                    "面積": "4621 平方キロメートル",
+                    "人口": "17,50,176",
+                    "識字率": "86.16%"
+                },
+                "icons": [
+                    {
+                        "src": "/icons/map-airport.svg",
+                        "label": "トゥートゥクディ国内空港 & マドゥライ国際空港"
+                    },
+                    {
+                        "src": "/icons/map-seaport.svg",
+                        "label": "トゥートゥクディ港"
+                    },
+                    {
+                        "src": "/icons/map-railway.svg",
+                        "label": "トゥートゥクディ鉄道駅"
+                    }
+                ]
+            }
+        },
+        "airports": {
+            "title": "空港",
+            "description": "タミル・ナードゥには、経済と観光の成長を支える複数の国際空港と国内空港があります。",
+            "highlights": [
+                "チェンナイ国際空港は南インドで最も忙しい空港の1つです。",
+                "コインバトールとマドゥライ空港は地域および国内の接続を提供します。",
+                "ティルチラッパリ空港は戦略的な貨物ハブとして浮上しています。"
+            ]
+        },
+        "seaports": {
+            "title": "海港",
+            "description": "タミル・ナードゥの海岸線には、国際貿易と物流を支える主要な港があります。",
+            "highlights": [
+                "チェンナイ港はインドで最も古く、最も活発な港の1つです。",
+                "トゥーティコリン港はバルク貨物を効率的に処理します。",
+                "カマラジャール港（エンノール）は石炭と自動車の取り扱いを専門としています。"
+            ]
+        },
+        "highways": {
+            "title": "高速道路",
+            "description": "広範な国道ネットワークがタミル・ナードゥ全体の接続性を向上させています。",
+            "highlights": [
+                "NH 44はマドゥライを通るインドで最も長い高速道路です。",
+                "ゴールデン・クアドリラテラル・プロジェクトは主要な産業ルートを統合します。",
+                "GST道路はチェンナイ市と南部地区を結びます。"
+            ]
+        },
+        "industries": {
+            "title": "産業",
+            "description": "この州は、製造、繊維、自動車など多様な産業の本拠地です。",
+            "highlights": [
+                "ホスールとオラガダムは電子機器と自動車生産の主要なハブです。",
+                "イルンガットゥコッタイにはSIPCOTゾーンに多くの国際工場があります。",
+                "ペルンドゥライは農業ベースと繊維産業を支援しています。"
+            ]
+        },
+        "telecom": {
+            "title": "通信 & IT",
+            "description": "ITと通信セクターは、タイデル・パークやマヒンドラ・ワールド・シティなどの特別地域で繁栄しています。",
+            "highlights": [
+                "TCSシルセリはグローバルデリバリーセンターを備えた主要なITハブです。",
+                "チェンガルパットゥのインフォシスキャンパスは大規模な雇用を支援しています。",
+                "タイデル・パークはチェンナイからのIT成長の先駆者です。"
+            ]
+        }
+    },
+  "get_started_section": {
+    "title": "始める",
+    "subtitle": "タミル・ナードゥ州でビジネスを設立・運営するためのリソース",
+    "cards": [
+      {
+        "image": "/get-started/point-1.png",
+        "title": "ビジネスの設立",
+        "description": "法人設立に必要な基本情報と規則"
+      },
+      {
+        "image": "/get-started/point-2.png",
+        "title": "許可の確認",
+        "description": "あなたのビジネスに合わせた許可リスト"
+      },
+      {
+        "image": "/get-started/point-3.png",
+        "title": "ユーザーマニュアル",
+        "description": "全体のプロセスを示す資料"
+      },
+      {
+        "image": "/get-started/point-4.png",
+        "title": "許可リスト",
+        "description": "各部門によって提供される全許可リスト"
+      }
+    ]
+  },
+  "top_investors_section": {
+    "title": "主要投資家"
+  },
+  "cta_section": {
+    "title": "Guidance：あなたの戦略的ビジネスパートナー",
+    "cta_button_text": "今すぐ始める"
+  },
+  "testimonial_section": {
+  "title": "世界のトップ企業がタミル・ナードゥを本拠地とする理由",
+  "testimonials": [
+    {
+      "name": "Dr. Jochen Stallkamp",
+      "profession": "元マネージングディレクター、BMWグループ工場（チェンナイ）",
+      "image": "/testimonial/jockhen.png",
+      "description": "タミル・ナードゥはアクセス性が良く、物流、インフラが非常に整っており、正しいマインドセットと政治環境、活発な政策が整っています。また、優秀で熟練した人材を見つけることができます。"
+    },
+    {
+      "name": "Nishant Ramkutty",
+      "profession": "エグゼクティブディレクター、Niswinfoods（コインバトール）",
+      "image": "/testimonial/nishant.png",
+      "description": "必要な認可を得るためのワンストップ対応は非常に良好でした。彼らは調整、代弁、迅速な承認取得をサポートしてくれました。必要な承認を迅速に得られるよう、タイムリーに介入してくれたことに感謝します。今後もこの良い取り組みが続き、さらに発展することを期待しています。迅速な返答と緊急対応への優先度が明確で、各部門との連携が非常にスムーズかつ効率的でした。"
+    },
+    {
+      "name": "M Ponnuswami",
+      "profession": "会長、Pon Pure Chemicals",
+      "image": "/testimonial/ponnuswami.png",
+      "description": "タミル・ナードゥ州政府は投資誘致に非常に積極的で、時には業界の期待を超える対応をしてくれます。潜在的な投資家とのつながり構築から、既存企業の課題解決まで、非常に迅速です。Guidanceの大きな成功を祈っています。"
+    },
+    {
+      "name": "Ramkumar Ramamoorthy",
+      "profession": "元会長兼マネージングディレクター（Cognizant India）",
+      "image": "/testimonial/ramkumar.png",
+      "description": "過去25年間、Guidance Tamil Naduは、Cognizantが現代ビジネスを設計し、日常生活を改善するための重要な役割を果たしてきました。事業開始から拡張、そして当社の卓越性とイノベーションセンターによる先駆的な取り組みに至るまで、Guidanceは成長加速の触媒でした。"
+    },
+    {
+      "name": "Rivji Kawashima",
+      "profession": "副マネージングディレクター、Yamaha Group",
+      "image": "/testimonial/rijvi.png",
+      "description": "タミル・ナードゥ州はインドでビジネスを始めるには最も魅力的な州だと強く信じており、日本および他国の投資家に推薦します。"
+    },
+    {
+      "name": "Sasikumar Gendham",
+      "profession": "マネージングディレクター、Salcomp",
+      "image": "/testimonial/sarathi.png",
+      "description": "タミル・ナードゥ州は引き続き電子産業の主要拠点であり、Salcompにとっても非常に充実した旅でした。広範なサプライチェーンと数千人規模の人材確保が可能で、大企業にとって非常に有利な環境です。何よりも、政策決定者の迅速で広範囲にわたる支援と、Guidanceチームによる投資前後の継続的なサポートが特筆に値します。"
+    },
+    {
+      "name": "S. Sarathi JMD",
+      "profession": "副マネージングディレクター、Mando Automotive",
+      "image": "/testimonial/sasikumar.png",
+      "description": "Guidance Tamil Nadu に感謝します。BizBuddy を通じた迅速な対応により、CSR 活動の承認が得られました。これは非常にユーザーフレンドリーな仕組みであり、より多くの企業がこのユニークな制度を活用することを期待します。"
+    },
+    {
+      "name": "Takashi Haga",
+      "profession": "代表取締役、Yamaha Music India",
+      "image": "/testimonial/takashihaga.png",
+      "description": "チェンナイは戦略的に優れた立地であり、優れた接続性とインフラが整っており、若くてスキルがあり、献身的な人材を提供してくれます。チェンナイ市近郊の工業団地はよく整備されており、製造業向けのプラグ＆プレイ型の事業展開に最適です。承認プロセスは非常に迅速かつスムーズで、予定通りに工場を設立することができました。Guidance Bureauおよびタミル・ナードゥ政府の素晴らしいサポートに感謝します。"
+    }
+  ]
+},
+  "news_section": {
+  "title": "最新ニュース",
+  "articles": [
+    {
+      "title": "タミル・ナードゥ州を南アジアで最も有望な投資先にする計画：州首相",
+      "description": "M・K・スタリン州首相は、経済評議会の任命により『産業界に自信が生まれた』と述べ、世界的なメディアの注目を集めたと語った。\n\n世界的に著名な経済専門家で構成される評議会の設置は、タミル・ナードゥ州を南アジアで最も魅力的な投資先にするための基本的な計画であると、M・K・スタリン州首相は水曜日に述べた。",
+      "image": "/latest-news/cm-statement.png",
+      "link": "#",
+      "tag": "注目"
+    },
+    {
+      "title": "タミル・ナードゥ州は産業投資の有望な目的地になる：産業大臣",
+      "description": "タミル・ナードゥ州は産業投資を引き付ける有望な目的地として浮上するでしょう。ティルネルヴェリ地区のナングネリにある経済特区は、今後さらに多くの産業開発が進むと見られています。産業大臣タナガム・テナラース氏は、ティルネルヴェリで行われた投資家会議に参加した後、土曜日にこのように述べました。\n\nマドゥライ：M・K・スタリン州首相は、南タミル・ナードゥ地域の安定した経済を促進するために産業成長の達成に強い関心を持っています。",
+      "image": "/latest-news/minister-statement.png",
+      "link": "#",
+      "tag": "注目"
+    }
+  ],
+  "read_more_button": "続きを読む",
+  "live_tweets_section": {
+    "title": "ライブツイート",
+    "twitter_handle_url": "https://twitter.com/Guidance_TN",
+    "embed_height": "400"
+  }
+},
+  "footer": {
+    "sections": [
+      {
+        "heading": "私たちについて",
+        "links": [
+          "なぜタミル・ナードゥなのか",
+          "Guidance タミル・ナードゥ",
+          "ワンストップポータル",
+          "Biz Buddy",
+          "COVID-19期間中のビジネス",
+          "私たちのチーム",
+          "中小企業（MSME）",
+          "採用情報"
+        ]
+      },
+      {
+        "heading": "産業分野",
+        "links": ["産業分野"]
+      },
+      {
+        "heading": "タミル・ナードゥでのビジネス",
+        "links": [
+          "ビジネスを始める",
+          "許可リスト",
+          "必要な許可を確認する",
+          "輸出",
+          "ポリシーと通知",
+          "国別デスク"
+        ]
+      },
+      {
+        "heading": "メディアとイベント",
+        "links": ["メディアギャラリー", "ニュースレター", "ブログ", "Guidance動画"]
+      },
+      {
+        "heading": "取り組み",
+        "links": ["Tamil Nadu AMHUB", "ビジネスしやすさ", "WorkLabs"]
+      },
+      {
+        "heading": "サポート",
+        "links": ["よくある質問", "お問い合わせ", "連絡先"]
+      }
+    ],
+    "bottomLinks": ["プライバシーポリシー", "利用規約", "免責事項", "サイトマップ"],
+    "visitorCount": "訪問者数：104281692",
+    "copyright": "© 2025 All rights reserved",
+    "subscribePlaceholder": "メールアドレスを入力",
+    "subscribe": "購読する"
+  }
+}
