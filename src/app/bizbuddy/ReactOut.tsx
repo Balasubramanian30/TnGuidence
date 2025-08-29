@@ -64,7 +64,7 @@ export default function ReachOut() {
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
                   exit={{ opacity: 0 }}
-                  className="pl-4 pr-6 flex flex-col items-start"
+                  className="pl-4 pr-6 flex flex-col items-start min-w-[220px] md:min-w-[300px] lg:min-w-[350px]"
                 >
                   <h4 className="text-base font-semibold text-[#5E3B83] mb-1">
                     {expert.name}
