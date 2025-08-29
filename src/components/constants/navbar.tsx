@@ -7,6 +7,7 @@ import NavbarMenuModal from './navbar-menu'
 import { useAtom } from 'jotai'
 import { selectedLanguageAtom } from '@/jotai/store'
 import Body from '../text-components/Body'
+import Link from 'next/link';
 
 const languages = [
     { code: 'EN', label: 'English' },
@@ -26,9 +27,9 @@ const Navbar = () => {
 
     return (
         <div className='flex gap-4 justify-between !w-72 h-16 shadow-xl p-2 px-7 items-center !bg-white fixed top-14 rounded-full !z-[99999999]'>
-            <a href="/">
-                <Image width={500} height={500} alt='Tamil Nadu Guidance' src={"/guidance-logo.png"} className='w-44 h-16 cursor-pointer' />
-            </a>
+                <Link href="/">
+                    <Image width={500} height={500} alt='Tamil Nadu Guidance' src={"/guidance-logo.png"} className='w-44 h-16 cursor-pointer' />
+                </Link>
 
             <div className="fixed top-10 right-10">
 
