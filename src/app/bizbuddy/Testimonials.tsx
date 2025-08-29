@@ -24,7 +24,7 @@ export default function TestimonialsSection() {
           </span>
         </SubTitle>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {content.list.map((testimonial: { name: string; image: string; text: string }, index: number) => (
+          {content.list.map((testimonial: { name: string; image: string; position: string; description: string }, index: number) => (
             <motion.div
               key={index}
               initial={{ opacity: 0, y: 40 }}
@@ -46,8 +46,11 @@ export default function TestimonialsSection() {
                   <h4 className="font-semibold text-gray-900 dark:text-white mb-2">
                     {testimonial.name}
                   </h4>
+                  <p className="text-sm text-gray-500 dark:text-gray-400 mb-2">
+                    {testimonial.position}
+                  </p>
                   <p className="text-gray-700 dark:text-gray-300 mb-2">
-                    {testimonial.text}
+                    {testimonial.description}
                   </p>
                 </CardContent>
               </Card>
