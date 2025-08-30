@@ -1,9 +1,7 @@
-// ...existing code...
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { useAtom } from "jotai";
-import { motion, AnimatePresence } from "framer-motion";
 import { selectedLanguageAtom } from "@/jotai/store";
 import { getLanguageContent } from "@/i18n";
 import Body from "@/components/text-components/Body";
@@ -12,7 +10,6 @@ import PrimaryButton from "@/components/constants/primary-button";
 import Title from "@/components/text-components/Title";
 import { AnimatedGridPattern } from "@/components/magicui/animated-grid-pattern";
 import { MorphingText } from "@/components/magicui/morphing-text";
-import { TextReveal } from "@/components/magicui/text-reveal";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 
